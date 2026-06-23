@@ -1,0 +1,10 @@
+{
+  "sites": {
+    "piramal-site-analysis": {
+      "previewOrg": "checksoundar",
+      "previewSite": "piramal-site-analysis",
+      "contentHostUrl": "https://content.da.live/checksoundar/piramal-site-analysis/"
+    }
+  },
+  "type": "da"
+}
