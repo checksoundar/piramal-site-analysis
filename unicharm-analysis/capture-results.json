@@ -1,0 +1,682 @@
+[
+  {
+    "id": "s01",
+    "url": "https://www.unicharm.co.jp/",
+    "brand": "Unicharm Corp",
+    "top": true,
+    "full": true,
+    "error": null,
+    "status": 200,
+    "finalUrl": "https://www.unicharm.co.jp/ja/home.html"
+  },
+  {
+    "id": "s02",
+    "url": "https://www.unicharm.co.jp/ja/cookup/home.html",
+    "brand": "Cook Up",
+    "top": true,
+    "full": true,
+    "error": null,
+    "status": 200,
+    "finalUrl": "https://www.unicharm.co.jp/ja/cookup/home.html"
+  },
+  {
+    "id": "s03",
+    "url": "https://jp.unicharmpet.com/ja/home.html",
+    "brand": "Unicharm Pet",
+    "top": true,
+    "full": true,
+    "error": null,
+    "status": 200,
+    "finalUrl": "https://jp.unicharmpet.com/ja/home.html"
+  },
+  {
+    "id": "s04",
+    "url": "https://jp.moony.com/ja/home.html",
+    "brand": "Moony",
+    "top": true,
+    "full": true,
+    "error": null,
+    "status": 200,
+    "finalUrl": "https://jp.moony.com/ja/home.html"
+  },
+  {
+    "id": "s05",
+    "url": "https://www.mamypoko.jp/ja/home.html",
+    "brand": "MamyPoko",
+    "top": true,
+    "full": true,
+    "error": null,
+    "status": 200,
+    "finalUrl": "https://www.mamypoko.jp/ja/home.html"
+  },
+  {
+    "id": "s06",
+    "url": "https://www.torepanman.jp/ja/home.html",
+    "brand": "Torepanman",
+    "top": true,
+    "full": true,
+    "error": null,
+    "status": 200,
+    "finalUrl": "https://www.torepanman.jp/ja/home.html"
+  },
+  {
+    "id": "s07",
+    "url": "https://www.oyasumiman.jp/ja/home.html",
+    "brand": "Oyasumiman",
+    "top": true,
+    "full": true,
+    "error": null,
+    "status": 200,
+    "finalUrl": "https://www.oyasumiman.jp/ja/home.html"
+  },
+  {
+    "id": "s08",
+    "url": "https://jp.lifree.com/ja/home.html",
+    "brand": "Lifree",
+    "top": true,
+    "full": true,
+    "error": null,
+    "status": 200,
+    "finalUrl": "https://jp.lifree.com/ja/home.html"
+  },
+  {
+    "id": "s09",
+    "url": "https://jp.charmnap.com/ja/home.html",
+    "brand": "Charmnap",
+    "top": true,
+    "full": true,
+    "error": null,
+    "status": 200,
+    "finalUrl": "https://jp.charmnap.com/ja/home.html"
+  },
+  {
+    "id": "s10",
+    "url": "https://jp.unicharm-mask.com/ja/home.html",
+    "brand": "Unicharm Mask",
+    "top": true,
+    "full": true,
+    "error": null,
+    "status": 200,
+    "finalUrl": "https://jp.unicharm-mask.com/ja/home.html"
+  },
+  {
+    "id": "s11",
+    "url": "https://jp.unicharm-wave.com/ja/home.html",
+    "brand": "Unicharm Wave",
+    "top": true,
+    "full": true,
+    "error": null,
+    "status": 200,
+    "finalUrl": "https://jp.unicharm-wave.com/ja/home.html"
+  },
+  {
+    "id": "s12",
+    "url": "https://www.carenavi.jp/ja/home.html",
+    "brand": "Carenavi",
+    "top": true,
+    "full": true,
+    "error": null,
+    "status": 200,
+    "finalUrl": "https://www.carenavi.jp/ja/home.html"
+  },
+  {
+    "id": "s14",
+    "url": "https://jp.sofygirls.com/ja/girls.html",
+    "brand": "Sofy Girls",
+    "top": true,
+    "full": true,
+    "error": null,
+    "status": 200,
+    "finalUrl": "https://jp.sofygirls.com/ja/girls.html"
+  },
+  {
+    "id": "s15",
+    "url": "https://jp.silcot.com/",
+    "brand": "Silcot",
+    "top": true,
+    "full": true,
+    "error": null,
+    "status": 200,
+    "finalUrl": "https://jp.silcot.com/ja/silcotbrand/home.html"
+  },
+  {
+    "id": "s13",
+    "url": "https://www.sofy.jp/ja/home.html",
+    "brand": "Sofy",
+    "top": true,
+    "full": true,
+    "error": null,
+    "status": 200,
+    "finalUrl": "https://www.sofy.jp/ja/home.html"
+  },
+  {
+    "id": "s16",
+    "url": "https://www.sofybe.jp/ja/home.html",
+    "brand": "Sofy Be",
+    "top": true,
+    "full": true,
+    "error": null,
+    "status": 200,
+    "finalUrl": "https://www.sofybe.jp/ja/home.html"
+  },
+  {
+    "id": "s17",
+    "url": "https://www.lifree.com/global.html",
+    "brand": "Lifree Global",
+    "top": true,
+    "full": true,
+    "error": null,
+    "status": 200,
+    "finalUrl": "https://www.lifree.com/global.html"
+  },
+  {
+    "id": "s18",
+    "url": "https://www.sofyclub.com/global.html",
+    "brand": "Sofy Club Global",
+    "top": true,
+    "full": true,
+    "error": null,
+    "status": 200,
+    "finalUrl": "https://www.sofyclub.com/global.html"
+  },
+  {
+    "id": "s19",
+    "url": "https://www.ucc.com.tw/",
+    "brand": "Unicharm TW",
+    "top": true,
+    "full": true,
+    "error": null,
+    "status": 200,
+    "finalUrl": "https://www.unicharm.com.tw/zh-tw/home.html"
+  },
+  {
+    "id": "s20",
+    "url": "https://www.lifefree.com.tw/zh-tw/home.html",
+    "brand": "Lifree TW",
+    "top": true,
+    "full": true,
+    "error": null,
+    "status": 200,
+    "finalUrl": "https://www.lifree.com.tw/zh-tw/home.html"
+  },
+  {
+    "id": "s21",
+    "url": "https://www.unicharmpet.com.tw/zh-tw/home.html",
+    "brand": "Unicharm Pet TW",
+    "top": true,
+    "full": true,
+    "error": null,
+    "status": 200,
+    "finalUrl": "https://www.unicharmpet.com.tw/zh-tw/home.html"
+  },
+  {
+    "id": "s22",
+    "url": "https://www.sofy.com.tw/zh-tw/home.html",
+    "brand": "Sofy TW",
+    "top": true,
+    "full": true,
+    "error": null,
+    "status": 200,
+    "finalUrl": "https://www.sofy.com.tw/zh-tw/home.html"
+  },
+  {
+    "id": "s23",
+    "url": "https://www.silcot.com.tw/",
+    "brand": "Silcot TW",
+    "top": true,
+    "full": true,
+    "error": null,
+    "status": 200,
+    "finalUrl": "https://www.silcot.com.tw/zh-tw/cotton/home.html"
+  },
+  {
+    "id": "s24",
+    "url": "http://www.unicharm.co.th/",
+    "brand": "Unicharm TH",
+    "top": true,
+    "full": true,
+    "error": null,
+    "status": 200,
+    "finalUrl": "https://www.unicharm.co.th/th/home.html"
+  },
+  {
+    "id": "s25",
+    "url": "https://th.lifree.com/th/home.html",
+    "brand": "Lifree TH",
+    "top": true,
+    "full": true,
+    "error": null,
+    "status": 200,
+    "finalUrl": "https://th.lifree.com/th/home.html"
+  },
+  {
+    "id": "s26",
+    "url": "https://th.sofyclub.com/th/home.html",
+    "brand": "Sofy Club TH",
+    "top": true,
+    "full": true,
+    "error": null,
+    "status": 200,
+    "finalUrl": "https://th.sofyclub.com/th/home.html"
+  },
+  {
+    "id": "s28",
+    "url": "https://www.unicharm.co.id/",
+    "brand": "Unicharm ID",
+    "top": true,
+    "full": true,
+    "error": null,
+    "status": 200,
+    "finalUrl": "https://www.unicharm.co.id/id/home.html"
+  },
+  {
+    "id": "s27",
+    "url": "https://th.mamypoko.com/th/home.html",
+    "brand": "MamyPoko TH",
+    "top": true,
+    "full": true,
+    "error": null,
+    "status": 200,
+    "finalUrl": "https://th.mamypoko.com/th/home.html"
+  },
+  {
+    "id": "s29",
+    "url": "https://id.lifree.com/id/home.html",
+    "brand": "Lifree ID",
+    "top": true,
+    "full": true,
+    "error": null,
+    "status": 200,
+    "finalUrl": "https://id.lifree.com/id/home.html"
+  },
+  {
+    "id": "s30",
+    "url": "https://www.charm.co.id/id/home.html",
+    "brand": "Charm ID",
+    "top": true,
+    "full": true,
+    "error": null,
+    "status": 200,
+    "finalUrl": "https://www.charm.co.id/id/home.html"
+  },
+  {
+    "id": "s32",
+    "url": "https://www.unicharm.com.my/",
+    "brand": "Unicharm MY",
+    "top": true,
+    "full": true,
+    "error": null,
+    "status": 200,
+    "finalUrl": "https://www.unicharm.com.my/en/home.html"
+  },
+  {
+    "id": "s31",
+    "url": "https://id.mamypoko.com/id/home.html",
+    "brand": "MamyPoko ID",
+    "top": true,
+    "full": true,
+    "error": null,
+    "status": 200,
+    "finalUrl": "https://id.mamypoko.com/id/home.html"
+  },
+  {
+    "id": "s33",
+    "url": "https://my.lifree.com/en/home.html",
+    "brand": "Lifree MY",
+    "top": true,
+    "full": true,
+    "error": null,
+    "status": 200,
+    "finalUrl": "https://my.lifree.com/en/home.html"
+  },
+  {
+    "id": "s34",
+    "url": "https://my.unicharmpet.com/en/home.html",
+    "brand": "Unicharm Pet MY",
+    "top": true,
+    "full": true,
+    "error": null,
+    "status": 200,
+    "finalUrl": "https://my.unicharmpet.com/en/home.html"
+  },
+  {
+    "id": "s35",
+    "url": "https://my.sofyclub.com/en/home.html",
+    "brand": "Sofy Club MY",
+    "top": true,
+    "full": true,
+    "error": null,
+    "status": 200,
+    "finalUrl": "https://my.sofyclub.com/en/home.html"
+  },
+  {
+    "id": "s37",
+    "url": "https://sg.lifree.com/en/home.html",
+    "brand": "Lifree SG",
+    "top": true,
+    "full": true,
+    "error": null,
+    "status": 200,
+    "finalUrl": "https://sg.lifree.com/en/home.html"
+  },
+  {
+    "id": "s36",
+    "url": "https://my.mamypoko.com/en/home.html",
+    "brand": "MamyPoko MY",
+    "top": true,
+    "full": true,
+    "error": null,
+    "status": 200,
+    "finalUrl": "https://my.mamypoko.com/en/home.html"
+  },
+  {
+    "id": "s38",
+    "url": "https://sg.sofyclub.com/en/home.html",
+    "brand": "Sofy Club SG",
+    "top": true,
+    "full": true,
+    "error": null,
+    "status": 200,
+    "finalUrl": "https://sg.sofyclub.com/en/home.html"
+  },
+  {
+    "id": "s39",
+    "url": "https://sg.mamypoko.com/en/home.html",
+    "brand": "MamyPoko SG",
+    "top": true,
+    "full": true,
+    "error": null,
+    "status": 200,
+    "finalUrl": "https://sg.mamypoko.com/en/home.html"
+  },
+  {
+    "id": "s40",
+    "url": "https://www.unicharm.com.ph/en/home.html",
+    "brand": "Unicharm PH",
+    "top": true,
+    "full": true,
+    "error": null,
+    "status": 200,
+    "finalUrl": "https://www.unicharm.com.ph/en/home.html"
+  },
+  {
+    "id": "s41",
+    "url": "https://ph.mamypoko.com/en/home.html",
+    "brand": "MamyPoko PH",
+    "top": true,
+    "full": true,
+    "error": null,
+    "status": 200,
+    "finalUrl": "https://ph.mamypoko.com/en/home.html"
+  },
+  {
+    "id": "s42",
+    "url": "https://www.unicharm.co.in/",
+    "brand": "Unicharm IN",
+    "top": true,
+    "full": true,
+    "error": null,
+    "status": 200,
+    "finalUrl": "https://www.unicharm.co.in/en/home.html"
+  },
+  {
+    "id": "s43",
+    "url": "https://www.unicharm.vn/",
+    "brand": "Unicharm VN",
+    "top": true,
+    "full": true,
+    "error": null,
+    "status": 200,
+    "finalUrl": "https://www.unicharm.vn/vi/home.html"
+  },
+  {
+    "id": "s44",
+    "url": "https://www.caryn.com.vn/vi/home.html",
+    "brand": "Caryn VN",
+    "top": true,
+    "full": true,
+    "error": null,
+    "status": 200,
+    "finalUrl": "https://www.caryn.com.vn/vi/home.html"
+  },
+  {
+    "id": "s45",
+    "url": "https://www.diana.com.vn/vi/home.html",
+    "brand": "Diana VN",
+    "top": true,
+    "full": true,
+    "error": null,
+    "status": 200,
+    "finalUrl": "https://www.diana.com.vn/vi/home.html"
+  },
+  {
+    "id": "s47",
+    "url": "https://vn.mamypoko.com/vi/home.html",
+    "brand": "MamyPoko VN",
+    "top": true,
+    "full": true,
+    "error": null,
+    "status": 200,
+    "finalUrl": "https://vn.mamypoko.com/vi/home.html"
+  },
+  {
+    "id": "s48",
+    "url": "https://vn.moony.com/vi/home.html",
+    "brand": "Moony VN",
+    "top": true,
+    "full": true,
+    "error": null,
+    "status": 200,
+    "finalUrl": "https://vn.moony.com/vi/home.html"
+  },
+  {
+    "id": "s49",
+    "url": "http://www.unicharm.com.mm/",
+    "brand": "Unicharm MM",
+    "top": true,
+    "full": true,
+    "error": null,
+    "status": 200,
+    "finalUrl": "https://www.unicharm.com.mm/my/home.html"
+  },
+  {
+    "id": "s46",
+    "url": "https://www.bobby.com.vn/vi/home.html",
+    "brand": "Bobby VN",
+    "top": true,
+    "full": true,
+    "error": null,
+    "status": 200,
+    "finalUrl": "https://www.bobby.com.vn/vi/home.html"
+  },
+  {
+    "id": "s50",
+    "url": "https://mm.sofyclub.com/my/home.html",
+    "brand": "Sofy Club MM",
+    "top": true,
+    "full": true,
+    "error": null,
+    "status": 200,
+    "finalUrl": "https://mm.sofyclub.com/my/home.html"
+  },
+  {
+    "id": "s51",
+    "url": "https://mm.mamypoko.com/my/home.html",
+    "brand": "MamyPoko MM",
+    "top": true,
+    "full": true,
+    "error": null,
+    "status": 200,
+    "finalUrl": "https://mm.mamypoko.com/my/home.html"
+  },
+  {
+    "id": "s52",
+    "url": "http://www.unicharm.com.au/",
+    "brand": "Unicharm AU",
+    "top": true,
+    "full": true,
+    "error": null,
+    "status": 200,
+    "finalUrl": "https://www.unicharm.com.au/en/home.html"
+  },
+  {
+    "id": "s53",
+    "url": "http://www.unicharm.com.sa/",
+    "brand": "Unicharm SA",
+    "top": true,
+    "full": true,
+    "error": null,
+    "status": 200,
+    "finalUrl": "https://www.unicharm.com.sa/ar/home.html"
+  },
+  {
+    "id": "s54",
+    "url": "https://sa.sofyclub.com/ar/home.html",
+    "brand": "Sofy Club SA",
+    "top": true,
+    "full": true,
+    "error": null,
+    "status": 200,
+    "finalUrl": "https://sa.sofyclub.com/ar/home.html"
+  },
+  {
+    "id": "s55",
+    "url": "https://www.babyjoy.com.sa/ar/home.html",
+    "brand": "BabyJoy SA",
+    "top": true,
+    "full": true,
+    "error": null,
+    "status": 200,
+    "finalUrl": "https://www.babyjoy.com.sa/ar/home.html"
+  },
+  {
+    "id": "s56",
+    "url": "http://www.unicharm.com.eg/",
+    "brand": "Unicharm EG",
+    "top": true,
+    "full": true,
+    "error": null,
+    "status": 200,
+    "finalUrl": "https://www.unicharm.com.eg/ar/home.html"
+  },
+  {
+    "id": "s59",
+    "url": "https://www.babyjoy.com.eg/ar/home.html",
+    "brand": "BabyJoy EG",
+    "top": false,
+    "full": false,
+    "error": "Error: page.goto: net::ERR_SSL_UNRECOGNIZED_NAME_ALERT at https://www.babyjoy.com.eg/ar/home.html",
+    "status": null,
+    "finalUrl": null
+  },
+  {
+    "id": "s57",
+    "url": "https://eg.sofyclub.com/ar/home.html",
+    "brand": "Sofy Club EG",
+    "top": true,
+    "full": true,
+    "error": null,
+    "status": 200,
+    "finalUrl": "https://eg.sofyclub.com/ar/home.html"
+  },
+  {
+    "id": "s58",
+    "url": "https://eg.sofyclub.com/kenya/home.html",
+    "brand": "Sofy Kenya",
+    "top": true,
+    "full": true,
+    "error": null,
+    "status": 200,
+    "finalUrl": "https://eg.sofyclub.com/kenya/home.html"
+  },
+  {
+    "id": "s61",
+    "url": "https://bh.babyjoyclub.com/ar/home.html",
+    "brand": "BabyJoy BH",
+    "top": true,
+    "full": true,
+    "error": null,
+    "status": 200,
+    "finalUrl": "https://bh.babyjoyclub.com/ar/home.html"
+  },
+  {
+    "id": "s60",
+    "url": "https://ae.babyjoyclub.com/ar/home.html",
+    "brand": "BabyJoy AE",
+    "top": true,
+    "full": true,
+    "error": null,
+    "status": 200,
+    "finalUrl": "https://ae.babyjoyclub.com/ar/home.html"
+  },
+  {
+    "id": "s62",
+    "url": "https://kw.babyjoyclub.com/ar/home.html",
+    "brand": "BabyJoy KW",
+    "top": true,
+    "full": true,
+    "error": null,
+    "status": 200,
+    "finalUrl": "https://kw.babyjoyclub.com/ar/home.html"
+  },
+  {
+    "id": "s63",
+    "url": "https://om.babyjoyclub.com/ar/home.html",
+    "brand": "BabyJoy OM",
+    "top": true,
+    "full": true,
+    "error": null,
+    "status": 200,
+    "finalUrl": "https://om.babyjoyclub.com/ar/home.html"
+  },
+  {
+    "id": "s64",
+    "url": "http://www.unicharm.com.br/",
+    "brand": "Unicharm BR",
+    "top": true,
+    "full": true,
+    "error": null,
+    "status": 200,
+    "finalUrl": "https://www.unicharm.com.br/pt/home.html"
+  },
+  {
+    "id": "s65",
+    "url": "https://br.lifree.com/pt/home.html",
+    "brand": "Lifree BR",
+    "top": true,
+    "full": true,
+    "error": null,
+    "status": 200,
+    "finalUrl": "https://br.lifree.com/pt/home.html"
+  },
+  {
+    "id": "s66",
+    "url": "https://br.mamypoko.com/pt/home.html",
+    "brand": "MamyPoko BR",
+    "top": true,
+    "full": true,
+    "error": null,
+    "status": 200,
+    "finalUrl": "https://br.mamypoko.com/pt/home.html"
+  },
+  {
+    "id": "s67",
+    "url": "https://latam.mamypoko.com/es/home.html",
+    "brand": "MamyPoko LatAm",
+    "top": true,
+    "full": true,
+    "error": null,
+    "status": 200,
+    "finalUrl": "https://latam.mamypoko.com/es/home.html"
+  },
+  {
+    "id": "s68",
+    "url": "https://ru.moony.com/ru/home.html",
+    "brand": "Moony RU",
+    "top": true,
+    "full": true,
+    "error": null,
+    "status": 200,
+    "finalUrl": "https://ru.moony.com/ru/home.html"
+  }
+]
