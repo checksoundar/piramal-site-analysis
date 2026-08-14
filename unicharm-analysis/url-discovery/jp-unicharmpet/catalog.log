@@ -1,0 +1,47 @@
+2026-08-14 03:29:17 | INFO | Redirect (301) → https://jp.unicharmpet.com/ja/home.html
+2026-08-14 03:29:17 | INFO | Checking root page for sitemap-like links...
+2026-08-14 03:29:17 | INFO | Redirect (301) → https://jp.unicharmpet.com/ja/home.html
+2026-08-14 03:29:17 | INFO | Trying sitemap candidates...
+2026-08-14 03:29:17 | INFO | Trying sitemap candidate: https://jp.unicharmpet.com/sitemap.xml
+2026-08-14 03:29:17 | WARNING | HTTP status: 404
+2026-08-14 03:29:17 | INFO | Trying sitemap candidate: https://jp.unicharmpet.com/sitemap.xml.gz
+2026-08-14 03:29:17 | WARNING | HTTP status: 404
+2026-08-14 03:29:17 | INFO | Trying sitemap candidate: https://jp.unicharmpet.com/sitemap_index.xml
+2026-08-14 03:29:18 | WARNING | HTTP status: 404
+2026-08-14 03:29:18 | INFO | Trying sitemap candidate: https://jp.unicharmpet.com/sitemap-index.xml
+2026-08-14 03:29:18 | WARNING | HTTP status: 404
+2026-08-14 03:29:18 | INFO | Trying sitemap candidate: https://jp.unicharmpet.com/sitemap.txt
+2026-08-14 03:29:19 | WARNING | HTTP status: 404
+2026-08-14 03:29:19 | INFO | Checking robots.txt for sitemap references...
+2026-08-14 03:29:19 | INFO | Found 1 sitemap(s) in robots.txt
+2026-08-14 03:29:19 | INFO | Processing 1 unique sitemap(s) from robots.txt...
+2026-08-14 03:29:19 | INFO | [1/1] Fetching sitemap: https://jp.unicharmpet.com/ja/sitemap.xml
+2026-08-14 03:29:19 | INFO | Fetched sitemap successfully (urlset)
+2026-08-14 03:29:19 | INFO | Successfully fetched 1 sitemap(s)
+2026-08-14 03:29:19 | INFO | Fetching sitemap for site root: https://jp.unicharmpet.com
+2026-08-14 03:29:19 | INFO | Processing 1 sitemap(s)...
+2026-08-14 03:29:19 | INFO | [1/1] Processing sitemap: https://jp.unicharmpet.com/ja/sitemap.xml
+2026-08-14 03:29:19 | INFO | Sitemap type: urlset
+2026-08-14 03:29:19 | INFO | Extracted 1305 URLs
+2026-08-14 03:29:19 | INFO | Sitemap fetch complete
+2026-08-14 03:29:19 | INFO | Total sitemaps processed: 1
+2026-08-14 03:29:19 | INFO | Total URLs discovered: 1305
+2026-08-14 03:29:19 | INFO | Sitemap location 1: https://jp.unicharmpet.com/ja/sitemap.xml
+2026-08-14 03:31:07 | INFO | Creating sample URLs...
+2026-08-14 03:31:07 | INFO | Total URLs in grouped data: 1306
+2026-08-14 03:31:07 | INFO | Total URLs (1306) > 1000, sampling with cap of 1000 (full coverage for 50 groups <= 20 URLs, minimum 5 URLs across 10 larger groups)
+2026-08-14 03:31:07 | INFO | Sampled 1000 URLs from 1306 total (cap: 1000)
+2026-08-14 03:31:07 | INFO | Created urls-sample.json with 1000 URLs
+2026-08-14 03:31:07 | INFO | Validating urls-sample.json against schema...
+✅ VALIDATION PASSED: urls-sample.json matches schema
+2026-08-14 03:31:07 | INFO | Schema validation passed
+2026-08-14 03:31:07 | INFO | Sample creation complete - urls-sample.json with 1000 URLs
+2026-08-14 03:31:14 | INFO | Creating sample URLs...
+2026-08-14 03:31:14 | INFO | Total URLs in grouped data: 1306
+2026-08-14 03:31:14 | INFO | Total URLs (1306) > 1000, sampling with cap of 1000 (full coverage for 50 groups <= 20 URLs, minimum 5 URLs across 10 larger groups)
+2026-08-14 03:31:14 | INFO | Sampled 1000 URLs from 1306 total (cap: 1000)
+2026-08-14 03:31:14 | INFO | Created urls-sample.json with 1000 URLs
+2026-08-14 03:31:14 | INFO | Validating urls-sample.json against schema...
+✅ VALIDATION PASSED: urls-sample.json matches schema
+2026-08-14 03:31:14 | INFO | Schema validation passed
+2026-08-14 03:31:14 | INFO | Sample creation complete - urls-sample.json with 1000 URLs
