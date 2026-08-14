@@ -1,0 +1,1825 @@
+{
+  "analysis-urls-grouped": {
+    "captured": "2026-08-14T03:38:54.465Z",
+    "urlGroupings": 54,
+    "locales": {
+      "ja": 370,
+      "en": 143,
+      "unknown": 1
+    },
+    "groups": {
+      "/ja/products/organic/organic_napkin": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://www.sofy.jp/ja/products/organic/organic_napkin/p_day23.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/organic/organic_napkin/p_day23_wing.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/organic/organic_napkin/p_day26_wing.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/organic/organic_napkin/p_night29_wing.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/organic/organic_napkin/p_night36_wing.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/organic/organic_napkin/slim_p_day23_wing.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/organic/organic_napkin/slim_p_night29_wing.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/organic/organic_napkin/slim_p_day17.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/organic/organic_napkin/p_day21_wing.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/organic/organic_napkin/slim_p_day21_wing.html"
+          }
+        ]
+      },
+      "/ja/products/organic/organic_liner": {
+        "confidence": "85%",
+        "urls": [
+          {
+            "url": "https://www.sofy.jp/ja/products/organic/organic_liner/p_nofrag.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/organic/organic_liner/p_sabon.html"
+          }
+        ]
+      },
+      "/ja/products/organic/organic_tampon": {
+        "confidence": "85%",
+        "urls": [
+          {
+            "url": "https://www.sofy.jp/ja/products/organic/organic_tampon/p_regular.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/organic/organic_tampon/p_super.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/organic/organic_tampon/p_superplus.html"
+          }
+        ]
+      },
+      "/ja/products/organic/organic_shorts": {
+        "confidence": "85%",
+        "urls": [
+          {
+            "url": "https://www.sofy.jp/ja/products/organic/organic_shorts/p_organic.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/organic/organic_shorts/p_organic_w.html"
+          }
+        ]
+      },
+      "/ja/check/vdrug": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://www.sofy.jp/ja/check/vdrug/100/organic_hadaomoi.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/check/vdrug/100/hadaomoi.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/check/vdrug/200/syncrofit.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/check/vdrug/200/sports.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/check/vdrug/200/cho-jukusui_odekake_koukan_shorts.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/check/vdrug/300/tampon_softcup.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/check/vdrug/300/cho-jukusui.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/check/vdrug/300/oyasumipremium.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/check/vdrug/300/cho-jukusui_guard.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/check/vdrug/400/kiyora.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/check/vdrug/400/kiyora-zeitaku.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/check/vdrug/400/organic_liner.html"
+          }
+        ]
+      },
+      "/ja/check/sugi": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://www.sofy.jp/ja/check/sugi/100/organic_hadaomoi.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/check/sugi/100/hadaomoi.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/check/sugi/200/syncrofit.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/check/sugi/200/sports.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/check/sugi/200/cho-jukusui_odekake_koukan_shorts.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/check/sugi/300/tampon_softcup.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/check/sugi/300/cho-jukusui.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/check/sugi/300/oyasumipremium.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/check/sugi/300/cho-jukusui_guard.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/check/sugi/400/kiyora.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/check/sugi/400/kiyora-zeitaku.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/check/sugi/400/organic_liner.html"
+          }
+        ]
+      },
+      "/ja/check/tsuruha": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://www.sofy.jp/ja/check/tsuruha/100/organic_hadaomoi.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/check/tsuruha/100/hadaomoi.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/check/tsuruha/200/syncrofit.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/check/tsuruha/200/sports.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/check/tsuruha/200/cho-jukusui_odekake_koukan_shorts.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/check/tsuruha/300/tampon_softcup.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/check/tsuruha/300/cho-jukusui.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/check/tsuruha/300/oyasumipremium.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/check/tsuruha/300/cho-jukusui_guard.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/check/tsuruha/400/kiyora.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/check/tsuruha/400/kiyora-zeitaku.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/check/tsuruha/400/organic_liner.html"
+          }
+        ]
+      },
+      "/ja/check/aoki": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://www.sofy.jp/ja/check/aoki/100/organic_hadaomoi.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/check/aoki/100/hadaomoi.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/check/aoki/200/syncrofit.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/check/aoki/200/sports.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/check/aoki/200/cho-jukusui_odekake_koukan_shorts.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/check/aoki/300/tampon_softcup.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/check/aoki/300/cho-jukusui.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/check/aoki/300/oyasumipremium.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/check/aoki/300/cho-jukusui_guard.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/check/aoki/400/kiyora.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/check/aoki/400/kiyora-zeitaku.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/check/aoki/400/organic_liner.html"
+          }
+        ]
+      },
+      "/ja/check/satudora": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://www.sofy.jp/ja/check/satudora/100/organic_hadaomoi.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/check/satudora/100/hadaomoi.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/check/satudora/200/syncrofit.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/check/satudora/200/sports.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/check/satudora/200/cho-jukusui_odekake_koukan_shorts.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/check/satudora/300/tampon_softcup.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/check/satudora/300/cho-jukusui.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/check/satudora/300/oyasumipremium.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/check/satudora/300/cho-jukusui_guard.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/check/satudora/400/kiyora.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/check/satudora/400/kiyora-zeitaku.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/check/satudora/400/organic_liner.html"
+          }
+        ]
+      },
+      "/en/products/organic/organic_napkin": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://www.sofy.jp/en/products/organic/organic_napkin/p_day23.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/organic/organic_napkin/p_day23_wing.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/organic/organic_napkin/p_day26_wing.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/organic/organic_napkin/p_night29_wing.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/organic/organic_napkin/p_night36_wing.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/organic/organic_napkin/slim_p_day23_wing.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/organic/organic_napkin/slim_p_night29_wing.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/organic/organic_napkin/slim_p_day17.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/organic/organic_napkin/p_day21_wing.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/organic/organic_napkin/slim_p_day21_wing.html"
+          }
+        ]
+      },
+      "/en/products/organic/organic_liner": {
+        "confidence": "85%",
+        "urls": [
+          {
+            "url": "https://www.sofy.jp/en/products/organic/organic_liner/p_nofrag.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/organic/organic_liner/p_sabon.html"
+          }
+        ]
+      },
+      "/en/products/organic/organic_tampon": {
+        "confidence": "85%",
+        "urls": [
+          {
+            "url": "https://www.sofy.jp/en/products/organic/organic_tampon/p_regular.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/organic/organic_tampon/p_super.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/organic/organic_tampon/p_superplus.html"
+          }
+        ]
+      },
+      "/en/products/organic/organic_shorts": {
+        "confidence": "85%",
+        "urls": [
+          {
+            "url": "https://www.sofy.jp/en/products/organic/organic_shorts/p_organic.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/organic/organic_shorts/p_organic_w.html"
+          }
+        ]
+      },
+      "/ja/products/organic": {
+        "confidence": "85%",
+        "urls": [
+          {
+            "url": "https://www.sofy.jp/ja/products/organic/organic_napkin.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/organic/organic_liner.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/organic/organic_tampon.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/organic/organic_shorts.html"
+          }
+        ]
+      },
+      "/ja/products/hadaomoi": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://www.sofy.jp/ja/products/hadaomoi/slim_p_day_light.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/hadaomoi/p_night29_wing.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/hadaomoi/p_night40_wing.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/hadaomoi/p_day25_wing.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/hadaomoi/p_day23_wing.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/hadaomoi/p_day23.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/hadaomoi/p_day21_wing.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/hadaomoi/p_day21.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/hadaomoi/slim_p_night36_wing.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/hadaomoi/slim_p_night29_wing.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/hadaomoi/slim_p_day25_wing.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/hadaomoi/slim_p_day21_wing.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/hadaomoi/slim_p_day21.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/hadaomoi/hadaomoi_slim.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/hadaomoi/hadaomoi.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/hadaomoi/slim_p_night40_wing.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/hadaomoi/slim_p_day23_wing.html"
+          }
+        ]
+      },
+      "/ja/products/sports": {
+        "confidence": "85%",
+        "urls": [
+          {
+            "url": "https://www.sofy.jp/ja/products/sports/p_day26.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/sports/p_day26_wing.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/sports/p_night30_wing.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/sports/p_shorts.html"
+          }
+        ]
+      },
+      "/ja/products/bodyfit": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://www.sofy.jp/ja/products/bodyfit/p_night29_wing.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/bodyfit/p_night29.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/bodyfit/p_day21_wing.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/bodyfit/p_night26.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/bodyfit/p_day21.html"
+          }
+        ]
+      },
+      "/ja/products/cho-jukusui": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://www.sofy.jp/ja/products/cho-jukusui/faq.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/cho-jukusui/cho-jukusui.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/cho-jukusui/p_night29_wing.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/cho-jukusui/p_night33_wing.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/cho-jukusui/p_night36_wing.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/cho-jukusui/p_night40_wing.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/cho-jukusui/p_night42_wing.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/cho-jukusui/suzuhada.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/cho-jukusui/cho-jukusui_shorts.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/cho-jukusui/p_shorts.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/cho-jukusui/p_shorts_xl.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/cho-jukusui/p_shorts_s.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/cho-jukusui/micchakufit_shorts.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/cho-jukusui/p_micchaku_shorts.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/cho-jukusui/p_shorts_organic.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/cho-jukusui/premium_p_night36_wing.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/cho-jukusui/premium_p_night40_wing.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/cho-jukusui/premium_p_night42_wing.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/cho-jukusui/cho-jukusui_odekake_koukan_shorts.html"
+          }
+        ]
+      },
+      "/ja/products/syncrofit": {
+        "confidence": "85%",
+        "urls": [
+          {
+            "url": "https://www.sofy.jp/ja/products/syncrofit/faq.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/syncrofit/product.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/syncrofit/use.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/syncrofit/thick_product.html"
+          }
+        ]
+      },
+      "/ja/products/tampon": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://www.sofy.jp/ja/products/tampon/guide.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/tampon/guide_illust.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/tampon/guide_use.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/tampon/how.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/tampon/body.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/tampon/question.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/tampon/circum.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/tampon/attention.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/tampon/tss.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/tampon/p_compact_super.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/tampon/p_compact_regular.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/tampon/p_superplus.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/tampon/p_super.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/tampon/event_chat.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/tampon/p_regular.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/tampon/p_light.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/tampon/event_yoga.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/tampon/event.html"
+          }
+        ]
+      },
+      "/ja/products/softcup": {
+        "confidence": "85%",
+        "urls": [
+          {
+            "url": "https://www.sofy.jp/ja/products/softcup/faq.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/softcup/tss.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/softcup/attention.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/softcup/product.html"
+          }
+        ]
+      },
+      "/ja/products/shorts": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://www.sofy.jp/ja/products/shorts/p_active.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/shorts/p_cotton.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/shorts/p_casual.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/shorts/p_stylish.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/shorts/p_elegant.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/shorts/p_natural.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/shorts/p_safety.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/shorts/p_night.html"
+          }
+        ]
+      },
+      "/ja/products/kiyora": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://www.sofy.jp/ja/products/kiyora/kiyora.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/kiyora/p_nofrag.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/kiyora/p_fresh.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/kiyora/p_luxury.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/kiyora/p_sweet.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/kiyora/p_natural.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/kiyora/p_happy.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/kiyora/secret.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/kiyora/zeitaku_p_nofrag.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/kiyora/zeitaku.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/kiyora/zeitaku_p_happy.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/kiyora/zeitaku_p_cotton.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/kiyora/zeitaku_p_happy_5.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/kiyora/zeitaku_p_cotton_5.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/kiyora/zeitaku_p_happy_10.html"
+          }
+        ]
+      },
+      "/ja/products/hadaomoi_liner": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://www.sofy.jp/ja/products/hadaomoi_liner/p_cleanplus.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/hadaomoi_liner/p_floral.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/hadaomoi_liner/p_nofrag.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/hadaomoi_liner/p_cottontsuuki.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/hadaomoi_liner/p_cottondelicate.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/hadaomoi_liner/p_long.html"
+          }
+        ]
+      },
+      "/ja/products/wet": {
+        "confidence": "85%",
+        "urls": [
+          {
+            "url": "https://www.sofy.jp/ja/products/wet/p_fresh.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/wet/p_nofrag.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/wet/p_green.html"
+          }
+        ]
+      },
+      "/ja/advice/pre-period": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://www.sofy.jp/ja/advice/pre-period/04.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/pre-period/03.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/pre-period/01.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/pre-period/02.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/pre-period/05.html"
+          }
+        ]
+      },
+      "/ja/advice/during-period": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://www.sofy.jp/ja/advice/during-period/15.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/during-period/17.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/during-period/18.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/during-period/16.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/during-period/19.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/during-period/20.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/during-period/21.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/during-period/22.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/during-period/23.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/during-period/24.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/during-period/34.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/during-period/35.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/during-period/36.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/during-period/06.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/during-period/07.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/during-period/10.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/during-period/37.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/during-period/09.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/during-period/08.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/during-period/01.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/during-period/02.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/during-period/03.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/during-period/04.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/during-period/05.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/during-period/12.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/during-period/13.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/during-period/14.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/during-period/26.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/during-period/27.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/during-period/28.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/during-period/29.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/during-period/30.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/during-period/31.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/during-period/32.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/during-period/33.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/during-period/25.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/during-period/39.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/during-period/41.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/during-period/42.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/during-period/40.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/during-period/43.html"
+          }
+        ]
+      },
+      "/ja/advice/womens-diseases": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://www.sofy.jp/ja/advice/womens-diseases/09.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/womens-diseases/12.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/womens-diseases/13.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/womens-diseases/05.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/womens-diseases/06.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/womens-diseases/07.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/womens-diseases/08.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/womens-diseases/11.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/womens-diseases/01.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/womens-diseases/02.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/womens-diseases/03.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/womens-diseases/10.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/womens-diseases/04.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/womens-diseases/15.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/womens-diseases/24.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/womens-diseases/16.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/womens-diseases/17.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/womens-diseases/18.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/womens-diseases/19.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/womens-diseases/20.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/womens-diseases/23.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/womens-diseases/21.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/womens-diseases/22.html"
+          }
+        ]
+      },
+      "/ja/advice/period-changes": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://www.sofy.jp/ja/advice/period-changes/11.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/period-changes/04.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/period-changes/01.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/period-changes/08.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/period-changes/09.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/period-changes/02.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/period-changes/03.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/period-changes/05.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/period-changes/06.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/period-changes/07.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/period-changes/13.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/period-changes/14.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/period-changes/15.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/period-changes/16.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/period-changes/17.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/period-changes/18.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/period-changes/19.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/period-changes/20.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/period-changes/22.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/period-changes/27.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/period-changes/28.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/period-changes/29.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/period-changes/30.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/period-changes/32.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/period-changes/33.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/period-changes/34.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/period-changes/35.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/period-changes/36.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/period-changes/37.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/period-changes/38.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/period-changes/39.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/period-changes/40.html"
+          }
+        ]
+      },
+      "/ja/advice/idea": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://www.sofy.jp/ja/advice/idea/07.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/idea/08.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/idea/09.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/idea/10.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/idea/11.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/idea/12.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/idea/01.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/idea/02.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/idea/03.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/idea/04.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/idea/05.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/idea/13.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/idea/14.html"
+          }
+        ]
+      },
+      "/ja/campaign/dokodemosofy": {
+        "confidence": "85%",
+        "urls": [
+          {
+            "url": "https://www.sofy.jp/ja/campaign/dokodemosofy/schoolsofy.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/campaign/dokodemosofy/officesofy.html"
+          }
+        ]
+      },
+      "/ja/about/csr": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://www.sofy.jp/ja/about/csr/csr-001.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/about/csr/csr-002.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/about/csr/csr-003.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/about/csr/csr-004.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/about/csr/csr-005.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/about/csr/csr-006.html"
+          }
+        ]
+      },
+      "/ja/about/omamori": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://www.sofy.jp/ja/about/omamori/story01.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/about/omamori/story02_old.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/about/omamori/story03.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/about/omamori/story04.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/about/omamori/story05.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/about/omamori/story02.html"
+          }
+        ]
+      },
+      "/ja/app/qr": {
+        "confidence": "85%",
+        "urls": [
+          {
+            "url": "https://www.sofy.jp/ja/app/qr/bf.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/app/qr/bf_sg.html"
+          }
+        ]
+      },
+      "/ja/check": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://www.sofy.jp/ja/check/100/organic_hadaomoi.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/check/100/hadaomoi.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/check/200/syncrofit.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/check/200/sports.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/check/200/cho-jukusui_odekake_koukan_shorts.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/check/300/tampon_softcup.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/check/300/cho-jukusui.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/check/300/oyasumipremium.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/check/300/cho-jukusui_guard.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/check/400/kiyora.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/check/400/kiyora-zeitaku.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/check/400/organic_liner.html"
+          }
+        ]
+      },
+      "/en/products/organic": {
+        "confidence": "85%",
+        "urls": [
+          {
+            "url": "https://www.sofy.jp/en/products/organic/organic_napkin.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/organic/organic_liner.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/organic/organic_tampon.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/organic/organic_shorts.html"
+          }
+        ]
+      },
+      "/en/products/hadaomoi": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://www.sofy.jp/en/products/hadaomoi/p_night29_wing.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/hadaomoi/p_night40_wing.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/hadaomoi/p_day25_wing.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/hadaomoi/p_day23_wing.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/hadaomoi/p_day23.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/hadaomoi/p_day21_wing.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/hadaomoi/p_day21.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/hadaomoi/slim_p_night29_wing.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/hadaomoi/slim_p_night36_wing.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/hadaomoi/slim_p_day25_wing.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/hadaomoi/slim_p_day21_wing.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/hadaomoi/slim_p_day21.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/hadaomoi/slim_p_day_light.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/hadaomoi/slim_p_night40_wing.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/hadaomoi/slim_p_day23_wing.html"
+          }
+        ]
+      },
+      "/en/products/sports": {
+        "confidence": "85%",
+        "urls": [
+          {
+            "url": "https://www.sofy.jp/en/products/sports/p_day26.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/sports/p_day26_wing.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/sports/p_night30_wing.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/sports/p_shorts.html"
+          }
+        ]
+      },
+      "/en/products/bodyfit": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://www.sofy.jp/en/products/bodyfit/p_day21.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/bodyfit/p_day21_wing.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/bodyfit/p_night26.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/bodyfit/p_night29.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/bodyfit/p_night29_wing.html"
+          }
+        ]
+      },
+      "/en/products/cho-jukusui": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://www.sofy.jp/en/products/cho-jukusui/cho-jukusui.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/cho-jukusui/p_night29_wing.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/cho-jukusui/p_night33_wing.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/cho-jukusui/p_night36_wing.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/cho-jukusui/p_night40_wing.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/cho-jukusui/p_night42_wing.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/cho-jukusui/p_shorts.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/cho-jukusui/cho-jukusui_shorts.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/cho-jukusui/p_shorts_xl.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/cho-jukusui/p_shorts_s.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/cho-jukusui/micchakufit_shorts.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/cho-jukusui/p_micchaku_shorts.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/cho-jukusui/p_shorts_organic.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/cho-jukusui/premium_p_night36_wing.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/cho-jukusui/premium_p_night40_wing.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/cho-jukusui/premium_p_night42_wing.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/cho-jukusui/cho-jukusui_odekake_koukan_shorts.html"
+          }
+        ]
+      },
+      "/en/products/syncrofit": {
+        "confidence": "85%",
+        "urls": [
+          {
+            "url": "https://www.sofy.jp/en/products/syncrofit/product.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/syncrofit/faq.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/syncrofit/use.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/syncrofit/thick_product.html"
+          }
+        ]
+      },
+      "/en/products/tampon": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://www.sofy.jp/en/products/tampon/guide.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/tampon/guide_illust.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/tampon/guide_use.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/tampon/how.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/tampon/body.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/tampon/question.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/tampon/circum.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/tampon/attention.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/tampon/tss.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/tampon/p_compact_regular.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/tampon/p_compact_super.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/tampon/p_light.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/tampon/p_superplus.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/tampon/p_super.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/tampon/p_regular.html"
+          }
+        ]
+      },
+      "/en/products/softcup": {
+        "confidence": "85%",
+        "urls": [
+          {
+            "url": "https://www.sofy.jp/en/products/softcup/faq.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/softcup/tss.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/softcup/attention.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/softcup/product.html"
+          }
+        ]
+      },
+      "/en/products/shorts": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://www.sofy.jp/en/products/shorts/p_night.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/shorts/p_safety.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/shorts/p_natural.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/shorts/p_elegant.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/shorts/p_stylish.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/shorts/p_casual.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/shorts/p_active.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/shorts/p_cotton.html"
+          }
+        ]
+      },
+      "/en/products/kiyora": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://www.sofy.jp/en/products/kiyora/kiyora.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/kiyora/p_nofrag.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/kiyora/p_fresh.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/kiyora/p_luxury.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/kiyora/p_sweet.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/kiyora/p_natural.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/kiyora/p_happy.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/kiyora/zeitaku.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/kiyora/zeitaku_p_happy.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/kiyora/zeitaku_p_nofrag.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/kiyora/zeitaku_p_cotton.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/kiyora/zeitaku_p_happy_5.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/kiyora/zeitaku_p_cotton_5.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/kiyora/zeitaku_p_happy_10.html"
+          }
+        ]
+      },
+      "/en/products/hadaomoi_liner": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://www.sofy.jp/en/products/hadaomoi_liner/p_floral.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/hadaomoi_liner/p_nofrag.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/hadaomoi_liner/p_cleanplus.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/hadaomoi_liner/p_cottontsuuki.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/hadaomoi_liner/p_cottondelicate.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/hadaomoi_liner/p_long.html"
+          }
+        ]
+      },
+      "/en/products/wet": {
+        "confidence": "85%",
+        "urls": [
+          {
+            "url": "https://www.sofy.jp/en/products/wet/p_fresh.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/wet/p_nofrag.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/wet/p_green.html"
+          }
+        ]
+      },
+      "/ja/products": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://www.sofy.jp/ja/products/organic.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/hadaomoi.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/sports.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/bodyfit.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/cho-jukusui.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/center-in.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/syncrofit.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/tampon.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/softcup.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/sports_shorts.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/shorts.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/kyusui_shorts.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/kiyora.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/hadaomoi_liner.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/healthcheck.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/wet.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/product-new.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/product-type.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/product-keyword.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/healthcheck/ninkatsu_sheet/ninkatsu_sheet.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/kyusui_shorts/p_kyusui.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products/healthcheck/ninkatsu_sheet.html"
+          }
+        ]
+      },
+      "/ja/club": {
+        "confidence": "85%",
+        "urls": [
+          {
+            "url": "https://www.sofy.jp/ja/club/qa02.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/club/qa03.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/club/qa04.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/club/qa05.html"
+          }
+        ]
+      },
+      "/ja/campaign": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://www.sofy.jp/ja/campaign/nobagforme.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/campaign/minnanoseirikensyu.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/campaign/ninkatsu.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/campaign/ninkatsukensyu.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/campaign/dokodemosofy.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/campaign/femscan.html"
+          }
+        ]
+      },
+      "/en/products": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://www.sofy.jp/en/products/organic.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/hadaomoi.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/sports.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/bodyfit.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/cho-jukusui.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/center-in.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/syncrofit.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/tampon.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/softcup.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/sports_shorts.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/shorts.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/kyusui_shorts.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/kiyora.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/hadaomoi_liner.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/wet.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/healthcheck.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/product-new.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/product-type.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/healthcheck/ninkatsu_sheet/ninkatsu_sheet.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/kyusui_shorts/p_kyusui.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products/healthcheck/ninkatsu_sheet.html"
+          }
+        ]
+      },
+      "/ja": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://www.sofy.jp/ja/home.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/products.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/video.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/club.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/campaign.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/about.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/checklist.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/global.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/library/word.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/advice/keyword-result.html"
+          },
+          {
+            "url": "https://www.sofy.jp/ja/conceive/guide.html"
+          }
+        ]
+      },
+      "/en": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://www.sofy.jp/en/home.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/video.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/site-map.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/products1.html"
+          },
+          {
+            "url": "https://www.sofy.jp/en/global.html"
+          }
+        ]
+      },
+      "/": {
+        "confidence": "100%",
+        "urls": [
+          {
+            "url": "https://www.sofy.jp/"
+          }
+        ]
+      }
+    }
+  }
+}

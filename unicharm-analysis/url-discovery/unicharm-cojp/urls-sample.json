@@ -1,0 +1,3017 @@
+{
+  "urls-sample": {
+    "captured": "2026-08-14T03:38:53.330Z",
+    "totalUrls": 1000,
+    "createdBy": "create-sample.js",
+    "samplingMethod": "diversity-capped",
+    "fullCoverageGroupSize": 20,
+    "fullyCoveredSmallGroupCount": 53,
+    "fullyCoveredSmallGroupUrls": 339,
+    "largeGroupCount": 3,
+    "minimumLargeGroupUrls": 15,
+    "minPerGroup": 5,
+    "maxSampleSize": 1000,
+    "urls": [
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/challenged/people/members/01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/challenged/people/members/02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/challenged/people/members/07.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/challenged/people/members/06.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/challenged/people/members/08.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/challenged/people/members/03.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/challenged/people/members/04.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/challenged/people/members/05.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/graduate/people/members/09.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/graduate/people/members/05.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/graduate/people/members/02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/graduate/people/members/08.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/graduate/people/members/04.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/graduate/people/members/10.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/graduate/people/members/12.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/graduate/people/members/01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/graduate/people/members/11.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/graduate/people/members/07.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/graduate/people/members/06.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/graduate/careerandlife/careerpass/01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/graduate/careerandlife/careerpass/02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/clover/people/members/01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/clover/people/members/08.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/clover/people/members/04.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/clover/people/members/03.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/clover/people/members/07.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/clover/people/members/05.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/clover/people/members/06.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/clover/people/members/02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2026/0101-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2023/0130-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2025/1125-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2023/0629-02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2025/0303-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2023/0725-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2016/1204574_3942.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2023/1023-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2023/0221-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2025/0402-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2024/0527-02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2026/0219-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2025/0307-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2025/1110-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2023/0222-02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2022/0916-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2025/1209-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2024/0419-02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2023/0921-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2025/0916-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2024/0401-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2024/0709-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2026/0624-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2023/0615-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2025/0925-02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2023/0330-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2022/1202-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2023/1016-03.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2025/0206-02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2023/1019-03.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2025/0220-02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2024/0619-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2023/0228-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2025/0227-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2022/0408-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2026/0519-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2025/0409-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2022/0308-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2025/1007-1.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2025/0408-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2022/0728-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2025/0509-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2026/0630-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2022/0727-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2022/0218-02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2023/1121-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2022/1013-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2023/0828-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2021/0930-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2019/1210661_13296.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2024/0326-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2021/0423-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2020/1214383_13534.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2024/0216-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2021/0226-03.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2021/0212-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2019/1211009_13296.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2023/0726-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2023/0314-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2024/1129-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2021/0126-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2022/0720-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2022/0202-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2020/1214358_13534.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2022/0427-02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2024/0125.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2020/1214665_13534.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2022/0317-02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2021/0209-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2026/0121-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2025/0430-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2026/0608-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2025/0228-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2023/0327-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2023/1116-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2019/1211345_13296.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2019/1210714_13296.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2026/0306-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2021/0913-02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2025/0411-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2022/0208-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2019/1210311_13296.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2021/0204-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2025/0225-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2026/0604-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2025/0206-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2022/0822-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2021/0618-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2023/0901-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2020/1213357_13534.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2019/1211468_13296.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2024/0625-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2023/1025-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2021/0907-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2019/1211261_13296.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2021/1014-02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2021/0617-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2026/0430-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2026/0416-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2026/0424-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2019/1210456_13296.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2021/1222-02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2020/1214666_13534.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2021/0128-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2016/1202671_3942.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2023/0206-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2016/1202672_3942.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2017/1206763_3926.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2026/0318-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2016/1202432_3942.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2020/1214687_13534.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2017/1207363_3926.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2024/1218-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2022/0218-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2017/1207308_3926.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2021/0726-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2019/1210609_13296.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2018/1209466_12986.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2019/1211465_13296.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2021/1011-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2023/0907-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2018/1210056_12986.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2018/1209711_12986.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2022/0216-03.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2020/1214678_13534.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2021/0318-02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2019/1212423_13296.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2023/0405-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2024/0703-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2019/1210459_13296.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2023/0413-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2020/1214283_13534.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2021/0325-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2023/0414-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2022/0201-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2016/1203094_3942.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2025/0220-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2019/1212434_13296.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2018/1209716_12986.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2025/0424-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2018/1208261_12986.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2022/0224-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2020/1214080_13534.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2023/0222-04.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2019/1211463_13296.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2022/0712-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2021/0824-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2023/0516-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2020/1213863_13534.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2022/0309-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2020/1214058_13534.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2016/1202517_3942.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2020/1214511_13534.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2020/1214279_13534.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2019/1211211_13296.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2017/1205823_3926.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2020/1214035_13534.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2025/0415-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2022/1011-02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2017/1206512_3926.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2025/0227-02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2018/1208416_12986.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2020/1214377_13534.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2023/0601-02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2017/1205949_3926.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2020/1213675_13534.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2025/1105-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2024/0219-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2017/1206709_3926.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2016/1202525_3942.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2025/0422-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2022/0824-02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2018/1209468_12986.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2024/0312-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2019/1212007_13296.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2023/1016-02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2020/1214394_13534.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2021/1005-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2024/0322-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2021/1015-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2024/0318-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2026/0507-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2019/1212159_13296.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2017/1207507_3926.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2023/0101-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2018/1209935_12986.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2018/1209467_12986.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2022/0304-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2024/0617-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2021/0928-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2024/0419-03.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2026/0519-02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2021/1220-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2026/0225-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2022/0419-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2025/0407-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2022/0302-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2026/0330-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2019/1212309_13296.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2017/1206859_3926.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2026/0220-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2019/1212865_13296.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2017/1206656_3926.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2025/0919-02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2021/1129-02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2023/1101-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2024/0219-02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2023/0822-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2019/1211027_13296.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2020/1214682_13534.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2022/0831-03.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2023/0727-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2016/1204873_3942.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2025/0221-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2021/1029-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2017/1207506_3926.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2024/0801-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2023/0906-02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2023/1005-02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2023/0829-02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2025/0221-03.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2016/1204039_3942.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2020/1214561_13534.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2025/0423-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2017/1206562_3926.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2024/0111-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2026/0122-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2023/0224-02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2022/0301-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2025/1127-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2018/1208110_12986.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2020/1213645_13534.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2016/1204871_3942.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2023/1011-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2024/0809-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2020/1214159_13534.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2024/0221-02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2020/1213582_13534.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2018/1209307_12986.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2024/0313-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2024/0221-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2023/1031-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2022/0805-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2024/0927-02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2024/0426-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2021/1215-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2022/0428-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2017/1206808_3926.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2020/1214560_13534.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2019/1212262_13296.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2026/0804-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2023/1013-02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2025/0109-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2022/0228-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2018/1208231_12986.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2021/0325-02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2022/1021-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2017/1207214_3926.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2024/0701-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2018/1209910_12986.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2019/1211356_13296.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2026/0305-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2021/0202-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2020/1214395_13534.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2020/1213611_13534.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2021/1222-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2024/0301-02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2018/1207706_12986.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2021/0514-02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2021/0121-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2021/0325-03.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2017/1207456_3926.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2017/1205950_3926.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2023/0629-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2020/1214615_13534.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2018/1210111_12986.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2022/1216-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2020/1214218_13534.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2019/1212664_13296.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2019/1210710_13296.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2017/1206948_3926.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2020/1214882_13534.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2020/1214270_13534.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2025/1008-1.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2019/1212509_13296.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2020/1214011_13534.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2020/1214580_13534.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2019/1210959_13296.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2020/1213110_13534.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2024/0226-02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2020/1214761_13534.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2018/1209560_12986.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2025/0312-02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2016/1205120_3942.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2016/1204411_3942.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2022/1114-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2021/0210-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2021/1029-02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2022/0405-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2020/1213651_13534.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2025/1111-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2017/1206657_3926.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2022/0615-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2022/0317-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2023/0601-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2022/0609-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2020/1214057_13534.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2025/1001-1.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2025/1204-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2025/1017-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2024/0216-02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2021/0222-02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2025/0404-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2023/0302-02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2019/1210512_13296.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2019/1212433_13296.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2023/0829-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2022/1129-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2019/1212706_13296.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2021/0224-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2022/1007-03.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2023/0220-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2020/1213310_13534.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2022/1110-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2026/0702-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2024/0913-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2023/0725-02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2025/1105-02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2025/0311-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2016/1202856_3942.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2022/1201-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2018/1209609_12986.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2016/1204350_3942.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2017/1207068_3926.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2016/1202620_3942.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2018/1208358_12986.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2021/1224-02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2020/1214880_13534.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2021/0902-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2020/1214312_13534.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2019/1212960_13296.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2025/0312-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2021/0506-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2022/0901-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2021/0412-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2023/0906-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2021/1022-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2024/0312-02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2025/0414-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2022/1019-02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2018/1209722_12986.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2017/1205822_3926.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2020/1214578_13534.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2025/0328-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2019/1211606_13296.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2024/0220-02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2024/0815-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2023/0221-02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2025/1118-02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2016/1204062_3942.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2017/1206361_3926.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2025/0321-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2016/1203509_3942.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2016/1204386_3942.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2019/1212356_13296.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2019/1210711_13296.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2026/0324-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2016/1204398_3942.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2025/0221-02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2022/1024-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2016/1204397_3942.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2018/1209274_12986.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2023/0324-02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2022/0915-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2022/0228-03.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2021/0608-02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2017/1206416_3926.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2022/0511-02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2020/1213847_13534.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2016/1203505_3942.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2024/0930-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2022/1019-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2017/1206011_3926.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2025/0403-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2020/1214026_13534.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2019/1212462_13296.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2020/1214709_13534.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2022/0603-02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2022/0427-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2025/0228-02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2023/0328-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2024/1217-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2020/1214767_13534.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2016/1203229_3942.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2021/0512-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2026/0403-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2022/0329-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2022/0826-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2020/1213657_13534.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2018/1209510_12986.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2025/1030-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2021/1208-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2020/1214267_13534.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2020/1214106_13534.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2026/0326-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2016/1205060_3942.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2023/1002-02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2025/0226-02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2020/1213585_13534.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2022/20230130-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2025/0305-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2025/0313-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2021/0326-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2024/1125-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2019/1210306_13296.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2022/20230131-02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2018/1209056_12986.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2020/1214695_13534.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2025/0716-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2017/1206714_3926.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2025/1119-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2021/0827-02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2024/0220-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2025/0725-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2018/1208359_12986.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2019/1210908_13296.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2025/0619-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2026/0810-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2020/1214108_13534.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2020/1213583_13534.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2026/0402-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2018/1209108_12986.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2019/1211035_13296.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2020/1215008_13534.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2025/0618-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2021/0322-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2023/0131-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2016/1204385_3942.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2023/0531-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2019/1211034_13296.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2020/1214668_13534.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2020/1214220_13534.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2022/20230206-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2022/0406-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2020/1213613_13534.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2021/0101-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2019/1212265_13296.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2019/1210659_13296.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2023/0914-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2021/0303-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2023/0529-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2021/0413-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2023/0704-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2024/0604-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2020/1213844_13534.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2024/0101-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2021/1217-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2019/1212256_13296.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2017/1206513_3926.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2026/0618-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2021/0413-02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2016/1204354_3942.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2022/1007-02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2020/1213612_13534.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2022/0315-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2016/1202433_3942.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2017/1205751_3926.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2020/1213768_13534.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2019/1212206_13296.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2025/1027-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2016/1203507_3942.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2016/1202182_3942.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2023/0301-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2023/1005-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2021/0401-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2021/0222-03.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2020/1214564_13534.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2024/0220-03.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2017/1205761_3926.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2022/0922-02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2023/0628-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2017/1205741_3926.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2020/1213586_13534.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2025/1212-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2023/1019-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2021/1006-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2020/1214221_13534.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2022/0314-02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2016/1203428_3942.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2025/1118-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2017/1206456_3926.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2017/1207264_3926.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2020/1214616_13534.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2021/0625-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2023/0309-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2022/0713-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2016/1204523_3942.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2023/0201-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2019/1212963_13296.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2023/0208-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2025/0606-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2021/1013-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2019/1211474_13296.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2017/1205804_3926.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2023/0224-03.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2023/0919-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2023/0203-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2026/0716-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2021/0318-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2016/1204895_3942.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2016/1202436_3942.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2018/1209516_12986.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2023/0131-02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2017/1206663_3926.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2016/1204497_3942.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2024/0301-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2023/0804-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2022/0210-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2021/1011-03.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2024/0404-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2016/1203655_3942.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2023/0421-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2025/0819-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2026/0421-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2023/0228-02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2024.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2024/0527-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2023/1030-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2017/1205961_3926.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2018/1209718_12986.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2018/1210057_12986.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2022/0627-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2017/1206044_3926.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2020/1214215_13534.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2018/1208156_12986.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2019/1212156_13296.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2025/0825-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2023/0412-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2022/0222-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2025/0513-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2019/1211064_13296.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2018/1209306_12986.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2017/1206135_3926.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2019/1212609_13296.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2023/1220-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2021/0226-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2020/1213865_13534.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2023/0929-02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2024/0816-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2021/0225-02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2023/0227-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2022/1206-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2016/1204398_39421.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2024/0830-02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2020/1214710_13534.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2018/1209721_12986.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2020/1214577_13534.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2021/0917-02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2022/0913-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2020/1214043_13534.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2018/1209514_12986.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2023/1102-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2019/1212310_13296.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/news/2024/0731-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/overview/officer/03.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/overview/officer/06.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/overview/officer/01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/overview/officer/05.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/overview/officer/02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/overview/officer/04.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/graduate/project/02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/graduate/project/01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/graduate/recruit/faq.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/graduate/recruit/message.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/graduate/recruit/requirements.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/graduate/company/data.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/graduate/company/vision.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/graduate/company/sense.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/graduate/careerandlife/diversity.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/graduate/careerandlife/careerpass.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/graduate/careerandlife/development.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/graduate/business/work.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/graduate/business/domain.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/graduate/business/innovationstories.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/people/members/09.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/people/members/04.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/people/members/17.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/people/members/05.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/people/members/13.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/people/members/01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/people/members/06.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/people/members/12.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/people/members/08.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/people/members/11.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/people/members/02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/people/members/10.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/people/members/03.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/people/members/15.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/people/members/07.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/people/members/14.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/people/members/16.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/careerandlife/careerpass/01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/careerandlife/careerpass/02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/careerandlife/careerpass/03.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/careerandlife/careerpass/04.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/ir/news/2022/0720-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/ir/news/2019.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/ir/news/2017.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/ir/news/2018.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/ir/news/2026.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/ir/news/2023.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/ir/news/2020.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/ir/news/2022/0810-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/ir/news/2021.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/ir/news/2016.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/ir/news/2022.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/ir/news/2025.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/ir/news/2024.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/csr-eco/news/2020/1214884_4387.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/csr-eco/news/2016/1203123_4383.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/csr-eco/news/2017/1205680_4385.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/csr-eco/news/2018/1208761_4381.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/csr-eco/news/2017/1206408_4385.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/csr-eco/news/2019.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/csr-eco/news/2020/1214879_4387.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/csr-eco/news/2017/1205857_4385.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/csr-eco/news/2019/1211258_4375.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/csr-eco/news/2018.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/csr-eco/news/2016/1205066_4383.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/csr-eco/news/2016/1202906_4383.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/csr-eco/news/2016/1202524_4383.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/csr-eco/news/2018/1209557_4381.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/csr-eco/news/2018/1209206_4381.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/csr-eco/news/2019/1211062_4375.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/csr-eco/news/2020/1214870_4387.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/csr-eco/news/2016/1204881_4383.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/csr-eco/news/2019/1211721_4375.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/csr-eco/news/2019/1210457_4375.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/csr-eco/news/2016/1202299_4383.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/csr-eco/news/2018/1207956_4381.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/csr-eco/news/2017/1206997_4385.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/csr-eco/news/2016/1204004_4383.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/csr-eco/news/2017/1206506_4385.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/csr-eco/news/2016.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/csr-eco/news/2018/1208221_4381.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/csr-eco/news/2019/1211457_4375.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/csr-eco/news/2024.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/csr-eco/news/2017/1205962_4385.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/csr-eco/news/2021.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/news/2025/0206-02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/news/2024/0404-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/news/2025/0210-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/news/2025/1105-02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/news/2023/1002-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/news/2026/0210-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/news/2024/0625-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/news/2021/20220224.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/news/2025/0610-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/news/2024/0308-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/news/2026/0702-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/news/2022/1111-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/news/2025/0226-02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/news/2025/1022-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/news/2024/0222-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/news/2023/0210-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/news/2023/0530-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/news/2023/0531-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/news/2024/0529-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/news/2023/0131-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/news/2021/0630-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/news/2025/20260213-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/news/2022/0308-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/news/2025/1017-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/news/2025/0808-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/news/2023/1101-02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/news/2024.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/news/2025/0603-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/news/2024/0828-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/news/2023/0608-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/news/2025/20260210-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/news/2021/0702-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/news/2021/0602-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/news/2023/0418-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/news/2023/0324-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/news/2022.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/news/2023/1031-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/news/2024/1217-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/news/2024/2025-0210-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/news/2022/1006-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/news/2024/0401-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/news/2025/0605-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/news/2023/0201-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/news/2026/0807-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/news/2023/2024-0112-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/news/2025/0919-02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/news/2025/0630-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/news/2021/0716-02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/news/2023/0710-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/news/2026.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/news/2026/0101-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/news/2024/0807-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/news/2025/0101-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/news/2023/1010-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/news/2021/0617-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/news/2026/0213-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/news/2022/1024-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/news/2025/0716-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/news/2024/0411-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/news/2023/0605-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/news/2026/0403-02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/news/2021/20220308.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/news/2024/20250101-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/news/2021/1013-11.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/news/2023/1024-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/news/2025/0307-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/overview/officer/03.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/overview/officer/06.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/overview/officer/01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/overview/officer/04.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/overview/officer/05.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/overview/officer/02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/ir/news/2022/0720-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/ir/news/2026.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/ir/news/2022.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/ir/news/2023.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/ir/news/2021.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/ir/news/2019.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/ir/news/2016.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/ir/news/2025.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/ir/news/2020.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/ir/news/2017.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/ir/news/2018.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/ir/news/2024.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/challenged/requirements.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/challenged/benefits.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/challenged/office.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/graduate/project.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/graduate/people.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/graduate/business.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/graduate/people/members.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/graduate/company.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/graduate/internship.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/graduate/careerandlife.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/graduate/recruit.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/company/data.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/company/vision.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/company/sense.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/business/work.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/business/innovationstories.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/business/domain.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/careerandlife/diversity.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/careerandlife/careerpass.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/careerandlife/development.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/careerandlife/benefits.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/recruit/faq.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/recruit/message.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/recruit/requirements.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/project/02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/project/03.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/project/04.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/project/01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/ir/3minutes/step1.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/ir/3minutes/step2.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/ir/3minutes/step3.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/ir/financial/chart.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/ir/financial/growth.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/ir/library/annual.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/ir/library/investors.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/ir/library/securities.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/ir/library/earnings.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/ir/library/chukei.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/ir/library/enterprise.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/ir/report/message.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/ir/report/director-comment.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/ir/report/download.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/csr-eco/mystylebosai/baby.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/csr-eco/mystylebosai/care.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/csr-eco/mystylebosai/people.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/csr-eco/mystylebosai/think.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/csr-eco/mystylebosai/senior.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/csr-eco/mystylebosai/list.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/csr-eco/mystylebosai/about.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/csr-eco/mystylebosai/woman.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/csr-eco/mystylebosai/pets.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/csr-eco/education/note-02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/csr-eco/education/note-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/csr-eco/education/note-04.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/csr-eco/education/note-03.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/cookup/voice/cooking.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/cookup/voice/cleanup.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/cookup/voice/challenge.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/csr-eco/education/note-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/csr-eco/education/note-03.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/csr-eco/education/note-02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/csr-eco/education/note-04.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/csr-eco/mystylebosai/baby.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/csr-eco/mystylebosai/woman.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/csr-eco/mystylebosai/senior.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/csr-eco/mystylebosai/about.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/csr-eco/mystylebosai/learn.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/csr-eco/mystylebosai/list.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/csr-eco/mystylebosai/care.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/csr-eco/mystylebosai/people.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/csr-eco/mystylebosai/pets.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/ir/3minutes/step1.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/ir/3minutes/step2.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/ir/3minutes/step3.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/ir/financial/chart.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/ir/financial/growth.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/ir/library/annual.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/ir/library/investors.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/ir/library/earnings.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/ir/library/chukei.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/ir/library/securities.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/ir/report/message.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/ir/report/director-comment.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/ir/report/download.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/topmessage.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/procurement.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/charmring.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/corporate-philosophy.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/lyp.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/history.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/corporate-governance.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/affiliate.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/overview.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/office.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company/business-field.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/with_c/baby.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/with_c/woman.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/with_c/family.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/with_c/pet.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/with_c/society.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/member/faq01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/member/faq04.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/member/faq03.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/member/faq02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/member/security.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/member/kiyaku.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/member/faq05.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/member/inquiry.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/member/present.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/contact-us/torikumi.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/contact-us/safety.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/privacy-policy/specific.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/privacy-policy/purpose.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/privacy-policy/cookie.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/important/260729-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/important/260731-01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/challenged.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/career.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/business.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/graduate.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/project.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/careerandlife.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/clover.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/recruit.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/company.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/clover/office.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/people.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit/people/members.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/ir/3minutes.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/ir/stock.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/ir/report.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/ir/financial.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/ir/news.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/ir/individual/shareholder_return.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/ir/e-announcement.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/ir/policy.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/ir/convocation.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/ir/calendar.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/ir/individual.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/ir/stock_search.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/ir/library.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/csr-eco/message.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/csr-eco/sasb.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/csr-eco/gri.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/csr-eco/ghg.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/csr-eco/news.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/csr-eco/education.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/csr-eco/group_csr.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/csr-eco/ghgarea.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/csr-eco/kyoseilifevision.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/csr-eco/reff.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/csr-eco/mystylebosai.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/csr-eco/reff-miraisakusen.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/csr-eco/ghg/interview.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/csr-eco/esgdata.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/csr-eco/report.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/csr-eco/esg.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/csr-eco/commendation.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/cookup/home.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/cookup/voice.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/cookup/useful.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/cookup/site-map.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/cookup/products.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/cookup/custom404.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/topmessage.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/business-field.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/affiliate.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/charmring.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/overview.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/lyp.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/corporate-philosophy.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/history.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/office.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/corporate-governance.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company/procurement.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/csr-eco/message.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/csr-eco/education.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/csr-eco/mystylebosai.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/csr-eco/ghg/interview.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/csr-eco/gri.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/csr-eco/commendation.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/csr-eco/ghgarea.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/csr-eco/esg.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/csr-eco/ghg.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/csr-eco/group_csr.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/csr-eco/report.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/csr-eco/sasb.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/csr-eco/kyoseilifevision.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/csr-eco/esgdata.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/csr-eco/reff.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/csr-eco/covid-19.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/ir/3minutes.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/ir/calendar.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/ir/terms-and-conditions.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/ir/policy.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/ir/library.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/ir/report.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/ir/financial.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/ir/news.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/ir/convocation.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/ir/stock.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/ir/stock_search.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/privacy-policy/specific.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/privacy-policy/cookie.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/privacy-policy/purpose.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/cookup/home.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/cookup/site-map.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/cookup/custom404.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/home.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/campaign.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/video.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/recruit.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/csr-eco.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/sns.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/sns/guideline.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/annotation.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/site-map.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/ir.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/member.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/useful.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/brand.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/company.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/terms-of-use.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/contact-us.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/brand/household_b.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/with_c.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/ja/privacy-policy.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/home.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/global.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/site-map.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/company.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/ir.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/brand.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/terms-of-use.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/csr-eco.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/privacy-policy.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/en/sns/guideline.html"
+      },
+      {
+        "url": "https://www.unicharm.co.jp/"
+      }
+    ]
+  }
+}

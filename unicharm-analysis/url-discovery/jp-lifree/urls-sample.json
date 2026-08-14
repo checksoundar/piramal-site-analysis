@@ -1,0 +1,1069 @@
+{
+  "urls-sample": {
+    "captured": "2026-08-14T03:38:55.384Z",
+    "totalUrls": 353,
+    "createdBy": "create-sample.js",
+    "samplingMethod": "all-urls",
+    "urls": [
+      {
+        "url": "https://jp.lifree.com/ja/product/light/sawayaka_pads_slight_leaks/what.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/light/sawayaka_pads_slight_leaks/voice.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/light/sawayaka_pads_slight_leaks/qa.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/light/choose/data.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/light/choose/experience.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adult/choose/experience.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adult/choose/data.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adult/choose/point.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adult/choose/advice.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adult/choose/navi.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adult/purchase/data.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adult/purchase/experience.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adult/excretion/data.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adult/excretion/experience.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adult/pants/data.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adult/pants/experience.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/sawayakamen/campaign-201811/01/index.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/sawayakamen/campaign-201811/02/index.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/sawayakamen/campaign-201811/01.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/sawayakamen/campaign-201811/02.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/dementia-prevention/socialwalking/report/20161006_tokyo_chiyoda.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/dementia-prevention/socialwalking/report/20161007_osaka_osaka.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/dementia-prevention/socialwalking/report/20170415_tokyo_tachikawa.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/dementia-prevention/socialwalking/report/20170604_shizuoka_kakegawa.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/dementia-prevention/socialwalking/report/20171015_osaka_sakai.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/dementia-prevention/socialwalking/report/20180421_tokyo_edogawa.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/dementia-prevention/socialwalking/report/20181014_shizuoka_fuji.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/dementia-prevention/socialwalking/report/20181104_tokyo_edogawa.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/dementia-prevention/socialwalking/report/20181108_kagoshima_shibushi.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/dementia-prevention/socialwalking/report/20181111_shizuoka_kakegawa.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/dementia-prevention/socialwalking/report/20181118_shizuoka_fuji.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/dementia-prevention/socialwalking/report/20181209_shizuoka_kakegawa.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/dementia-prevention/socialwalking/report/20190321_shizuoka_kakegawa.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/dementia-prevention/socialwalking/report/20190331_shizuoka_shizuoka.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/dementia-prevention/socialwalking/report/20190203_tokyo_edogawa.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/dementia-prevention/socialwalking/report/20190403_tokyo_koto.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/dementia-prevention/socialwalking/report/20190525_shizuoka_fuji.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/dementia-prevention/socialwalking/report/20190602_shizuoka_hamamatsu.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/dementia-prevention/socialwalking/report/20190518_gifu_nakatsugawa.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/dementia-prevention/socialwalking/report/20190608_gifu_ena.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/dementia-prevention/socialwalking/report/20190616_shizuoka_fuji.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/dementia-prevention/socialwalking/report/20190713_ishikawa_kaga.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/dementia-prevention/socialwalking/report/20190906_fukuoka_kanda.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/dementia-prevention/socialwalking/report/20190706_kyoto_miyazu.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/dementia-prevention/socialwalking/report/20190916_saitama_asaka.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/dementia-prevention/socialwalking/report/20190916_shizuoka_fuji.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/dementia-prevention/socialwalking/report/20191020_shizuoka_fuji.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/dementia-prevention/socialwalking/report/20191125_siga_nagahama.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/dementia-prevention/socialwalking/report/20191201_hiroshima_hiroshima.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/shop/iwasaki/adult/bottom_clean_shower.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/shop/iwasaki/adult/wet_wipes_sturdy.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/shop/sunroad/adult/all_night_anshin_urine_absorption_pads_super_night.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/shop/sunroad/adult/wet_wipes_sturdy.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/shop/sunroad/adult/slimfit_style_underwear_b.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/light/sawayaka_pads_light.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/light/sawayaka_pads_comfortable_medium_volume_levels.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/light/sawayaka_pads_anshin_regular.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/light/sawayaka_pads_anshin_heavy.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/light/sawayaka_pads_long_wear_night_anshin.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/light/sawayaka_pads_1_pad_anshin_especially_heavy_days.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/light/sawayaka_pads_long_wear_anshin_especially_heavy_days.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/light/emergency_anshin.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/light/sawayaka_pads_slim_anshin_especially_heavy_flow_slim.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/light/sawayaka_pads_slim_anshin_long_wear_night_slim.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/light/sawayaka_pads_m_very_light.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/light/sawayaka_pads_m_light.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/light/sawayaka_pads_m_regular.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/light/sawayaka_pads_m_anshin_heavy.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/light/sawayaka_pads_m_anshin_extremely_heavy.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/light/sawayaka_pads_m_sudden_leakage_security.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/light/sawayaka_pads_slight_leaks.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/light/sawayaka_pads_very_light_extra.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/light/sawayaka_pads_very_light.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/light/sawayaka_pads_comfortable_heavy_levels.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/light/sawayaka_pads_m_comfortable_regular.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/light/sawayaka_pads_binkan_very_light.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/light/sawayaka_pads_binkan_light.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/light/sawayaka_pads_binkan_comfortable_medium.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/light/anshin_usual_underwear_100.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/light/anshin_usual_underwear_200.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/light/night_anshin_150.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/light/night_anshin_250.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/light/night_anshin_350.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/light/sawayaka_pads_light/voice.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/light/sawayaka_pads_comfortable_medium_volume_levels/voice.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/light/sawayaka_pads_anshin_regular/voice.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/light/sawayaka_pads_anshin_heavy/voice.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/light/sawayaka_pads_long_wear_night_anshin/voice.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/light/sawayaka_pads_1_pad_anshin_especially_heavy_days/voice.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/light/sawayaka_pads_long_wear_anshin_especially_heavy_days/voice.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/light/emergency_anshin/voice.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/light/sawayaka_pads_slim_anshin_especially_heavy_flow_slim/voice.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/light/sawayaka_pads_slim_anshin_long_wear_night_slim/voice.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/light/sawayaka_pads_m_very_light/voice.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/light/sawayaka_pads_m_light/voice.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/light/sawayaka_pads_m_regular/voice.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/light/sawayaka_pads_m_anshin_heavy/voice.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/light/sawayaka_pads_m_anshin_extremely_heavy/voice.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/light/sawayaka_pads_m_sudden_leakage_security/voice.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/light/sawayaka_pads_very_light_extra/voice.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/light/sawayaka_pads_very_light/voice.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/light/sawayaka_pads_comfortable_heavy_levels/voice.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/light/sawayaka_pads_m_comfortable_regular/voice.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/light/sawayaka_pads_binkan_very_light/voice.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/light/sawayaka_pads_binkan_light/voice.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/light/sawayaka_pads_binkan_comfortable_medium/voice.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adult/feels_like_underwear_ultra_thin_pants.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adult/thin_keikai_pants.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adult/chojikan_thin_pants.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adult/rehabilitation_pants.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adult/chojikan_anshin_pants_without_urinary_absorption_pads.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adult/nobiru_fit_thin_with_light_tape_holds.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adult/nobiru_fit_thin_with_anshin_tape_holds.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adult/side_leakage_anshin_tape_hold.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adult/antislip_anshin_urine_pads_underwear.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adult/antislip_anshin_urine_pads_underwear_long_wear.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adult/antislip_anshin_urine_pads_underwear_half_width.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adult/antislip_anshin_urine_pads_underwear_night.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adult/antislip_anshin_urine_pads_underwear_night_super.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adult/anshin_urine_absorption_pads_super_w.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adult/chojikan_anshin_urine_absorption_pads_super_day.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adult/chojikan_anshin_super_ultra_urine_absorption_pads_day.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adult/all_night_anshin_urine_absorption_pads_night.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adult/all_night_anshin_urine_absorption_pads_super_night.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adult/all_night_anshin_super_ultra_urine_absorption_pads_night.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adult/bottom_clean_shower.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adult/wet_wipes_toiletflushing.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adult/wet_wipes_sturdy.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adult/super_large_sukkiri_wet_wipes.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adult/sarasara_body_sheet.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adult/futon_anshin_sheets.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adult/choose.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adult/all_night_anshin_urine_absorption_pads_super_plus_night.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adult/walking_assist_underwear.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adult/antislip_anshin_urine_pads_underwear_conpact_wear.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adult/antislip_anshin_urine_pads_underwear_6.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adult/antislip_anshin_urine_pads_underwear_8.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adult/walking_assist_underwear_4.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adult/antislip_anshin_urine_pads_underwear_half_width_4.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adult/feels_like_underwear_ultra_thin_pants_4.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adult/reff_nobiru_fit_thin_with_light_tape_holds.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adult/thin_keikai_organic_pants.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adult/feels_like_underwear_ultra_thin_premiumpants.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adult/teishigeki_anshin_urine_absorption_pads_4.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adult/teishigeki_anshin_urine_absorption_pads_6.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adult/antislip_anshin_syosyu_urine_pads_underwear_2.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adult/antislip_anshin_syosyu_urine_pads_underwear_4.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adult/feels_like_underwear_ultra_thin_pants/voice.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adult/thin_keikai_pants/voice.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adult/chojikan_thin_pants/voice.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adult/rehabilitation_pants/voice.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adult/chojikan_anshin_pants_without_urinary_absorption_pads/voice.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adult/antislip_anshin_urine_pads_underwear/voice.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adult/antislip_anshin_urine_pads_underwear_long_wear/voice.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adult/antislip_anshin_urine_pads_underwear_half_width/voice.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adult/antislip_anshin_urine_pads_underwear_night/voice.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adult/antislip_anshin_urine_pads_underwear_night_super/voice.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adult/chojikan_anshin_urine_absorption_pads_super_day/voice.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adult/chojikan_anshin_super_ultra_urine_absorption_pads_day/voice.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adult/all_night_anshin_urine_absorption_pads_night/voice.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adult/all_night_anshin_urine_absorption_pads_super_night/voice.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adult/all_night_anshin_super_ultra_urine_absorption_pads_night/voice.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adult/bottom_clean_shower/voice.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adult/all_night_anshin_urine_absorption_pads_super_plus_night/voice.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adult/walking_assist_underwear/voice.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adult/antislip_anshin_urine_pads_underwear_6/voice.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adult/antislip_anshin_urine_pads_underwear_8/voice.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adult/walking_assist_underwear_4/voice.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adult/feels_like_underwear_ultra_thin_pants_4/voice.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adult/antislip_anshin_syosyu_urine_pads_underwear_2/voice.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adult/antislip_anshin_syosyu_urine_pads_underwear_4/voice.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/sawayakamen/products/sawayaka_pads_m_very_light.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/sawayakamen/products/sawayaka_pads_m_light.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/sawayakamen/products/sawayaka_pads_m_regular.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/sawayakamen/products/sawayaka_pads_m_anshin_heavy.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/sawayakamen/products/sawayaka_pads_m_anshin_extremely_heavy.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/sawayakamen/products/sawayaka_pads_m_sudden_leakage_security.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/sawayakamen/products/sawayaka_pads_m_comfortable_regular.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/sawayakamen/five/v2.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/sawayakamen/five/v3.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/sawayakamen/five/v4.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/sawayakamen/five/v5.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/sawayakamen/check/result-s.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/sawayakamen/check/result-m.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/sawayakamen/check/result-l.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/sawayakamen/research/r6.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/sawayakamen/research/r7.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/sawayakamen/research/r5.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/sawayakamen/research/r1.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/sawayakamen/research/r2.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/sawayakamen/research/r3.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/sawayakamen/research/r4.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/sawayakamen/care/vol1.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/sawayakamen/care/vol2.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/sawayakamen/care/vol3.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/sawayakamen/care/vol4.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/dementia-prevention/socialwalking/about.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/dementia-prevention/socialwalking/detail.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/dementia-prevention/socialwalking/report.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/dementia-prevention/socialwalking/voice.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/dementia-prevention/socialwalking/contact.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/dementia-prevention/socialwalking/event-voice.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/dementia-prevention/socialwalking/support.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/urine-leakage/experience/data.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/urine-leakage/experience/experience.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/urine-leakage/experience/family-experience.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/urine-leakage/experience/advice.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/urine-leakage/experience/family-data.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/advice/professional/01.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/advice/professional/02.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/advice/professional/03.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/advice/professional/04.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/advice/professional/05.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/advice/professional/06.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/healthy_life/ikiiki/02.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/healthy_life/ikiiki/01.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/healthy_life/ikiiki/03.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/procare/products/tape_anshin.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/procare/products/nobirutape_fit.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/procare/products/comfortable_sarasara.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/procare/products/pants_regular.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/procare/products/pants_super.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/procare/products/pants_anshin.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/procare/products/sotomore_sarasara.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/procare/products/sarasara_pad.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/procare/products/sarasara_premium.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/procare/products/skincondition_super.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/procare/products/kantanpad.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/procare/products/kantanpad_super.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/procare/products/sarasara_ultra.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/procare/products/care_hip.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/procare/products/care_ab_sheet.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/procare/products/care_wettowel.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/procare/products/care_sheet.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/procare/products/skincondition_ultra.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/procare/products/sarasara_super.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/procare/products/sarasara_extra.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/procare/products/care_wa_towel.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/procare/products/care_bottle.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/procare/products/skincondition_extra.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/procare/products/softalk_surgical.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/procare/products/sarasara_skincondition.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/procare/products/lightpants_regular.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/procare/products/care_hip_essence.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/procare/products/kantanpad_night_super.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/procare/products/kantanpad_night_ultra.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/procare/movie/continence-care.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/procare/movie/web-seminar.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/light-female.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/light-male.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adl0.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adl1.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adl2.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adl3.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adl4.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/adl5.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/care.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product/list.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/sawayakamen/home.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/sawayakamen/products.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/sawayakamen/manual.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/sawayakamen/qa.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/sawayakamen/five.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/sawayakamen/check.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/sawayakamen/research.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/sawayakamen/aruaru.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/sawayakamen/campaign-201811.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/sawayakamen/care.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/sawayakamen/cm.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/dementia-prevention/symptom.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/dementia-prevention/type.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/dementia-prevention/cause.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/dementia-prevention/diagnosis-treatment.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/dementia-prevention/primary-prevention-03.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/dementia-prevention/primary-prevention-02.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/dementia-prevention/primary-prevention-01.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/dementia-prevention/start.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/dementia-prevention/meal-basic-01.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/dementia-prevention/risk.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/dementia-prevention/meal-basic-02.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/dementia-prevention/socialwalking.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/dementia-prevention/stress-management.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/dementia-prevention/activity-01.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/dementia-prevention/activity-02.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/dementia-prevention/oral-01.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/dementia-prevention/oral-02.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/dementia-prevention/reserve-power-01.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/dementia-prevention/reserve-power-02.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/dementia-prevention/alternating-current-01.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/dementia-prevention/alternating-current-02.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/dementia-prevention/various-approaches-01.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/dementia-prevention/various-approaches-02.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/dementia-prevention/diagnosis-prevention-01.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/dementia-prevention/diagnosis-prevention-02.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/lp/woman-light201910.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/lp/monitor_shorts.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/urine-leakage/experience.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/urine-leakage/female.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/urine-leakage/exclusive.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/urine-leakage/male.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/urine-leakage/training.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/urine-leakage/psychogenic-frequent-urination.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/urine-leakage/pressure-points.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/urine-leakage/basic.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/urine-leakage/urge-incontinence.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/urine-leakage/types.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/urine-leakage/stress-urinary-incontinence.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/advice/professional.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/advice/rehabilitation.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/advice/deduction.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/advice/usage.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/advice/point.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/advice/adl.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/advice/assistance.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/advice/qa.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/advice/disposal-method.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/advice/subsidy.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/healthy_life/activity.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/healthy_life/message.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/healthy_life/report01.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/healthy_life/ikiiki.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/healthy_life/report02.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/healthy_life/odekake.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/procare/products.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/procare/charts.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/procare/idea.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/procare/home.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/procare/activity.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/procare/custom404.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/procare/form.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/procare/movie.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/procare/idea/care.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/contents/type-shindan.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/contents/size-shindan.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/contents/pants-shindan.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/contents/charm-san.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/home.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/product.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/sawayakamen.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/dementia-prevention.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/urine-leakage.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/cm.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/advice.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/healthy_life.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/enuresis-diurna.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/new-home.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/contents.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/global.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/shop/iwasaki/light/sawayaka_pads_slight_leaks/what.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/shop/kirindo/light/sawayaka_pads_slight_leaks/voice.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/shop/kirindo/adult/bottom_clean_shower.html"
+      },
+      {
+        "url": "https://jp.lifree.com/ja/enuresis-diurna/home.html"
+      },
+      {
+        "url": "https://jp.lifree.com/"
+      }
+    ]
+  }
+}

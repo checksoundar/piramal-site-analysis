@@ -1,0 +1,43 @@
+2026-08-14 03:38:07 | INFO | Redirect (301) → https://jp.moony.com/ja/home.html
+2026-08-14 03:38:08 | INFO | Checking root page for sitemap-like links...
+2026-08-14 03:38:08 | INFO | Redirect (301) → https://jp.moony.com/ja/home.html
+2026-08-14 03:38:08 | INFO | Found 1 sitemap-like candidate(s) on the root page
+2026-08-14 03:38:08 | INFO | Trying sitemap candidates...
+2026-08-14 03:38:08 | INFO | Trying sitemap candidate: https://jp.moony.com/sitemap.xml
+2026-08-14 03:38:08 | WARNING | HTTP status: 404
+2026-08-14 03:38:08 | INFO | Trying sitemap candidate: https://jp.moony.com/sitemap.xml.gz
+2026-08-14 03:38:08 | WARNING | HTTP status: 404
+2026-08-14 03:38:08 | INFO | Trying sitemap candidate: https://jp.moony.com/sitemap_index.xml
+2026-08-14 03:38:09 | WARNING | HTTP status: 404
+2026-08-14 03:38:09 | INFO | Trying sitemap candidate: https://jp.moony.com/sitemap-index.xml
+2026-08-14 03:38:09 | WARNING | HTTP status: 404
+2026-08-14 03:38:09 | INFO | Trying sitemap candidate: https://jp.moony.com/sitemap.txt
+2026-08-14 03:38:09 | WARNING | HTTP status: 404
+2026-08-14 03:38:09 | INFO | Trying sitemap candidate: https://jp.moony.com/ja/site-map.html
+2026-08-14 03:38:10 | WARNING | Got 200 but not a valid sitemap. Preview: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"> <html lang="ja" > <head prefix="og: http://ogp.me/ns#"> <meta http-equiv="Content-Type...
+2026-08-14 03:38:10 | INFO | Checking robots.txt for sitemap references...
+2026-08-14 03:38:10 | INFO | Found 2 sitemap(s) in robots.txt
+2026-08-14 03:38:10 | INFO | Processing 2 unique sitemap(s) from robots.txt...
+2026-08-14 03:38:10 | INFO | [1/2] Fetching sitemap: https://jp.moony.com/ja/sitemap.xml
+2026-08-14 03:38:10 | INFO | Fetched sitemap successfully (urlset)
+2026-08-14 03:38:10 | INFO | [2/2] Fetching sitemap: https://jp.moony.com/en/sitemap.xml
+2026-08-14 03:38:11 | WARNING | HTTP status: 404
+2026-08-14 03:38:11 | WARNING | Failed to fetch sitemap (status: 404)
+2026-08-14 03:38:11 | INFO | Successfully fetched 1 sitemap(s)
+2026-08-14 03:38:11 | INFO | Fetching sitemap for site root: https://jp.moony.com
+2026-08-14 03:38:11 | INFO | Processing 1 sitemap(s)...
+2026-08-14 03:38:11 | INFO | [1/1] Processing sitemap: https://jp.moony.com/ja/sitemap.xml
+2026-08-14 03:38:11 | INFO | Sitemap type: urlset
+2026-08-14 03:38:11 | INFO | Extracted 808 URLs
+2026-08-14 03:38:11 | INFO | Sitemap fetch complete
+2026-08-14 03:38:11 | INFO | Total sitemaps processed: 1
+2026-08-14 03:38:11 | INFO | Total URLs discovered: 808
+2026-08-14 03:38:11 | INFO | Sitemap location 1: https://jp.moony.com/ja/sitemap.xml
+2026-08-14 03:38:54 | INFO | Creating sample URLs...
+2026-08-14 03:38:54 | INFO | Total URLs in grouped data: 809
+2026-08-14 03:38:54 | INFO | Total URLs (809) <= 1000, using ALL URLs
+2026-08-14 03:38:54 | INFO | Created urls-sample.json with 809 URLs
+2026-08-14 03:38:54 | INFO | Validating urls-sample.json against schema...
+✅ VALIDATION PASSED: urls-sample.json matches schema
+2026-08-14 03:38:54 | INFO | Schema validation passed
+2026-08-14 03:38:54 | INFO | Sample creation complete - urls-sample.json with 809 URLs

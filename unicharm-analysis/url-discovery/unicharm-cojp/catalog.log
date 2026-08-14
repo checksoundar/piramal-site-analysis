@@ -1,0 +1,47 @@
+2026-08-14 03:38:05 | INFO | Redirect (301) → https://www.unicharm.co.jp/ja/home.html
+2026-08-14 03:38:05 | INFO | Checking root page for sitemap-like links...
+2026-08-14 03:38:05 | INFO | Redirect (301) → https://www.unicharm.co.jp/ja/home.html
+2026-08-14 03:38:05 | INFO | Found 1 sitemap-like candidate(s) on the root page
+2026-08-14 03:38:05 | INFO | Trying sitemap candidates...
+2026-08-14 03:38:05 | INFO | Trying sitemap candidate: https://www.unicharm.co.jp/sitemap.xml
+2026-08-14 03:38:06 | WARNING | HTTP status: 404
+2026-08-14 03:38:06 | INFO | Trying sitemap candidate: https://www.unicharm.co.jp/sitemap.xml.gz
+2026-08-14 03:38:06 | WARNING | HTTP status: 404
+2026-08-14 03:38:06 | INFO | Trying sitemap candidate: https://www.unicharm.co.jp/sitemap_index.xml
+2026-08-14 03:38:07 | WARNING | HTTP status: 404
+2026-08-14 03:38:07 | INFO | Trying sitemap candidate: https://www.unicharm.co.jp/sitemap-index.xml
+2026-08-14 03:38:07 | WARNING | HTTP status: 404
+2026-08-14 03:38:07 | INFO | Trying sitemap candidate: https://www.unicharm.co.jp/sitemap.txt
+2026-08-14 03:38:07 | WARNING | HTTP status: 404
+2026-08-14 03:38:07 | INFO | Trying sitemap candidate: https://www.unicharm.co.jp/ja/site-map.html
+2026-08-14 03:38:07 | WARNING | Got 200 but not a valid sitemap. Preview: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"> <html lang="ja" > <head prefix="og: http://ogp.me/ns#"> <meta http-equiv="Content-Type...
+2026-08-14 03:38:07 | INFO | Checking robots.txt for sitemap references...
+2026-08-14 03:38:08 | INFO | Found 2 sitemap(s) in robots.txt
+2026-08-14 03:38:08 | INFO | Processing 2 unique sitemap(s) from robots.txt...
+2026-08-14 03:38:08 | INFO | [1/2] Fetching sitemap: https://www.unicharm.co.jp/ja/sitemap.xml
+2026-08-14 03:38:08 | INFO | Fetched sitemap successfully (urlset)
+2026-08-14 03:38:08 | INFO | [2/2] Fetching sitemap: https://www.unicharm.co.jp/en/sitemap.xml
+2026-08-14 03:38:08 | INFO | Fetched sitemap successfully (urlset)
+2026-08-14 03:38:08 | INFO | Successfully fetched 2 sitemap(s)
+2026-08-14 03:38:08 | INFO | Fetching sitemap for site root: https://www.unicharm.co.jp
+2026-08-14 03:38:08 | INFO | Processing 2 sitemap(s)...
+2026-08-14 03:38:08 | INFO | [1/2] Processing sitemap: https://www.unicharm.co.jp/ja/sitemap.xml
+2026-08-14 03:38:08 | INFO | Sitemap type: urlset
+2026-08-14 03:38:08 | INFO | Extracted 1437 URLs
+2026-08-14 03:38:08 | INFO | [2/2] Processing sitemap: https://www.unicharm.co.jp/en/sitemap.xml
+2026-08-14 03:38:08 | INFO | Sitemap type: urlset
+2026-08-14 03:38:08 | INFO | Extracted 227 URLs
+2026-08-14 03:38:08 | INFO | Sitemap fetch complete
+2026-08-14 03:38:08 | INFO | Total sitemaps processed: 2
+2026-08-14 03:38:08 | INFO | Total URLs discovered: 1664
+2026-08-14 03:38:08 | INFO | Sitemap location 1: https://www.unicharm.co.jp/ja/sitemap.xml
+2026-08-14 03:38:08 | INFO | Sitemap location 2: https://www.unicharm.co.jp/en/sitemap.xml
+2026-08-14 03:38:53 | INFO | Creating sample URLs...
+2026-08-14 03:38:53 | INFO | Total URLs in grouped data: 1665
+2026-08-14 03:38:53 | INFO | Total URLs (1665) > 1000, sampling with cap of 1000 (full coverage for 53 groups <= 20 URLs, minimum 5 URLs across 3 larger groups)
+2026-08-14 03:38:53 | INFO | Sampled 1000 URLs from 1665 total (cap: 1000)
+2026-08-14 03:38:53 | INFO | Created urls-sample.json with 1000 URLs
+2026-08-14 03:38:53 | INFO | Validating urls-sample.json against schema...
+✅ VALIDATION PASSED: urls-sample.json matches schema
+2026-08-14 03:38:53 | INFO | Schema validation passed
+2026-08-14 03:38:53 | INFO | Sample creation complete - urls-sample.json with 1000 URLs

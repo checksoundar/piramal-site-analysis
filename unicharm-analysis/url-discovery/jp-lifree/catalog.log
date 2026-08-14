@@ -1,0 +1,37 @@
+2026-08-14 03:38:05 | INFO | Redirect (301) → https://jp.lifree.com/ja/home.html
+2026-08-14 03:38:05 | INFO | Checking root page for sitemap-like links...
+2026-08-14 03:38:05 | INFO | Redirect (301) → https://jp.lifree.com/ja/home.html
+2026-08-14 03:38:05 | INFO | Trying sitemap candidates...
+2026-08-14 03:38:05 | INFO | Trying sitemap candidate: https://jp.lifree.com/sitemap.xml
+2026-08-14 03:38:06 | WARNING | HTTP status: 404
+2026-08-14 03:38:06 | INFO | Trying sitemap candidate: https://jp.lifree.com/sitemap.xml.gz
+2026-08-14 03:38:06 | WARNING | HTTP status: 404
+2026-08-14 03:38:06 | INFO | Trying sitemap candidate: https://jp.lifree.com/sitemap_index.xml
+2026-08-14 03:38:06 | WARNING | HTTP status: 404
+2026-08-14 03:38:07 | INFO | Trying sitemap candidate: https://jp.lifree.com/sitemap-index.xml
+2026-08-14 03:38:07 | WARNING | HTTP status: 404
+2026-08-14 03:38:07 | INFO | Trying sitemap candidate: https://jp.lifree.com/sitemap.txt
+2026-08-14 03:38:07 | WARNING | HTTP status: 404
+2026-08-14 03:38:07 | INFO | Checking robots.txt for sitemap references...
+2026-08-14 03:38:07 | INFO | Found 1 sitemap(s) in robots.txt
+2026-08-14 03:38:07 | INFO | Processing 1 unique sitemap(s) from robots.txt...
+2026-08-14 03:38:07 | INFO | [1/1] Fetching sitemap: https://jp.lifree.com/ja/sitemap.xml
+2026-08-14 03:38:07 | INFO | Fetched sitemap successfully (urlset)
+2026-08-14 03:38:07 | INFO | Successfully fetched 1 sitemap(s)
+2026-08-14 03:38:07 | INFO | Fetching sitemap for site root: https://jp.lifree.com
+2026-08-14 03:38:07 | INFO | Processing 1 sitemap(s)...
+2026-08-14 03:38:07 | INFO | [1/1] Processing sitemap: https://jp.lifree.com/ja/sitemap.xml
+2026-08-14 03:38:07 | INFO | Sitemap type: urlset
+2026-08-14 03:38:07 | INFO | Extracted 352 URLs
+2026-08-14 03:38:07 | INFO | Sitemap fetch complete
+2026-08-14 03:38:07 | INFO | Total sitemaps processed: 1
+2026-08-14 03:38:07 | INFO | Total URLs discovered: 352
+2026-08-14 03:38:07 | INFO | Sitemap location 1: https://jp.lifree.com/ja/sitemap.xml
+2026-08-14 03:38:55 | INFO | Creating sample URLs...
+2026-08-14 03:38:55 | INFO | Total URLs in grouped data: 353
+2026-08-14 03:38:55 | INFO | Total URLs (353) <= 1000, using ALL URLs
+2026-08-14 03:38:55 | INFO | Created urls-sample.json with 353 URLs
+2026-08-14 03:38:55 | INFO | Validating urls-sample.json against schema...
+✅ VALIDATION PASSED: urls-sample.json matches schema
+2026-08-14 03:38:55 | INFO | Schema validation passed
+2026-08-14 03:38:55 | INFO | Sample creation complete - urls-sample.json with 353 URLs
