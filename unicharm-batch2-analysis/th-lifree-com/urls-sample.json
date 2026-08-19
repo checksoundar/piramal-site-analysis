@@ -1,0 +1,202 @@
+{
+  "urls-sample": {
+    "captured": "2026-08-19T11:38:13.335Z",
+    "totalUrls": 64,
+    "createdBy": "create-sample.js",
+    "samplingMethod": "all-urls",
+    "urls": [
+      {
+        "url": "https://th.lifree.com/th/product/light/choose/data.html"
+      },
+      {
+        "url": "https://th.lifree.com/th/product/light/choose/experience.html"
+      },
+      {
+        "url": "https://th.lifree.com/th/product/adult/choose/index.html"
+      },
+      {
+        "url": "https://th.lifree.com/th/product/adult/choose/point.html"
+      },
+      {
+        "url": "https://th.lifree.com/th/product/adult/choose/advice.html"
+      },
+      {
+        "url": "https://th.lifree.com/th/product/adult/choose/experience.html"
+      },
+      {
+        "url": "https://th.lifree.com/th/product/adult/choose/data.html"
+      },
+      {
+        "url": "https://th.lifree.com/th/product/adult/purchase/experience.html"
+      },
+      {
+        "url": "https://th.lifree.com/th/product/adult/purchase/data.html"
+      },
+      {
+        "url": "https://th.lifree.com/th/product/adult/pants/experience.html"
+      },
+      {
+        "url": "https://th.lifree.com/th/product/adult/pants/data.html"
+      },
+      {
+        "url": "https://th.lifree.com/th/product/light/inco300cc.html"
+      },
+      {
+        "url": "https://th.lifree.com/th/product/light/inco100cc.html"
+      },
+      {
+        "url": "https://th.lifree.com/th/product/light/inco150cc.html"
+      },
+      {
+        "url": "https://th.lifree.com/th/product/light/inco200cc.html"
+      },
+      {
+        "url": "https://th.lifree.com/th/product/adult/choose.html"
+      },
+      {
+        "url": "https://th.lifree.com/th/product/adult/purchase.html"
+      },
+      {
+        "url": "https://th.lifree.com/th/product/adult/pants.html"
+      },
+      {
+        "url": "https://th.lifree.com/th/product/adult/light_pants.html"
+      },
+      {
+        "url": "https://th.lifree.com/th/product/adult/rehabili_pants.html"
+      },
+      {
+        "url": "https://th.lifree.com/th/product/adult/dry_comfort_tape.html"
+      },
+      {
+        "url": "https://th.lifree.com/th/product/adult/sp_standard.html"
+      },
+      {
+        "url": "https://th.lifree.com/th/product/adult/sp_super.html"
+      },
+      {
+        "url": "https://th.lifree.com/th/product/adult/sp_night.html"
+      },
+      {
+        "url": "https://th.lifree.com/th/product/adult/night_pants.html"
+      },
+      {
+        "url": "https://th.lifree.com/th/product/adult/wipes.html"
+      },
+      {
+        "url": "https://th.lifree.com/th/nyoumore/experience/advice.html"
+      },
+      {
+        "url": "https://th.lifree.com/th/nyoumore/experience/experience.html"
+      },
+      {
+        "url": "https://th.lifree.com/th/nyoumore/experience/data.html"
+      },
+      {
+        "url": "https://th.lifree.com/th/nyoumore/experience/family_experience.html"
+      },
+      {
+        "url": "https://th.lifree.com/th/nyoumore/experience/family_data.html"
+      },
+      {
+        "url": "https://th.lifree.com/th/advice/professional/01.html"
+      },
+      {
+        "url": "https://th.lifree.com/th/advice/professional/04.html"
+      },
+      {
+        "url": "https://th.lifree.com/th/advice/professional/06.html"
+      },
+      {
+        "url": "https://th.lifree.com/th/nyoumore/cause.html"
+      },
+      {
+        "url": "https://th.lifree.com/th/nyoumore/exclusive.html"
+      },
+      {
+        "url": "https://th.lifree.com/th/nyoumore/training.html"
+      },
+      {
+        "url": "https://th.lifree.com/th/nyoumore/experience.html"
+      },
+      {
+        "url": "https://th.lifree.com/th/advice/point.html"
+      },
+      {
+        "url": "https://th.lifree.com/th/advice/usage.html"
+      },
+      {
+        "url": "https://th.lifree.com/th/advice/adl.html"
+      },
+      {
+        "url": "https://th.lifree.com/th/advice/professional.html"
+      },
+      {
+        "url": "https://th.lifree.com/th/advice/qa.html"
+      },
+      {
+        "url": "https://th.lifree.com/th/advice/rehabilitation.html"
+      },
+      {
+        "url": "https://th.lifree.com/th/dementia-prevention/symptom.html"
+      },
+      {
+        "url": "https://th.lifree.com/th/dementia-prevention/type.html"
+      },
+      {
+        "url": "https://th.lifree.com/th/dementia-prevention/cause.html"
+      },
+      {
+        "url": "https://th.lifree.com/th/dementia-prevention/diagnosis-treatment.html"
+      },
+      {
+        "url": "https://th.lifree.com/th/healthy_life/report01.html"
+      },
+      {
+        "url": "https://th.lifree.com/th/healthy_life/report02.html"
+      },
+      {
+        "url": "https://th.lifree.com/th/healthy_life/activity.html"
+      },
+      {
+        "url": "https://th.lifree.com/th/healthy_life/activity/06.html"
+      },
+      {
+        "url": "https://th.lifree.com/th/home.html"
+      },
+      {
+        "url": "https://th.lifree.com/th/product.html"
+      },
+      {
+        "url": "https://th.lifree.com/th/nyoumore.html"
+      },
+      {
+        "url": "https://th.lifree.com/th/advice.html"
+      },
+      {
+        "url": "https://th.lifree.com/th/dementia-prevention.html"
+      },
+      {
+        "url": "https://th.lifree.com/th/healthy_life.html"
+      },
+      {
+        "url": "https://th.lifree.com/th/cm.html"
+      },
+      {
+        "url": "https://th.lifree.com/th/products_select.html"
+      },
+      {
+        "url": "https://th.lifree.com/th/product-navigation.html"
+      },
+      {
+        "url": "https://th.lifree.com/th/ip_select.html"
+      },
+      {
+        "url": "https://th.lifree.com/th/global.html"
+      },
+      {
+        "url": "https://th.lifree.com/"
+      }
+    ]
+  }
+}

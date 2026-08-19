@@ -1,0 +1,94 @@
+{
+  "urls-sample": {
+    "captured": "2026-08-19T11:42:51.376Z",
+    "totalUrls": 28,
+    "createdBy": "create-sample.js",
+    "samplingMethod": "all-urls",
+    "urls": [
+      {
+        "url": "https://jp.unicharm-wave.com/ja/products/handywiper.html"
+      },
+      {
+        "url": "https://jp.unicharm-wave.com/ja/products/handywiper_long.html"
+      },
+      {
+        "url": "https://jp.unicharm-wave.com/ja/products/floorwiper.html"
+      },
+      {
+        "url": "https://jp.unicharm-wave.com/ja/products/floorwiper_ichimaikanketsu.html"
+      },
+      {
+        "url": "https://jp.unicharm-wave.com/ja/products/handywiper_sheet.html"
+      },
+      {
+        "url": "https://jp.unicharm-wave.com/ja/products/handywiper_case.html"
+      },
+      {
+        "url": "https://jp.unicharm-wave.com/ja/products/floorwiper_dry.html"
+      },
+      {
+        "url": "https://jp.unicharm-wave.com/ja/products/floorwiper_wet.html"
+      },
+      {
+        "url": "https://jp.unicharm-wave.com/en/products/handywiper.html"
+      },
+      {
+        "url": "https://jp.unicharm-wave.com/en/products/handywiper_long.html"
+      },
+      {
+        "url": "https://jp.unicharm-wave.com/en/products/floorwiper.html"
+      },
+      {
+        "url": "https://jp.unicharm-wave.com/en/products/floorwiper_ichimaikanketsu.html"
+      },
+      {
+        "url": "https://jp.unicharm-wave.com/en/products/handywiper_sheet.html"
+      },
+      {
+        "url": "https://jp.unicharm-wave.com/en/products/floorwiper_dry.html"
+      },
+      {
+        "url": "https://jp.unicharm-wave.com/en/products/floorwiper_wet.html"
+      },
+      {
+        "url": "https://jp.unicharm-wave.com/en/products/handywiper_case.html"
+      },
+      {
+        "url": "https://jp.unicharm-wave.com/ja/home.html"
+      },
+      {
+        "url": "https://jp.unicharm-wave.com/ja/products.html"
+      },
+      {
+        "url": "https://jp.unicharm-wave.com/ja/tips.html"
+      },
+      {
+        "url": "https://jp.unicharm-wave.com/ja/message.html"
+      },
+      {
+        "url": "https://jp.unicharm-wave.com/ja/cm.html"
+      },
+      {
+        "url": "https://jp.unicharm-wave.com/ja/site-map.html"
+      },
+      {
+        "url": "https://jp.unicharm-wave.com/ja"
+      },
+      {
+        "url": "https://jp.unicharm-wave.com/en/home.html"
+      },
+      {
+        "url": "https://jp.unicharm-wave.com/en/products.html"
+      },
+      {
+        "url": "https://jp.unicharm-wave.com/en/site-map.html"
+      },
+      {
+        "url": "https://jp.unicharm-wave.com/en"
+      },
+      {
+        "url": "https://jp.unicharm-wave.com/"
+      }
+    ]
+  }
+}

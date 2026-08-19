@@ -1,0 +1,813 @@
+{
+  "analysis-urls-all": {
+    "captured": "2026-08-19T11:38:46.318Z",
+    "totalUrls": 131,
+    "totalDocuments": 68,
+    "method": "crawl",
+    "sitemapURL": null,
+    "robotsTxtFound": true,
+    "robotsTxtRulesApplied": true,
+    "limitations": "",
+    "confidence": "85%",
+    "urls": [
+      {
+        "url": "https://www.unicharm.com.br/",
+        "status": 200
+      },
+      {
+        "url": "https://www.unicharm.com.br/pt/home.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.unicharm.com.br/pt/global.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.unicharm.com.br/pt/brand.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.unicharm.com.br/pt/cm.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.unicharm.com.br/pt/contact-us.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.unicharm.com.br/pt/contact-us/qa1.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.unicharm.com.br/pt/company.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.unicharm.com.br/pt/company/topmessage.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.unicharm.com.br/pt/company/corporate-philosophy.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.unicharm.com.br/pt/company/corporate-governance.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.unicharm.com.br/pt/company/overview.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.unicharm.com.br/pt/company/business-field.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.unicharm.com.br/pt/company/office.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.unicharm.com.br/pt/company/affiliate.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.unicharm.com.br/pt/company/charmring.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.unicharm.com.br/pt/company/lyp.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.unicharm.com.br/pt/csr-eco.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.unicharm.com.br/pt/company/news/2022",
+        "status": 404
+      },
+      {
+        "url": "https://www.unicharm.com.br/pt/terms-of-use.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.unicharm.com.br/pt/privacy-policy.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.unicharm.com.br/pt/site-map.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.unicharm.com.br/pt/responsibility.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.unicharm.com.br/pt/company/.html?anchor_link=anchor01",
+        "status": 200
+      },
+      {
+        "url": "https://www.unicharm.com.br/pt/company/.html?anchor_link=anchor02",
+        "status": 200
+      },
+      {
+        "url": "https://www.unicharm.com.br/pt/company/.html?anchor_link=anchor03",
+        "status": 200
+      },
+      {
+        "url": "https://www.unicharm.com.br/pt/company/.html?anchor_link=anchor04",
+        "status": 200
+      },
+      {
+        "url": "https://www.unicharm.com.br/pt/company/.html?anchor_link=anchor05",
+        "status": 200
+      },
+      {
+        "url": "https://www.unicharm.com.br/pt/company/.html?anchor_link=anchor06",
+        "status": 200
+      },
+      {
+        "url": "https://www.unicharm.com.br/pt/company/.html?anchor_link=anchor07",
+        "status": 200
+      },
+      {
+        "url": "https://www.unicharm.com.br/pt/company/.html?anchor_link=overview01",
+        "status": 200
+      },
+      {
+        "url": "https://www.unicharm.com.br/pt/company/.html?anchor_link=overview02",
+        "status": 200
+      },
+      {
+        "url": "https://www.unicharm.com.br/pt/company/.html?anchor_link=01",
+        "status": 200
+      },
+      {
+        "url": "https://www.unicharm.com.br/pt/company/.html?anchor_link=02",
+        "status": 200
+      },
+      {
+        "url": "https://www.unicharm.com.br/pt/company/.html?anchor_link=03",
+        "status": 200
+      },
+      {
+        "url": "https://www.unicharm.com.br/pt/company/.html?anchor_link=04",
+        "status": 200
+      },
+      {
+        "url": "https://www.unicharm.com.br/pt/company/.html?anchor_link=affiliate01",
+        "status": 200
+      },
+      {
+        "url": "https://www.unicharm.com.br/pt/company/.html?anchor_link=affiliate02",
+        "status": 200
+      },
+      {
+        "url": "https://www.unicharm.com.br/pt/company/.html?anchor_link=affiliate03",
+        "status": 200
+      },
+      {
+        "url": "http://www.unicharm.com.br/",
+        "status": 200
+      },
+      {
+        "url": "https://www.unicharm.com.br/pt/csr-eco/report.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.unicharm.com.br/pt/csr-eco/education",
+        "status": 404
+      },
+      {
+        "url": "https://www.unicharm.com.br/pt/privacy-policy/cookie.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.unicharm.com.br/pt/company/safety.html",
+        "status": 200
+      },
+      {
+        "url": "http://www.unicharm.com.br/pt/home.html",
+        "status": 200
+      },
+      {
+        "url": "http://www.unicharm.com.br/pt/global.html",
+        "status": 200
+      },
+      {
+        "url": "http://www.unicharm.com.br/pt/brand.html",
+        "status": 200
+      },
+      {
+        "url": "http://www.unicharm.com.br/pt/cm.html",
+        "status": 200
+      },
+      {
+        "url": "http://www.unicharm.com.br/pt/contact-us.html",
+        "status": 200
+      },
+      {
+        "url": "http://www.unicharm.com.br/pt/contact-us/qa1.html",
+        "status": 200
+      },
+      {
+        "url": "http://www.unicharm.com.br/pt/company.html",
+        "status": 200
+      },
+      {
+        "url": "http://www.unicharm.com.br/pt/company/topmessage.html",
+        "status": 200
+      },
+      {
+        "url": "http://www.unicharm.com.br/pt/company/corporate-philosophy.html",
+        "status": 200
+      },
+      {
+        "url": "http://www.unicharm.com.br/pt/company/corporate-governance.html",
+        "status": 200
+      },
+      {
+        "url": "http://www.unicharm.com.br/pt/company/overview.html",
+        "status": 200
+      },
+      {
+        "url": "http://www.unicharm.com.br/pt/company/business-field.html",
+        "status": 200
+      },
+      {
+        "url": "http://www.unicharm.com.br/pt/company/office.html",
+        "status": 200
+      },
+      {
+        "url": "http://www.unicharm.com.br/pt/company/affiliate.html",
+        "status": 200
+      },
+      {
+        "url": "http://www.unicharm.com.br/pt/company/charmring.html",
+        "status": 200
+      },
+      {
+        "url": "http://www.unicharm.com.br/pt/company/lyp.html",
+        "status": 200
+      },
+      {
+        "url": "http://www.unicharm.com.br/pt/csr-eco.html",
+        "status": 200
+      },
+      {
+        "url": "http://www.unicharm.com.br/pt/company/news/2022",
+        "status": 404
+      },
+      {
+        "url": "http://www.unicharm.com.br/pt/terms-of-use.html",
+        "status": 200
+      },
+      {
+        "url": "http://www.unicharm.com.br/pt/privacy-policy.html",
+        "status": 200
+      },
+      {
+        "url": "http://www.unicharm.com.br/pt/site-map.html",
+        "status": 200
+      },
+      {
+        "url": "http://www.unicharm.com.br/pt/responsibility.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.unicharm.com.br/en/home.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.unicharm.com.br/en/global.html",
+        "status": 404
+      },
+      {
+        "url": "https://www.unicharm.com.br/en/brand.html",
+        "status": 404
+      },
+      {
+        "url": "https://www.unicharm.com.br/en/contact-us.html",
+        "status": 404
+      },
+      {
+        "url": "https://www.unicharm.com.br/en/contact-us/qa1.html",
+        "status": 404
+      },
+      {
+        "url": "https://www.unicharm.com.br/en/contact-us/qa2.html",
+        "status": 404
+      },
+      {
+        "url": "https://www.unicharm.com.br/en/contact-us/qa3.html",
+        "status": 404
+      },
+      {
+        "url": "https://www.unicharm.com.br/en/company.html",
+        "status": 404
+      },
+      {
+        "url": "https://www.unicharm.com.br/en/company/topmessage.html",
+        "status": 404
+      },
+      {
+        "url": "https://www.unicharm.com.br/en/company/corporate-philosophy.html",
+        "status": 404
+      },
+      {
+        "url": "https://www.unicharm.com.br/en/company/corporate-governance.html",
+        "status": 404
+      },
+      {
+        "url": "https://www.unicharm.com.br/en/company/overview.html",
+        "status": 404
+      },
+      {
+        "url": "https://www.unicharm.com.br/en/company/business-field.html",
+        "status": 404
+      },
+      {
+        "url": "https://www.unicharm.com.br/en/company/office.html",
+        "status": 404
+      },
+      {
+        "url": "https://www.unicharm.com.br/en/company/affiliate.html",
+        "status": 404
+      },
+      {
+        "url": "https://www.unicharm.com.br/en/company/charmring.html",
+        "status": 404
+      },
+      {
+        "url": "https://www.unicharm.com.br/en/company/lyp.html",
+        "status": 404
+      },
+      {
+        "url": "https://www.unicharm.com.br/en/csr-eco.html",
+        "status": 404
+      },
+      {
+        "url": "https://www.unicharm.com.br/en/recruit.html",
+        "status": 404
+      },
+      {
+        "url": "https://www.unicharm.com.br/en/terms-of-use.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.unicharm.com.br/en/privacy-policy.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.unicharm.com.br/en/site-map.html",
+        "status": 404
+      },
+      {
+        "url": "http://www.unicharm.com.br/pt/company/.html?anchor_link=anchor01",
+        "status": 200
+      },
+      {
+        "url": "http://www.unicharm.com.br/pt/company/.html?anchor_link=anchor02",
+        "status": 200
+      },
+      {
+        "url": "http://www.unicharm.com.br/pt/company/.html?anchor_link=anchor03",
+        "status": 200
+      },
+      {
+        "url": "http://www.unicharm.com.br/pt/company/.html?anchor_link=anchor04",
+        "status": 200
+      },
+      {
+        "url": "http://www.unicharm.com.br/pt/company/.html?anchor_link=anchor05",
+        "status": 200
+      },
+      {
+        "url": "http://www.unicharm.com.br/pt/company/.html?anchor_link=anchor06",
+        "status": 200
+      },
+      {
+        "url": "http://www.unicharm.com.br/pt/company/.html?anchor_link=anchor07",
+        "status": 200
+      },
+      {
+        "url": "http://www.unicharm.com.br/pt/company/.html?anchor_link=overview01",
+        "status": 200
+      },
+      {
+        "url": "http://www.unicharm.com.br/pt/company/.html?anchor_link=overview02",
+        "status": 200
+      },
+      {
+        "url": "http://www.unicharm.com.br/pt/company/.html?anchor_link=01",
+        "status": 200
+      },
+      {
+        "url": "http://www.unicharm.com.br/pt/company/.html?anchor_link=02",
+        "status": 200
+      },
+      {
+        "url": "http://www.unicharm.com.br/pt/company/.html?anchor_link=03",
+        "status": 200
+      },
+      {
+        "url": "http://www.unicharm.com.br/pt/company/.html?anchor_link=04",
+        "status": 200
+      },
+      {
+        "url": "http://www.unicharm.com.br/pt/company/.html?anchor_link=affiliate01",
+        "status": 200
+      },
+      {
+        "url": "http://www.unicharm.com.br/pt/company/.html?anchor_link=affiliate02",
+        "status": 200
+      },
+      {
+        "url": "http://www.unicharm.com.br/pt/company/.html?anchor_link=affiliate03",
+        "status": 200
+      },
+      {
+        "url": "http://www.unicharm.com.br/pt/csr-eco/report.html",
+        "status": 200
+      },
+      {
+        "url": "http://www.unicharm.com.br/pt/csr-eco/education",
+        "status": 404
+      },
+      {
+        "url": "http://www.unicharm.com.br/pt/company/safety.html",
+        "status": 200
+      },
+      {
+        "url": "http://www.unicharm.com.br/pt/privacy-policy/cookie.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.unicharm.com.br/en/privacy-policy/cookie.html",
+        "status": 200
+      },
+      {
+        "url": "http://www.unicharm.com.br/en/home.html",
+        "status": 200
+      },
+      {
+        "url": "http://www.unicharm.com.br/en/global.html",
+        "status": 404
+      },
+      {
+        "url": "http://www.unicharm.com.br/en/brand.html",
+        "status": 404
+      },
+      {
+        "url": "http://www.unicharm.com.br/en/contact-us.html",
+        "status": 404
+      },
+      {
+        "url": "http://www.unicharm.com.br/en/contact-us/qa1.html",
+        "status": 404
+      },
+      {
+        "url": "http://www.unicharm.com.br/en/contact-us/qa2.html",
+        "status": 404
+      },
+      {
+        "url": "http://www.unicharm.com.br/en/contact-us/qa3.html",
+        "status": 404
+      },
+      {
+        "url": "http://www.unicharm.com.br/en/company.html",
+        "status": 404
+      },
+      {
+        "url": "http://www.unicharm.com.br/en/company/topmessage.html",
+        "status": 404
+      },
+      {
+        "url": "http://www.unicharm.com.br/en/company/corporate-philosophy.html",
+        "status": 404
+      },
+      {
+        "url": "http://www.unicharm.com.br/en/company/corporate-governance.html",
+        "status": 404
+      },
+      {
+        "url": "http://www.unicharm.com.br/en/company/overview.html",
+        "status": 404
+      },
+      {
+        "url": "http://www.unicharm.com.br/en/company/business-field.html",
+        "status": 404
+      },
+      {
+        "url": "http://www.unicharm.com.br/en/company/office.html",
+        "status": 404
+      },
+      {
+        "url": "http://www.unicharm.com.br/en/company/affiliate.html",
+        "status": 404
+      },
+      {
+        "url": "http://www.unicharm.com.br/en/company/charmring.html",
+        "status": 404
+      },
+      {
+        "url": "http://www.unicharm.com.br/en/company/lyp.html",
+        "status": 404
+      },
+      {
+        "url": "http://www.unicharm.com.br/en/csr-eco.html",
+        "status": 404
+      },
+      {
+        "url": "http://www.unicharm.com.br/en/recruit.html",
+        "status": 404
+      },
+      {
+        "url": "http://www.unicharm.com.br/en/terms-of-use.html",
+        "status": 200
+      },
+      {
+        "url": "http://www.unicharm.com.br/en/privacy-policy.html",
+        "status": 200
+      },
+      {
+        "url": "http://www.unicharm.com.br/en/site-map.html",
+        "status": 404
+      }
+    ],
+    "documents": [
+      {
+        "url": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_co_jp/pdf/company/about/Corporate_Governance_Report-20220328.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/Relat%C3%B3rio_de_Igualdade_Salarial_e_de_Crit%C3%A9rios_Remunerat%C3%B3rios-1%C2%BASemestre_de_2026-final.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_all.pdf",
+        "status": 404
+      },
+      {
+        "url": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_01.pdf",
+        "status": 404
+      },
+      {
+        "url": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_02.pdf",
+        "status": 404
+      },
+      {
+        "url": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_03.pdf",
+        "status": 404
+      },
+      {
+        "url": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_04.pdf",
+        "status": 404
+      },
+      {
+        "url": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_05.pdf",
+        "status": 404
+      },
+      {
+        "url": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_06.pdf",
+        "status": 404
+      },
+      {
+        "url": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_07.pdf",
+        "status": 404
+      },
+      {
+        "url": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_08.pdf",
+        "status": 404
+      },
+      {
+        "url": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_09-01.pdf",
+        "status": 404
+      },
+      {
+        "url": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_09-02.pdf",
+        "status": 404
+      },
+      {
+        "url": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_09-03.pdf",
+        "status": 404
+      },
+      {
+        "url": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_09-04.pdf",
+        "status": 404
+      },
+      {
+        "url": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_09-05.pdf",
+        "status": 404
+      },
+      {
+        "url": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_09-06.pdf",
+        "status": 404
+      },
+      {
+        "url": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_09-07.pdf",
+        "status": 404
+      },
+      {
+        "url": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_09-08.pdf",
+        "status": 404
+      },
+      {
+        "url": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_10.pdf",
+        "status": 404
+      },
+      {
+        "url": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_11.pdf",
+        "status": 404
+      },
+      {
+        "url": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_12.pdf",
+        "status": 404
+      },
+      {
+        "url": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_13.pdf",
+        "status": 404
+      },
+      {
+        "url": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_14.pdf",
+        "status": 404
+      },
+      {
+        "url": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_15.pdf",
+        "status": 404
+      },
+      {
+        "url": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_16.pdf",
+        "status": 404
+      },
+      {
+        "url": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_17.pdf",
+        "status": 404
+      },
+      {
+        "url": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_18.pdf",
+        "status": 404
+      },
+      {
+        "url": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_19-01.pdf",
+        "status": 404
+      },
+      {
+        "url": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_19-02.pdf",
+        "status": 404
+      },
+      {
+        "url": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_19-03.pdf",
+        "status": 404
+      },
+      {
+        "url": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_19-04.pdf",
+        "status": 404
+      },
+      {
+        "url": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_20.pdf",
+        "status": 404
+      },
+      {
+        "url": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_21.pdf",
+        "status": 404
+      },
+      {
+        "url": "http://www.unicharm.com.br/content/dam/sites/www_unicharm_co_jp/pdf/company/about/Corporate_Governance_Report-20220328.pdf",
+        "status": 200
+      },
+      {
+        "url": "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/Relat%C3%B3rio_de_Igualdade_Salarial_e_de_Crit%C3%A9rios_Remunerat%C3%B3rios-1%C2%BASemestre_de_2026-final.pdf",
+        "status": 200
+      },
+      {
+        "url": "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_all.pdf",
+        "status": 404
+      },
+      {
+        "url": "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_01.pdf",
+        "status": 404
+      },
+      {
+        "url": "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_02.pdf",
+        "status": 404
+      },
+      {
+        "url": "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_03.pdf",
+        "status": 404
+      },
+      {
+        "url": "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_04.pdf",
+        "status": 404
+      },
+      {
+        "url": "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_05.pdf",
+        "status": 404
+      },
+      {
+        "url": "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_06.pdf",
+        "status": 404
+      },
+      {
+        "url": "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_07.pdf",
+        "status": 404
+      },
+      {
+        "url": "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_08.pdf",
+        "status": 404
+      },
+      {
+        "url": "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_09-01.pdf",
+        "status": 404
+      },
+      {
+        "url": "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_09-02.pdf",
+        "status": 404
+      },
+      {
+        "url": "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_09-03.pdf",
+        "status": 404
+      },
+      {
+        "url": "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_09-04.pdf",
+        "status": 404
+      },
+      {
+        "url": "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_09-05.pdf",
+        "status": 404
+      },
+      {
+        "url": "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_09-06.pdf",
+        "status": 404
+      },
+      {
+        "url": "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_09-07.pdf",
+        "status": 404
+      },
+      {
+        "url": "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_09-08.pdf",
+        "status": 404
+      },
+      {
+        "url": "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_10.pdf",
+        "status": 404
+      },
+      {
+        "url": "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_11.pdf",
+        "status": 404
+      },
+      {
+        "url": "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_12.pdf",
+        "status": 404
+      },
+      {
+        "url": "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_13.pdf",
+        "status": 404
+      },
+      {
+        "url": "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_14.pdf",
+        "status": 404
+      },
+      {
+        "url": "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_15.pdf",
+        "status": 404
+      },
+      {
+        "url": "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_16.pdf",
+        "status": 404
+      },
+      {
+        "url": "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_17.pdf",
+        "status": 404
+      },
+      {
+        "url": "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_18.pdf",
+        "status": 404
+      },
+      {
+        "url": "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_19-01.pdf",
+        "status": 404
+      },
+      {
+        "url": "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_19-02.pdf",
+        "status": 404
+      },
+      {
+        "url": "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_19-03.pdf",
+        "status": 404
+      },
+      {
+        "url": "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_19-04.pdf",
+        "status": 404
+      },
+      {
+        "url": "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_20.pdf",
+        "status": 404
+      },
+      {
+        "url": "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_21.pdf",
+        "status": 404
+      }
+    ]
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "analysis-urls-grouped": {
+    "captured": "2026-08-19T11:38:00.941Z",
+    "urlGroupings": 7,
+    "locales": {
+      "vi": 35,
+      "unknown": 1
+    },
+    "groups": {
+      "/vi/product/light/choose": {
+        "confidence": "85%",
+        "urls": [
+          {
+            "url": "https://www.caryn.com.vn/vi/product/light/choose/data.html"
+          },
+          {
+            "url": "https://www.caryn.com.vn/vi/product/light/choose/experience.html"
+          }
+        ]
+      },
+      "/vi/product/adult/choose": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://www.caryn.com.vn/vi/product/adult/choose/index.html"
+          },
+          {
+            "url": "https://www.caryn.com.vn/vi/product/adult/choose/point.html"
+          },
+          {
+            "url": "https://www.caryn.com.vn/vi/product/adult/choose/advice.html"
+          },
+          {
+            "url": "https://www.caryn.com.vn/vi/product/adult/choose/experience.html"
+          },
+          {
+            "url": "https://www.caryn.com.vn/vi/product/adult/choose/data.html"
+          }
+        ]
+      },
+      "/vi/product/adult": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://www.caryn.com.vn/vi/product/adult/choose.html"
+          },
+          {
+            "url": "https://www.caryn.com.vn/vi/product/adult/caryn_care_wet_wipe.html"
+          },
+          {
+            "url": "https://www.caryn.com.vn/vi/product/adult/caryn_insert_pad.html"
+          },
+          {
+            "url": "https://www.caryn.com.vn/vi/product/adult/caryn_underpad_super_absorbency.html"
+          },
+          {
+            "url": "https://www.caryn.com.vn/vi/product/adult/caryn_underpad_thin_comfort.html"
+          },
+          {
+            "url": "https://www.caryn.com.vn/vi/product/adult/adl2caryn_pant_super_absorbency.html"
+          },
+          {
+            "url": "https://www.caryn.com.vn/vi/product/adult/adl1_caryn_pant_thin_comfort.html"
+          },
+          {
+            "url": "https://www.caryn.com.vn/vi/product/adult/adl12_caryn_pants_saving.html"
+          },
+          {
+            "url": "https://www.caryn.com.vn/vi/product/adult/adl12_lifree_pants.html"
+          },
+          {
+            "url": "https://www.caryn.com.vn/vi/product/adult/adl_45_caryn_tape.html"
+          }
+        ]
+      },
+      "/vi/advice": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://www.caryn.com.vn/vi/advice/point.html"
+          },
+          {
+            "url": "https://www.caryn.com.vn/vi/advice/usage.html"
+          },
+          {
+            "url": "https://www.caryn.com.vn/vi/advice/adl.html"
+          },
+          {
+            "url": "https://www.caryn.com.vn/vi/advice/professional.html"
+          },
+          {
+            "url": "https://www.caryn.com.vn/vi/advice/qa.html"
+          },
+          {
+            "url": "https://www.caryn.com.vn/vi/advice/rehabilitation.html"
+          }
+        ]
+      },
+      "/vi/dementia-prevention": {
+        "confidence": "85%",
+        "urls": [
+          {
+            "url": "https://www.caryn.com.vn/vi/dementia-prevention/symptom.html"
+          },
+          {
+            "url": "https://www.caryn.com.vn/vi/dementia-prevention/type.html"
+          },
+          {
+            "url": "https://www.caryn.com.vn/vi/dementia-prevention/cause.html"
+          },
+          {
+            "url": "https://www.caryn.com.vn/vi/dementia-prevention/diagnosis-treatment.html"
+          }
+        ]
+      },
+      "/vi": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://www.caryn.com.vn/vi/home.html"
+          },
+          {
+            "url": "https://www.caryn.com.vn/vi/product.html"
+          },
+          {
+            "url": "https://www.caryn.com.vn/vi/advice.html"
+          },
+          {
+            "url": "https://www.caryn.com.vn/vi/dementia-prevention.html"
+          },
+          {
+            "url": "https://www.caryn.com.vn/vi/healthy_life.html"
+          },
+          {
+            "url": "https://www.caryn.com.vn/vi/cm.html"
+          },
+          {
+            "url": "https://www.caryn.com.vn/vi/products_adult_select.html"
+          },
+          {
+            "url": "https://www.caryn.com.vn/vi/global.html"
+          }
+        ]
+      },
+      "/": {
+        "confidence": "100%",
+        "urls": [
+          {
+            "url": "https://www.caryn.com.vn/"
+          }
+        ]
+      }
+    }
+  }
+}

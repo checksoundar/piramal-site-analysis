@@ -1,0 +1,231 @@
+{
+  "queue": [],
+  "visited": [
+    "https://jp.unicharm-wave.com/",
+    "https://jp.unicharm-wave.com/ja/home.html",
+    "https://jp.unicharm-wave.com/ja/products.html",
+    "https://jp.unicharm-wave.com/ja/tips.html",
+    "https://jp.unicharm-wave.com/ja/message.html",
+    "https://jp.unicharm-wave.com/ja/cm.html",
+    "https://jp.unicharm-wave.com/ja",
+    "https://jp.unicharm-wave.com/ja/site-map.html",
+    "https://jp.unicharm-wave.com/ja/products/handywiper.html",
+    "https://jp.unicharm-wave.com/ja/products/handywiper_long.html",
+    "https://jp.unicharm-wave.com/ja/products/floorwiper.html",
+    "https://jp.unicharm-wave.com/en/home.html",
+    "https://jp.unicharm-wave.com/ja/products/floorwiper_ichimaikanketsu.html",
+    "https://jp.unicharm-wave.com/ja/products/handywiper_sheet.html",
+    "https://jp.unicharm-wave.com/ja/products/handywiper_case.html",
+    "https://jp.unicharm-wave.com/ja/products/floorwiper_dry.html",
+    "https://jp.unicharm-wave.com/ja/products/floorwiper_wet.html",
+    "https://jp.unicharm-wave.com/en/products.html",
+    "https://jp.unicharm-wave.com/en/site-map.html",
+    "https://jp.unicharm-wave.com/en/products/handywiper.html",
+    "https://jp.unicharm-wave.com/en/products/handywiper_long.html",
+    "https://jp.unicharm-wave.com/en/products/floorwiper.html",
+    "https://jp.unicharm-wave.com/en",
+    "https://jp.unicharm-wave.com/en/products/floorwiper_ichimaikanketsu.html",
+    "https://jp.unicharm-wave.com/en/products/handywiper_sheet.html",
+    "https://jp.unicharm-wave.com/en/products/floorwiper_dry.html",
+    "https://jp.unicharm-wave.com/en/products/floorwiper_wet.html",
+    "https://jp.unicharm-wave.com/en/products/handywiper_case.html"
+  ],
+  "urls": [
+    {
+      "url": "https://jp.unicharm-wave.com/",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://jp.unicharm-wave.com/ja/home.html"
+    },
+    {
+      "url": "https://jp.unicharm-wave.com/ja/home.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://jp.unicharm-wave.com/ja/home.html"
+    },
+    {
+      "url": "https://jp.unicharm-wave.com/ja/products.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://jp.unicharm-wave.com/ja/products.html"
+    },
+    {
+      "url": "https://jp.unicharm-wave.com/ja/tips.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://jp.unicharm-wave.com/ja/tips.html"
+    },
+    {
+      "url": "https://jp.unicharm-wave.com/ja/message.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://jp.unicharm-wave.com/ja/message.html"
+    },
+    {
+      "url": "https://jp.unicharm-wave.com/ja/cm.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://jp.unicharm-wave.com/ja/cm.html"
+    },
+    {
+      "url": "https://jp.unicharm-wave.com/ja",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://jp.unicharm-wave.com/ja/home.html"
+    },
+    {
+      "url": "https://jp.unicharm-wave.com/ja/site-map.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://jp.unicharm-wave.com/ja/site-map.html"
+    },
+    {
+      "url": "https://jp.unicharm-wave.com/ja/products/handywiper.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://jp.unicharm-wave.com/ja/products/handywiper.html"
+    },
+    {
+      "url": "https://jp.unicharm-wave.com/ja/products/handywiper_long.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://jp.unicharm-wave.com/ja/products/handywiper_long.html"
+    },
+    {
+      "url": "https://jp.unicharm-wave.com/ja/products/floorwiper.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://jp.unicharm-wave.com/ja/products/floorwiper.html"
+    },
+    {
+      "url": "https://jp.unicharm-wave.com/en/home.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://jp.unicharm-wave.com/en/home.html"
+    },
+    {
+      "url": "https://jp.unicharm-wave.com/ja/products/floorwiper_ichimaikanketsu.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://jp.unicharm-wave.com/ja/products/floorwiper_ichimaikanketsu.html"
+    },
+    {
+      "url": "https://jp.unicharm-wave.com/ja/products/handywiper_sheet.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://jp.unicharm-wave.com/ja/products/handywiper_sheet.html"
+    },
+    {
+      "url": "https://jp.unicharm-wave.com/ja/products/handywiper_case.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://jp.unicharm-wave.com/ja/products/handywiper_case.html"
+    },
+    {
+      "url": "https://jp.unicharm-wave.com/ja/products/floorwiper_dry.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://jp.unicharm-wave.com/ja/products/floorwiper_dry.html"
+    },
+    {
+      "url": "https://jp.unicharm-wave.com/ja/products/floorwiper_wet.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://jp.unicharm-wave.com/ja/products/floorwiper_wet.html"
+    },
+    {
+      "url": "https://jp.unicharm-wave.com/en/products.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://jp.unicharm-wave.com/en/products.html"
+    },
+    {
+      "url": "https://jp.unicharm-wave.com/en/site-map.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://jp.unicharm-wave.com/en/site-map.html"
+    },
+    {
+      "url": "https://jp.unicharm-wave.com/en/products/handywiper.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://jp.unicharm-wave.com/en/products/handywiper.html"
+    },
+    {
+      "url": "https://jp.unicharm-wave.com/en/products/handywiper_long.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://jp.unicharm-wave.com/en/products/handywiper_long.html"
+    },
+    {
+      "url": "https://jp.unicharm-wave.com/en/products/floorwiper.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://jp.unicharm-wave.com/en/products/floorwiper.html"
+    },
+    {
+      "url": "https://jp.unicharm-wave.com/en",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://jp.unicharm-wave.com/en/home.html"
+    },
+    {
+      "url": "https://jp.unicharm-wave.com/en/products/floorwiper_ichimaikanketsu.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://jp.unicharm-wave.com/en/products/floorwiper_ichimaikanketsu.html"
+    },
+    {
+      "url": "https://jp.unicharm-wave.com/en/products/handywiper_sheet.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://jp.unicharm-wave.com/en/products/handywiper_sheet.html"
+    },
+    {
+      "url": "https://jp.unicharm-wave.com/en/products/floorwiper_dry.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://jp.unicharm-wave.com/en/products/floorwiper_dry.html"
+    },
+    {
+      "url": "https://jp.unicharm-wave.com/en/products/floorwiper_wet.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://jp.unicharm-wave.com/en/products/floorwiper_wet.html"
+    },
+    {
+      "url": "https://jp.unicharm-wave.com/en/products/handywiper_case.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://jp.unicharm-wave.com/en/products/handywiper_case.html"
+    }
+  ]
+}

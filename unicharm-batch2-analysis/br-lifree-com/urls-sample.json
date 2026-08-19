@@ -1,0 +1,163 @@
+{
+  "urls-sample": {
+    "captured": "2026-08-19T11:37:44.131Z",
+    "totalUrls": 51,
+    "createdBy": "create-sample.js",
+    "samplingMethod": "all-urls",
+    "urls": [
+      {
+        "url": "https://br.lifree.com/pt/product/adult/choose/index.html"
+      },
+      {
+        "url": "https://br.lifree.com/pt/product/adult/choose/point.html"
+      },
+      {
+        "url": "https://br.lifree.com/pt/product/adult/choose/diagnosis"
+      },
+      {
+        "url": "https://br.lifree.com/pt/product/adult/choose/experience.html"
+      },
+      {
+        "url": "https://br.lifree.com/pt/product/adult/choose/data.html"
+      },
+      {
+        "url": "https://br.lifree.com/pt/product/adult/purchase/data.html"
+      },
+      {
+        "url": "https://br.lifree.com/pt/product/adult/purchase/experience.html"
+      },
+      {
+        "url": "https://br.lifree.com/pt/product/adult/pants/experience.html"
+      },
+      {
+        "url": "https://br.lifree.com/pt/product/adult/pants/data.html"
+      },
+      {
+        "url": "https://br.lifree.com/pt/product/adult/Refil_FC.html"
+      },
+      {
+        "url": "https://br.lifree.com/pt/product/adult/Absorcao.html"
+      },
+      {
+        "url": "https://br.lifree.com/pt/product/adult/Conforto.html"
+      },
+      {
+        "url": "https://br.lifree.com/pt/product/adult/choose.html"
+      },
+      {
+        "url": "https://br.lifree.com/pt/product/adult/Toalhas_Umedecidas.html"
+      },
+      {
+        "url": "https://br.lifree.com/pt/product/adult/purchase.html"
+      },
+      {
+        "url": "https://br.lifree.com/pt/product/adult/pants.html"
+      },
+      {
+        "url": "https://br.lifree.com/pt/nyoumore/experience/experience.html"
+      },
+      {
+        "url": "https://br.lifree.com/pt/nyoumore/experience/family_experience.html"
+      },
+      {
+        "url": "https://br.lifree.com/pt/nyoumore/experience/advice.html"
+      },
+      {
+        "url": "https://br.lifree.com/pt/nyoumore/experience/data.html"
+      },
+      {
+        "url": "https://br.lifree.com/pt/nyoumore/experience/family_data.html"
+      },
+      {
+        "url": "https://br.lifree.com/pt/advice/professional/04.html"
+      },
+      {
+        "url": "https://br.lifree.com/pt/advice/professional/01.html"
+      },
+      {
+        "url": "https://br.lifree.com/pt/advice/professional/06.html"
+      },
+      {
+        "url": "https://br.lifree.com/pt/advice/professional/02"
+      },
+      {
+        "url": "https://br.lifree.com/pt/advice/professional/03"
+      },
+      {
+        "url": "https://br.lifree.com/pt/advice/professional/05"
+      },
+      {
+        "url": "https://br.lifree.com/pt/nyoumore/cause.html"
+      },
+      {
+        "url": "https://br.lifree.com/pt/nyoumore/male.html"
+      },
+      {
+        "url": "https://br.lifree.com/pt/nyoumore/training.html"
+      },
+      {
+        "url": "https://br.lifree.com/pt/nyoumore/experience.html"
+      },
+      {
+        "url": "https://br.lifree.com/pt/advice/adl.html"
+      },
+      {
+        "url": "https://br.lifree.com/pt/advice/professional.html"
+      },
+      {
+        "url": "https://br.lifree.com/pt/advice/rehabilitation.html"
+      },
+      {
+        "url": "https://br.lifree.com/pt/healthy_life/report01.html"
+      },
+      {
+        "url": "https://br.lifree.com/pt/healthy_life/report02.html"
+      },
+      {
+        "url": "https://br.lifree.com/pt/healthy_life/activity.html"
+      },
+      {
+        "url": "https://br.lifree.com/pt/healthy_life/activity/06.html"
+      },
+      {
+        "url": "https://br.lifree.com/pt/dementia-prevention/diagnosis-treatment.html"
+      },
+      {
+        "url": "https://br.lifree.com/pt/dementia-prevention/symptom.html"
+      },
+      {
+        "url": "https://br.lifree.com/pt/dementia-prevention/type.html"
+      },
+      {
+        "url": "https://br.lifree.com/pt/dementia-prevention/cause.html"
+      },
+      {
+        "url": "https://br.lifree.com/pt/home.html"
+      },
+      {
+        "url": "https://br.lifree.com/pt/product.html"
+      },
+      {
+        "url": "https://br.lifree.com/pt/nyoumore.html"
+      },
+      {
+        "url": "https://br.lifree.com/pt/advice.html"
+      },
+      {
+        "url": "https://br.lifree.com/pt/healthy_life.html"
+      },
+      {
+        "url": "https://br.lifree.com/pt/popular-pharmacy.html"
+      },
+      {
+        "url": "https://br.lifree.com/pt/dementia-prevention.html"
+      },
+      {
+        "url": "https://br.lifree.com/pt/product/light/choose/data.html"
+      },
+      {
+        "url": "https://br.lifree.com/"
+      }
+    ]
+  }
+}

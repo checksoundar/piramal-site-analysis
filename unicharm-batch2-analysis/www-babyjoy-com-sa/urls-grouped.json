@@ -1,0 +1,164 @@
+{
+  "analysis-urls-grouped": {
+    "captured": "2026-08-19T11:39:06.215Z",
+    "urlGroupings": 5,
+    "locales": {
+      "ar": 20,
+      "en": 21,
+      "unknown": 1
+    },
+    "groups": {
+      "/ar/products": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://www.babyjoy.com.sa/ar/products/search.html"
+          },
+          {
+            "url": "https://www.babyjoy.com.sa/ar/products/bj-healthyskin-nb-l.html"
+          },
+          {
+            "url": "https://www.babyjoy.com.sa/ar/products/bj-compressed-nb-s.html"
+          },
+          {
+            "url": "https://www.babyjoy.com.sa/ar/products/bj-compressed-m-jr.html"
+          },
+          {
+            "url": "https://www.babyjoy.com.sa/ar/products/bj-compressed-jrxxl.html"
+          },
+          {
+            "url": "https://www.babyjoy.com.sa/ar/products/bjc-culotte-m-jrxxl.html"
+          },
+          {
+            "url": "https://www.babyjoy.com.sa/ar/products/bjw-babywipes.html"
+          },
+          {
+            "url": "https://www.babyjoy.com.sa/ar/products/bjw-babywipes1.html"
+          },
+          {
+            "url": "https://www.babyjoy.com.sa/ar/products/bjw-babywipes11.html"
+          }
+        ]
+      },
+      "/en/products": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://www.babyjoy.com.sa/en/products/search.html"
+          },
+          {
+            "url": "https://www.babyjoy.com.sa/en/products/bj-healthyskin-nb-l.html"
+          },
+          {
+            "url": "https://www.babyjoy.com.sa/en/products/bj-compressed-nb-s.html"
+          },
+          {
+            "url": "https://www.babyjoy.com.sa/en/products/bj-compressed-m-jr.html"
+          },
+          {
+            "url": "https://www.babyjoy.com.sa/en/products/bj-compressed-jrxxl.html"
+          },
+          {
+            "url": "https://www.babyjoy.com.sa/en/products/bjc-culotte-m-jrxxl.html"
+          },
+          {
+            "url": "https://www.babyjoy.com.sa/en/products/bjw-babywipes.html"
+          },
+          {
+            "url": "https://www.babyjoy.com.sa/en/products/bjw-sensitive.html"
+          },
+          {
+            "url": "https://www.babyjoy.com.sa/en/products/bjw-sensitive1.html"
+          }
+        ]
+      },
+      "/ar": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://www.babyjoy.com.sa/ar/home.html"
+          },
+          {
+            "url": "https://www.babyjoy.com.sa/ar/about.html"
+          },
+          {
+            "url": "https://www.babyjoy.com.sa/ar/products.html"
+          },
+          {
+            "url": "https://www.babyjoy.com.sa/ar/shop.html"
+          },
+          {
+            "url": "https://www.babyjoy.com.sa/ar/video.html"
+          },
+          {
+            "url": "https://www.babyjoy.com.sa/ar/news.html"
+          },
+          {
+            "url": "https://www.babyjoy.com.sa/ar/contact.html"
+          },
+          {
+            "url": "https://www.babyjoy.com.sa/ar/site-map.html"
+          },
+          {
+            "url": "https://www.babyjoy.com.sa/ar/privacy-policy.html"
+          },
+          {
+            "url": "https://www.babyjoy.com.sa/ar/about/who-is-joy.html"
+          },
+          {
+            "url": "https://www.babyjoy.com.sa/ar/news/19092017.html"
+          }
+        ]
+      },
+      "/en": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://www.babyjoy.com.sa/en/home.html"
+          },
+          {
+            "url": "https://www.babyjoy.com.sa/en/about.html"
+          },
+          {
+            "url": "https://www.babyjoy.com.sa/en/products.html"
+          },
+          {
+            "url": "https://www.babyjoy.com.sa/en/review.html"
+          },
+          {
+            "url": "https://www.babyjoy.com.sa/en/shop.html"
+          },
+          {
+            "url": "https://www.babyjoy.com.sa/en/video.html"
+          },
+          {
+            "url": "https://www.babyjoy.com.sa/en/news.html"
+          },
+          {
+            "url": "https://www.babyjoy.com.sa/en/contact.html"
+          },
+          {
+            "url": "https://www.babyjoy.com.sa/en/site-map.html"
+          },
+          {
+            "url": "https://www.babyjoy.com.sa/en/test-home-dd-addhome-d35sc8qe.html"
+          },
+          {
+            "url": "https://www.babyjoy.com.sa/en/about/who-is-joy.html"
+          },
+          {
+            "url": "https://www.babyjoy.com.sa/en/news/19092017.html"
+          }
+        ]
+      },
+      "/": {
+        "confidence": "100%",
+        "urls": [
+          {
+            "url": "https://www.babyjoy.com.sa/"
+          }
+        ]
+      }
+    }
+  }
+}

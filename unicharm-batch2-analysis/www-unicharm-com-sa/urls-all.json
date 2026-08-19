@@ -1,0 +1,145 @@
+{
+  "analysis-urls-all": {
+    "captured": "2026-08-19T11:39:10.437Z",
+    "totalUrls": 43,
+    "totalDocuments": 0,
+    "method": "sitemap",
+    "sitemapURL": "/ar/sitemap.xml,/en/sitemap.xml",
+    "robotsTxtFound": false,
+    "robotsTxtRulesApplied": false,
+    "limitations": "",
+    "confidence": "95%",
+    "urls": [
+      {
+        "url": "https://www.unicharm.com.sa/ar/home.html"
+      },
+      {
+        "url": "https://www.unicharm.com.sa/ar/brand.html"
+      },
+      {
+        "url": "https://www.unicharm.com.sa/ar/cm.html"
+      },
+      {
+        "url": "https://www.unicharm.com.sa/ar/contact-us.html"
+      },
+      {
+        "url": "https://www.unicharm.com.sa/ar/contact-us/qa1.html"
+      },
+      {
+        "url": "https://www.unicharm.com.sa/ar/contact-us/qa2.html"
+      },
+      {
+        "url": "https://www.unicharm.com.sa/ar/company.html"
+      },
+      {
+        "url": "https://www.unicharm.com.sa/ar/company/topmessage.html"
+      },
+      {
+        "url": "https://www.unicharm.com.sa/ar/company/corporate-philosophy.html"
+      },
+      {
+        "url": "https://www.unicharm.com.sa/ar/company/corporate-governance.html"
+      },
+      {
+        "url": "https://www.unicharm.com.sa/ar/company/overview.html"
+      },
+      {
+        "url": "https://www.unicharm.com.sa/ar/company/business-field.html"
+      },
+      {
+        "url": "https://www.unicharm.com.sa/ar/company/office.html"
+      },
+      {
+        "url": "https://www.unicharm.com.sa/ar/company/affiliate.html"
+      },
+      {
+        "url": "https://www.unicharm.com.sa/ar/company/charmring.html"
+      },
+      {
+        "url": "https://www.unicharm.com.sa/ar/company/safety.html"
+      },
+      {
+        "url": "https://www.unicharm.com.sa/ar/csr-eco.html"
+      },
+      {
+        "url": "https://www.unicharm.com.sa/ar/recruit.html"
+      },
+      {
+        "url": "https://www.unicharm.com.sa/ar/terms-of-use.html"
+      },
+      {
+        "url": "https://www.unicharm.com.sa/ar/privacy-policy.html"
+      },
+      {
+        "url": "https://www.unicharm.com.sa/ar/site-map.html"
+      },
+      {
+        "url": "https://www.unicharm.com.sa/en/home.html"
+      },
+      {
+        "url": "https://www.unicharm.com.sa/en/brand.html"
+      },
+      {
+        "url": "https://www.unicharm.com.sa/en/cm.html"
+      },
+      {
+        "url": "https://www.unicharm.com.sa/en/contact-us.html"
+      },
+      {
+        "url": "https://www.unicharm.com.sa/en/contact-us/qa1.html"
+      },
+      {
+        "url": "https://www.unicharm.com.sa/en/contact-us/qa2.html"
+      },
+      {
+        "url": "https://www.unicharm.com.sa/en/company.html"
+      },
+      {
+        "url": "https://www.unicharm.com.sa/en/company/topmessage.html"
+      },
+      {
+        "url": "https://www.unicharm.com.sa/en/company/corporate-philosophy.html"
+      },
+      {
+        "url": "https://www.unicharm.com.sa/en/company/corporate-governance.html"
+      },
+      {
+        "url": "https://www.unicharm.com.sa/en/company/overview.html"
+      },
+      {
+        "url": "https://www.unicharm.com.sa/en/company/business-field.html"
+      },
+      {
+        "url": "https://www.unicharm.com.sa/en/company/office.html"
+      },
+      {
+        "url": "https://www.unicharm.com.sa/en/company/affiliate.html"
+      },
+      {
+        "url": "https://www.unicharm.com.sa/en/company/charmring.html"
+      },
+      {
+        "url": "https://www.unicharm.com.sa/en/company/safety.html"
+      },
+      {
+        "url": "https://www.unicharm.com.sa/en/csr-eco.html"
+      },
+      {
+        "url": "https://www.unicharm.com.sa/en/recruit.html"
+      },
+      {
+        "url": "https://www.unicharm.com.sa/en/terms-of-use.html"
+      },
+      {
+        "url": "https://www.unicharm.com.sa/en/privacy-policy.html"
+      },
+      {
+        "url": "https://www.unicharm.com.sa/en/site-map.html"
+      },
+      {
+        "url": "https://www.unicharm.com.sa/en/global.html"
+      }
+    ],
+    "documents": []
+  }
+}

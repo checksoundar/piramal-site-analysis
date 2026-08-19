@@ -1,0 +1,115 @@
+{
+  "urls-sample": {
+    "captured": "2026-08-19T11:45:09.683Z",
+    "totalUrls": 35,
+    "createdBy": "create-sample.js",
+    "samplingMethod": "all-urls",
+    "urls": [
+      {
+        "url": "https://www.oyasumiman.jp/ja/products/m.html"
+      },
+      {
+        "url": "https://www.oyasumiman.jp/ja/products/l.html"
+      },
+      {
+        "url": "https://www.oyasumiman.jp/ja/products/b.html"
+      },
+      {
+        "url": "https://www.oyasumiman.jp/ja/products/sb.html"
+      },
+      {
+        "url": "https://www.oyasumiman.jp/ja/onesho_navi/01.html"
+      },
+      {
+        "url": "https://www.oyasumiman.jp/ja/onesho_navi/02.html"
+      },
+      {
+        "url": "https://www.oyasumiman.jp/ja/onesho_navi/03.html"
+      },
+      {
+        "url": "https://www.oyasumiman.jp/ja/onesho_navi/04.html"
+      },
+      {
+        "url": "https://www.oyasumiman.jp/ja/onesho_navi/05.html"
+      },
+      {
+        "url": "https://www.oyasumiman.jp/ja/onesho_taisaku/01.html"
+      },
+      {
+        "url": "https://www.oyasumiman.jp/ja/onesho_taisaku/02.html"
+      },
+      {
+        "url": "https://www.oyasumiman.jp/ja/onesho_taisaku/03.html"
+      },
+      {
+        "url": "https://www.oyasumiman.jp/ja/onesho_taisaku/04.html"
+      },
+      {
+        "url": "https://www.oyasumiman.jp/ja/worry/01.html"
+      },
+      {
+        "url": "https://www.oyasumiman.jp/ja/worry/02.html"
+      },
+      {
+        "url": "https://www.oyasumiman.jp/ja/worry/03.html"
+      },
+      {
+        "url": "https://www.oyasumiman.jp/ja/worry/04.html"
+      },
+      {
+        "url": "https://www.oyasumiman.jp/ja/worry/05.html"
+      },
+      {
+        "url": "https://www.oyasumiman.jp/ja/taikendan/01.html"
+      },
+      {
+        "url": "https://www.oyasumiman.jp/ja/taikendan/02.html"
+      },
+      {
+        "url": "https://www.oyasumiman.jp/ja/taikendan/03.html"
+      },
+      {
+        "url": "https://www.oyasumiman.jp/en/products/m.html"
+      },
+      {
+        "url": "https://www.oyasumiman.jp/en/products/l.html"
+      },
+      {
+        "url": "https://www.oyasumiman.jp/en/products/b.html"
+      },
+      {
+        "url": "https://www.oyasumiman.jp/en/products/sb.html"
+      },
+      {
+        "url": "https://www.oyasumiman.jp/ja/home.html"
+      },
+      {
+        "url": "https://www.oyasumiman.jp/ja/onesho_navi.html"
+      },
+      {
+        "url": "https://www.oyasumiman.jp/ja/onesho_taisaku.html"
+      },
+      {
+        "url": "https://www.oyasumiman.jp/ja/worry.html"
+      },
+      {
+        "url": "https://www.oyasumiman.jp/ja/taikendan.html"
+      },
+      {
+        "url": "https://www.oyasumiman.jp/ja/message.html"
+      },
+      {
+        "url": "https://www.oyasumiman.jp/ja/site-map.html"
+      },
+      {
+        "url": "https://www.oyasumiman.jp/ja/campaign202607.html"
+      },
+      {
+        "url": "https://www.oyasumiman.jp/"
+      },
+      {
+        "url": "https://www.oyasumiman.jp/en/home.html"
+      }
+    ]
+  }
+}

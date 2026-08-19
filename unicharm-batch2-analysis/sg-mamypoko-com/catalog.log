@@ -1,0 +1,44 @@
+2026-08-19 11:38:32 | INFO | Redirect (301) → https://sg.mamypoko.com/en/home.html
+2026-08-19 11:38:32 | INFO | Checking root page for sitemap-like links...
+2026-08-19 11:38:32 | INFO | Redirect (301) → https://sg.mamypoko.com/en/home.html
+2026-08-19 11:38:32 | INFO | Found 2 sitemap-like candidate(s) on the root page
+2026-08-19 11:38:32 | INFO | Trying sitemap candidates...
+2026-08-19 11:38:32 | INFO | Trying sitemap candidate: https://sg.mamypoko.com/sitemap.xml
+2026-08-19 11:38:33 | WARNING | HTTP status: 404
+2026-08-19 11:38:33 | INFO | Trying sitemap candidate: https://sg.mamypoko.com/sitemap.xml.gz
+2026-08-19 11:38:33 | WARNING | HTTP status: 404
+2026-08-19 11:38:33 | INFO | Trying sitemap candidate: https://sg.mamypoko.com/sitemap_index.xml
+2026-08-19 11:38:33 | WARNING | HTTP status: 404
+2026-08-19 11:38:33 | INFO | Trying sitemap candidate: https://sg.mamypoko.com/sitemap-index.xml
+2026-08-19 11:38:33 | WARNING | HTTP status: 404
+2026-08-19 11:38:33 | INFO | Trying sitemap candidate: https://sg.mamypoko.com/sitemap.txt
+2026-08-19 11:38:34 | WARNING | HTTP status: 404
+2026-08-19 11:38:34 | INFO | Trying sitemap candidate: https://sg.mamypoko.com/en/site-map.html
+2026-08-19 11:38:34 | WARNING | Got 200 but not a valid sitemap. Preview: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"> <html lang="en" > <head prefix="og: http://ogp.me/ns#"> <meta http-equiv="Content-Type...
+2026-08-19 11:38:34 | INFO | Trying sitemap candidate: http://www.unicharm.com.my/sitemap/index.html
+2026-08-19 11:38:35 | INFO | Redirect (301) → https://www.unicharm.com.my/sitemap/index.html
+2026-08-19 11:38:35 | INFO | Redirect (301) → https://www.unicharm.com.my/en/site-map.html
+2026-08-19 11:38:35 | WARNING | Got 200 but not a valid sitemap. Preview: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"> <html lang="en" > <head prefix="og: http://ogp.me/ns#"> <meta http-equiv="Content-Type...
+2026-08-19 11:38:35 | INFO | Checking robots.txt for sitemap references...
+2026-08-19 11:38:36 | INFO | Found 1 sitemap(s) in robots.txt
+2026-08-19 11:38:36 | INFO | Processing 1 unique sitemap(s) from robots.txt...
+2026-08-19 11:38:36 | INFO | [1/1] Fetching sitemap: https://sg.mamypoko.com/en/sitemap.xml
+2026-08-19 11:38:36 | INFO | Fetched sitemap successfully (urlset)
+2026-08-19 11:38:36 | INFO | Successfully fetched 1 sitemap(s)
+2026-08-19 11:38:36 | INFO | Fetching sitemap for site root: https://sg.mamypoko.com
+2026-08-19 11:38:36 | INFO | Processing 1 sitemap(s)...
+2026-08-19 11:38:36 | INFO | [1/1] Processing sitemap: https://sg.mamypoko.com/en/sitemap.xml
+2026-08-19 11:38:36 | INFO | Sitemap type: urlset
+2026-08-19 11:38:36 | INFO | Extracted 85 URLs
+2026-08-19 11:38:36 | INFO | Sitemap fetch complete
+2026-08-19 11:38:36 | INFO | Total sitemaps processed: 1
+2026-08-19 11:38:36 | INFO | Total URLs discovered: 85
+2026-08-19 11:38:36 | INFO | Sitemap location 1: https://sg.mamypoko.com/en/sitemap.xml
+2026-08-19 11:38:37 | INFO | Creating sample URLs...
+2026-08-19 11:38:37 | INFO | Total URLs in grouped data: 86
+2026-08-19 11:38:37 | INFO | Total URLs (86) <= 1000, using ALL URLs
+2026-08-19 11:38:37 | INFO | Created urls-sample.json with 86 URLs
+2026-08-19 11:38:37 | INFO | Validating urls-sample.json against schema...
+✅ VALIDATION PASSED: urls-sample.json matches schema
+2026-08-19 11:38:37 | INFO | Schema validation passed
+2026-08-19 11:38:37 | INFO | Sample creation complete - urls-sample.json with 86 URLs

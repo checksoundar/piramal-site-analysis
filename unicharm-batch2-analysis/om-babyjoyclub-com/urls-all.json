@@ -1,0 +1,64 @@
+{
+  "analysis-urls-all": {
+    "captured": "2026-08-19T11:45:05.289Z",
+    "totalUrls": 16,
+    "totalDocuments": 0,
+    "method": "sitemap",
+    "sitemapURL": "/ar/sitemap.xml",
+    "robotsTxtFound": false,
+    "robotsTxtRulesApplied": false,
+    "limitations": "",
+    "confidence": "95%",
+    "urls": [
+      {
+        "url": "https://om.babyjoyclub.com/ar/home.html"
+      },
+      {
+        "url": "https://om.babyjoyclub.com/ar/about.html"
+      },
+      {
+        "url": "https://om.babyjoyclub.com/ar/about/who-is-joy.html"
+      },
+      {
+        "url": "https://om.babyjoyclub.com/ar/products.html"
+      },
+      {
+        "url": "https://om.babyjoyclub.com/ar/products/search.html"
+      },
+      {
+        "url": "https://om.babyjoyclub.com/ar/products/bj-compressed-nb-s.html"
+      },
+      {
+        "url": "https://om.babyjoyclub.com/ar/products/bj-compressed-m-jr.html"
+      },
+      {
+        "url": "https://om.babyjoyclub.com/ar/products/bj-compressed-jrxxl.html"
+      },
+      {
+        "url": "https://om.babyjoyclub.com/ar/products/bjc-culotte-m-jrxxl.html"
+      },
+      {
+        "url": "https://om.babyjoyclub.com/ar/shop.html"
+      },
+      {
+        "url": "https://om.babyjoyclub.com/ar/video.html"
+      },
+      {
+        "url": "https://om.babyjoyclub.com/ar/news.html"
+      },
+      {
+        "url": "https://om.babyjoyclub.com/ar/news/19092017.html"
+      },
+      {
+        "url": "https://om.babyjoyclub.com/ar/contact.html"
+      },
+      {
+        "url": "https://om.babyjoyclub.com/ar/site-map.html"
+      },
+      {
+        "url": "https://om.babyjoyclub.com/ar/privacy-policy.html"
+      }
+    ],
+    "documents": []
+  }
+}

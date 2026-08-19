@@ -1,0 +1,749 @@
+{
+  "analysis-urls-all": {
+    "captured": "2026-08-19T11:40:17.548Z",
+    "totalUrls": 138,
+    "totalDocuments": 45,
+    "method": "crawl",
+    "sitemapURL": null,
+    "robotsTxtFound": true,
+    "robotsTxtRulesApplied": true,
+    "limitations": "",
+    "confidence": "85%",
+    "urls": [
+      {
+        "url": "https://www.carenavi.jp/",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/home.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/basic.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/jissen.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/ohyo.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/column.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/basic/begin/care_qanda.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/expert/vol15.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/expert/vol13.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/report/vol5.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/basic/about/kihon.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/basic/about/jiritsuhaisetsu/01.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/basic/begin/positive_way.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/basic/omutsu/knowledge/type.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/basic/omutsu/choice/reduce.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/basic/omutsu/use/change_stand.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/basic/omutsu/comfort/leak_factor.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/basic/omutsu/skincare/rash.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/jissen/nyo_care/tokucho/kihon.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/jissen/nyo_care/gijutsu/down.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/jissen/ben_care/ben_factor.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/jissen/ben_care/shouka/shouka_01.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/jissen/ben_care/problem/problem01.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/jissen/ben_care/syukan/life.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/ohyo/purpose/action.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/ohyo/purpose/plan.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/ohyo/purpose/check.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/ohyo/rehabili.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/ohyo/rehabili/jissen.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/expert/list.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/researchdata/vol16.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/researchdata/list.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/report/list.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/genba/vol6.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/genba/list.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/introduction.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/message.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/contact.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/sitemap.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/basic/omutsu/knowledge/5power.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/basic/omutsu/knowledge/howto.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/basic/omutsu/knowledge/mechanism.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/basic/omutsu/knowledge/badusage.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/basic/omutsu/choice/adl.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/basic/omutsu/choice/combination.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/basic/omutsu/choice/disease.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/basic/omutsu/use/change_seat.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/basic/omutsu/use/change_lie_pants.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/basic/omutsu/use/change_lie_tape.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/basic/omutsu/comfort/device.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/basic/omutsu/comfort/howto.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/basic/omutsu/skincare/infection.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/basic/omutsu/skincare/wash.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/jissen/nyo_care/tokucho/nyo_factor.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/jissen/nyo_care/tokucho/diagnosis.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/jissen/nyo_care/gijutsu/point.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/jissen/ben_care/chikuben/ben_01.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/jissen/ben_care/control/control01.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/jissen/ben_care/taisou/validity.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/expert/vol14.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/expert/vol12.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/researchdata/special10.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/researchdata/vol15.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/researchdata/vol14.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/report/vol4.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/report/vol3.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/report/vol2.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/genba/vol5.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/genba/vol4.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/expert/vol11.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/researchdata/vol13.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/researchdata/special09.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/researchdata/special08.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/researchdata/special07.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/researchdata/special06.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/researchdata/special05.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/researchdata/special01.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/researchdata/special03.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/report/vol1.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/genba/vol2.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/jissen/ben_care/shouka/shouka_03.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/jissen/ben_care/problem/problem02.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/researchdata/special04.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/researchdata/vol8.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/researchdata/special02.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/basic/about/jiritsuhaisetsu/02.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/basic/about/jiritsuhaisetsu/03.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/basic/about/jiritsuhaisetsu/04.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/basic/about/jiritsuhaisetsu/05.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/basic/about/jiritsuhaisetsu/06.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/jissen/ben_care/shouka/shouka_02.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/jissen/ben_care/shouka/shouka_04.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/jissen/ben_care/problem/problem03.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/jissen/ben_care/problem/problem04.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/jissen/ben_care/syukan/shisei.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/jissen/ben_care/syukan/jirei.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/jissen/ben_care/syukan/toilet_jirei.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/jissen/ben_care/syukan/taisou_jirei.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/jissen/ben_care/syukan/nisshi.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/jissen/ben_care/taisou/exercise_gai.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/expert/vol10.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/expert/vol9.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/expert/vol8.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/expert/vol7.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/expert/vol6.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/expert/vol5.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/expert/vol4.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/expert/vol3.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/expert/vol2.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/researchdata/vol11.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/researchdata/vol12.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/researchdata/vol10.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/researchdata/vol9.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/researchdata/vol7.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/researchdata/vol6.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/researchdata/vol5.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/researchdata/vol4.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/researchdata/vol3.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/researchdata/vol2.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/researchdata/vol1.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/genba/vol1.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/jissen/ben_care/chikuben/ben_02.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/jissen/ben_care/control/control02.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/jissen/ben_care/control/control03.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/jissen/ben_care/control/control04.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/jissen/ben_care/control/control05.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/jissen/ben_care/control/control06.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/jissen/ben_care/control/control07.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/jissen/ben_care/control/control07_1.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/jissen/ben_care/control/control07_2.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/jissen/ben_care/taisou/exercise_zai.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/jissen/ben_care/taisou/exercise_ritsui.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/jissen/ben_care/taisou/effect.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/researchdata/vol4_2.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/researchdata/vol4_3.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/researchdata/vol3_2.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/researchdata/vol2_2.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/ja/researchdata/vol1_2.html",
+        "status": 200
+      }
+    ],
+    "documents": [
+      {
+        "url": "https://www.carenavi.jp/content/dam/sites/www_carenavi_jp/expert/pdf/lifree_ikiiki_tsushin_2021summer.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/content/dam/sites/www_carenavi_jp/expert/pdf/lifree_ikiiki_tsushin_2019summer.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/content/dam/sites/www_carenavi_jp/report/vol5/vol5_pdf_01.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/content/dam/sites/www_carenavi_jp/report/vol5/vol5_pdf_02.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/content/dam/sites/www_carenavi_jp/jissen/nyo_care/gijutsu/pdf/down_pdf_01.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/content/dam/sites/www_carenavi_jp/jissen/nyo_care/gijutsu/pdf/down_pdf_02.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/content/dam/sites/www_carenavi_jp/ohyo/purpose/pdf/plan_pdf_01.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/content/dam/sites/www_carenavi_jp/ohyo/purpose/pdf/plan_pdf_02.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/content/dam/sites/www_carenavi_jp/ohyo/purpose/pdf/check_pdf_01.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/content/dam/sites/www_carenavi_jp/ohyo/rehabili/pdf/jissen_pdf_01.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/content/dam/sites/www_carenavi_jp/ohyo/rehabili/pdf/jissen_pdf_02.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/content/dam/sites/www_carenavi_jp/ohyo/rehabili/pdf/jissen_pdf_03.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/content/dam/sites/www_carenavi_jp/ohyo/rehabili/pdf/jissen_pdf_04.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/content/dam/sites/www_carenavi_jp/ohyo/rehabili/pdf/jissen_pdf_05.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/content/dam/sites/www_carenavi_jp/ohyo/rehabili/pdf/jissen_pdf_06.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/content/dam/sites/www_carenavi_jp/ohyo/rehabili/pdf/jissen_pdf_07.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/content/dam/sites/www_carenavi_jp/ohyo/rehabili/pdf/jissen_pdf_08.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/content/dam/sites/www_carenavi_jp/ohyo/rehabili/pdf/jissen_pdf_09.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/content/dam/sites/www_carenavi_jp/ohyo/rehabili/pdf/jissen_pdf_10.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/content/dam/sites/www_carenavi_jp/ohyo/rehabili/pdf/jissen_pdf_11.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/content/dam/sites/www_carenavi_jp/ohyo/rehabili/pdf/jissen_pdf_12.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/content/dam/sites/www_carenavi_jp/ohyo/rehabili/pdf/jissen_pdf_13.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/content/dam/sites/www_carenavi_jp/ohyo/rehabili/pdf/jissen_pdf_14.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/content/dam/sites/www_carenavi_jp/ohyo/rehabili/pdf/jissen_pdf_15.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/content/dam/sites/www_carenavi_jp/ohyo/rehabili/pdf/jissen_pdf_16.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/content/dam/sites/www_carenavi_jp/genba/pdf/lifree_ikiiki_tsushin_2015summer.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/content/dam/sites/www_carenavi_jp/expert/pdf/lifree_ikiiki_tsushin_2020spring.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/content/dam/sites/www_carenavi_jp/expert/pdf/lifree_ikiiki_tsushin_2018autumn.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/content/dam/sites/www_carenavi_jp/report/vol4/vol4_pdf_01.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/content/dam/sites/www_carenavi_jp/report/vol3/vol3_pdf_01.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/content/dam/sites/www_carenavi_jp/expert/pdf/lifree_ikiiki_tsushin_2018winter.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/content/dam/sites/www_carenavi_jp/genba/pdf/vol2_pdf_01.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/content/dam/sites/www_carenavi_jp/genba/pdf/prof_suemaru_pdf_01.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/content/dam/sites/www_carenavi_jp/jissen/ben_care/shouka/pdf/shouka_03_pdf_01.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/content/dam/sites/www_carenavi_jp/jissen/ben_care/syukan/pdf/nisshi_pdf_01.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/content/dam/sites/www_carenavi_jp/jissen/ben_care/syukan/excel/nisshi_pdf_01.xlsx",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/content/dam/sites/www_carenavi_jp/expert/pdf/lifree_ikiiki_tsushin_2016summer.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/content/dam/sites/www_carenavi_jp/expert/pdf/lifree_ikiiki_tsushin_2017special.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/content/dam/sites/www_carenavi_jp/expert/pdf/lifree_ikiiki_tsushin_2016autumn.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/content/dam/sites/www_carenavi_jp/expert/pdf/lifree_ikiiki_tsushin_2015winter.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/content/dam/sites/www_carenavi_jp/expert/pdf/lifree_ikiiki_tsushin_2015autumn.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/content/dam/sites/www_carenavi_jp/expert/pdf/lifree_ikiiki_tsushin_2015summer.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/content/dam/sites/www_carenavi_jp/researchdata/pdf/lifree_ikiiki_tsushin_2017spring.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/content/dam/sites/www_carenavi_jp/researchdata/vol2/pdf/vol2-compendium.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.carenavi.jp/content/dam/sites/www_carenavi_jp/researchdata/pdf/vol3-appendix.pdf",
+        "status": 200
+      }
+    ]
+  }
+}

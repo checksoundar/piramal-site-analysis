@@ -1,0 +1,79 @@
+{
+  "urls-sample": {
+    "captured": "2026-08-19T11:38:54.965Z",
+    "totalUrls": 23,
+    "createdBy": "create-sample.js",
+    "samplingMethod": "all-urls",
+    "urls": [
+      {
+        "url": "https://www.unicharm.com.mm/my/company/topmessage.html"
+      },
+      {
+        "url": "https://www.unicharm.com.mm/my/company/corporate-philosophy.html"
+      },
+      {
+        "url": "https://www.unicharm.com.mm/my/company/corporate-governance.html"
+      },
+      {
+        "url": "https://www.unicharm.com.mm/my/company/overview.html"
+      },
+      {
+        "url": "https://www.unicharm.com.mm/my/company/business-field.html"
+      },
+      {
+        "url": "https://www.unicharm.com.mm/my/company/office.html"
+      },
+      {
+        "url": "https://www.unicharm.com.mm/my/company/affiliate.html"
+      },
+      {
+        "url": "https://www.unicharm.com.mm/my/company/charmring.html"
+      },
+      {
+        "url": "https://www.unicharm.com.mm/my/company/safety.html"
+      },
+      {
+        "url": "https://www.unicharm.com.mm/my/company/lyp.html"
+      },
+      {
+        "url": "https://www.unicharm.com.mm/my/home.html"
+      },
+      {
+        "url": "https://www.unicharm.com.mm/my/brand.html"
+      },
+      {
+        "url": "https://www.unicharm.com.mm/my/cm.html"
+      },
+      {
+        "url": "https://www.unicharm.com.mm/my/contact-us.html"
+      },
+      {
+        "url": "https://www.unicharm.com.mm/my/company.html"
+      },
+      {
+        "url": "https://www.unicharm.com.mm/my/csr-eco.html"
+      },
+      {
+        "url": "https://www.unicharm.com.mm/my/recruit.html"
+      },
+      {
+        "url": "https://www.unicharm.com.mm/my/terms-of-use.html"
+      },
+      {
+        "url": "https://www.unicharm.com.mm/my/privacy-policy.html"
+      },
+      {
+        "url": "https://www.unicharm.com.mm/my/site-map.html"
+      },
+      {
+        "url": "https://www.unicharm.com.mm/my/global.html"
+      },
+      {
+        "url": "https://www.unicharm.com.mm/my/contact-us/qa1.html"
+      },
+      {
+        "url": "https://www.unicharm.com.mm/"
+      }
+    ]
+  }
+}

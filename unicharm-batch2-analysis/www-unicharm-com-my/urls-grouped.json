@@ -1,0 +1,191 @@
+{
+  "analysis-urls-grouped": {
+    "captured": "2026-08-19T11:38:57.329Z",
+    "urlGroupings": 7,
+    "locales": {
+      "en": 47,
+      "unknown": 1
+    },
+    "groups": {
+      "/en/company/overview/officer": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://www.unicharm.com.my/en/company/overview/officer/03.html"
+          },
+          {
+            "url": "https://www.unicharm.com.my/en/company/overview/officer/02.html"
+          },
+          {
+            "url": "https://www.unicharm.com.my/en/company/overview/officer/05.html"
+          },
+          {
+            "url": "https://www.unicharm.com.my/en/company/overview/officer/01.html"
+          },
+          {
+            "url": "https://www.unicharm.com.my/en/company/overview/officer/06.html"
+          },
+          {
+            "url": "https://www.unicharm.com.my/en/company/overview/officer/04.html"
+          }
+        ]
+      },
+      "/en/company/news": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://www.unicharm.com.my/en/company/news/2023/0207-01.html"
+          },
+          {
+            "url": "https://www.unicharm.com.my/en/company/news/2023/1006-01.html"
+          },
+          {
+            "url": "https://www.unicharm.com.my/en/company/news/2023/0108.html"
+          },
+          {
+            "url": "https://www.unicharm.com.my/en/company/news/2023/0408.html"
+          },
+          {
+            "url": "https://www.unicharm.com.my/en/company/news/2023/1808.html"
+          },
+          {
+            "url": "https://www.unicharm.com.my/en/company/news/2023/2508.html"
+          },
+          {
+            "url": "https://www.unicharm.com.my/en/company/news/2023/25081.html"
+          },
+          {
+            "url": "https://www.unicharm.com.my/en/company/news/2024/2201.html"
+          },
+          {
+            "url": "https://www.unicharm.com.my/en/company/news/2024/2901.html"
+          },
+          {
+            "url": "https://www.unicharm.com.my/en/company/news/2024/0410.html"
+          },
+          {
+            "url": "https://www.unicharm.com.my/en/company/news/2024/1810.html"
+          },
+          {
+            "url": "https://www.unicharm.com.my/en/company/news/2024/0111.html"
+          },
+          {
+            "url": "https://www.unicharm.com.my/en/company/news/2022.html"
+          },
+          {
+            "url": "https://www.unicharm.com.my/en/company/news/2023.html"
+          },
+          {
+            "url": "https://www.unicharm.com.my/en/company/news/2024.html"
+          }
+        ]
+      },
+      "/en/contact-us": {
+        "confidence": "85%",
+        "urls": [
+          {
+            "url": "https://www.unicharm.com.my/en/contact-us/qa1.html"
+          },
+          {
+            "url": "https://www.unicharm.com.my/en/contact-us/qa2.html"
+          }
+        ]
+      },
+      "/en/company": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://www.unicharm.com.my/en/company/topmessage.html"
+          },
+          {
+            "url": "https://www.unicharm.com.my/en/company/corporate-philosophy.html"
+          },
+          {
+            "url": "https://www.unicharm.com.my/en/company/corporate-governance.html"
+          },
+          {
+            "url": "https://www.unicharm.com.my/en/company/overview.html"
+          },
+          {
+            "url": "https://www.unicharm.com.my/en/company/business-field.html"
+          },
+          {
+            "url": "https://www.unicharm.com.my/en/company/office.html"
+          },
+          {
+            "url": "https://www.unicharm.com.my/en/company/affiliate.html"
+          },
+          {
+            "url": "https://www.unicharm.com.my/en/company/charmring.html"
+          },
+          {
+            "url": "https://www.unicharm.com.my/en/company/safety.html"
+          },
+          {
+            "url": "https://www.unicharm.com.my/en/company/lyp.html"
+          }
+        ]
+      },
+      "/en/privacy-policy": {
+        "confidence": "85%",
+        "urls": [
+          {
+            "url": "https://www.unicharm.com.my/en/privacy-policy/specific.html"
+          },
+          {
+            "url": "https://www.unicharm.com.my/en/privacy-policy/purpose.html"
+          },
+          {
+            "url": "https://www.unicharm.com.my/en/privacy-policy/cookie.html"
+          }
+        ]
+      },
+      "/en": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://www.unicharm.com.my/en/home.html"
+          },
+          {
+            "url": "https://www.unicharm.com.my/en/brand.html"
+          },
+          {
+            "url": "https://www.unicharm.com.my/en/contact-us.html"
+          },
+          {
+            "url": "https://www.unicharm.com.my/en/company.html"
+          },
+          {
+            "url": "https://www.unicharm.com.my/en/csr-eco.html"
+          },
+          {
+            "url": "https://www.unicharm.com.my/en/recruit.html"
+          },
+          {
+            "url": "https://www.unicharm.com.my/en/terms-of-use.html"
+          },
+          {
+            "url": "https://www.unicharm.com.my/en/privacy-policy.html"
+          },
+          {
+            "url": "https://www.unicharm.com.my/en/site-map.html"
+          },
+          {
+            "url": "https://www.unicharm.com.my/en/global.html"
+          },
+          {
+            "url": "https://www.unicharm.com.my/en/csr-eco/report.html"
+          }
+        ]
+      },
+      "/": {
+        "confidence": "100%",
+        "urls": [
+          {
+            "url": "https://www.unicharm.com.my/"
+          }
+        ]
+      }
+    }
+  }
+}

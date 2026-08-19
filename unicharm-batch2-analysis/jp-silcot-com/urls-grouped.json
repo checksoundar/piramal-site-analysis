@@ -1,0 +1,359 @@
+{
+  "analysis-urls-grouped": {
+    "captured": "2026-08-19T11:38:05.862Z",
+    "urlGroupings": 14,
+    "locales": {
+      "ja": 59,
+      "en": 32,
+      "unknown": 1
+    },
+    "groups": {
+      "/ja/wet/products": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://jp.silcot.com/ja/wet/products/reliable_big.html"
+          },
+          {
+            "url": "https://jp.silcot.com/ja/wet/products/9999.html"
+          },
+          {
+            "url": "https://jp.silcot.com/ja/wet/products/9999_plus.html"
+          },
+          {
+            "url": "https://jp.silcot.com/ja/wet/products/virus_nonalc.html"
+          },
+          {
+            "url": "https://jp.silcot.com/ja/wet/products/9999_big.html"
+          },
+          {
+            "url": "https://jp.silcot.com/ja/wet/products/alcohol.html"
+          },
+          {
+            "url": "https://jp.silcot.com/ja/wet/products/noroclear.html"
+          },
+          {
+            "url": "https://jp.silcot.com/ja/wet/products/reliable.html"
+          },
+          {
+            "url": "https://jp.silcot.com/ja/wet/products/pure.html"
+          },
+          {
+            "url": "https://jp.silcot.com/ja/wet/products/shodoku.html"
+          }
+        ]
+      },
+      "/ja/wet/article": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://jp.silcot.com/ja/wet/article/vol7.html"
+          },
+          {
+            "url": "https://jp.silcot.com/ja/wet/article/vol6.html"
+          },
+          {
+            "url": "https://jp.silcot.com/ja/wet/article/vol5.html"
+          },
+          {
+            "url": "https://jp.silcot.com/ja/wet/article/vol4.html"
+          },
+          {
+            "url": "https://jp.silcot.com/ja/wet/article/vol3.html"
+          },
+          {
+            "url": "https://jp.silcot.com/ja/wet/article/vol2.html"
+          },
+          {
+            "url": "https://jp.silcot.com/ja/wet/article/vol1.html"
+          }
+        ]
+      },
+      "/ja/cotton/products": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://jp.silcot.com/ja/cotton/products/facialtowel_suhadaomoi.html"
+          },
+          {
+            "url": "https://jp.silcot.com/ja/cotton/products/facialtowel_mutenka.html"
+          },
+          {
+            "url": "https://jp.silcot.com/ja/cotton/products/moist.html"
+          },
+          {
+            "url": "https://jp.silcot.com/ja/cotton/products/vitamin.html"
+          },
+          {
+            "url": "https://jp.silcot.com/ja/cotton/products/stretch.html"
+          },
+          {
+            "url": "https://jp.silcot.com/ja/cotton/products/silky.html"
+          },
+          {
+            "url": "https://jp.silcot.com/ja/cotton/products/premium.html"
+          },
+          {
+            "url": "https://jp.silcot.com/ja/cotton/products/smooth.html"
+          }
+        ]
+      },
+      "/ja/cotton/season": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://jp.silcot.com/ja/cotton/season/blood-circulation-care.html"
+          },
+          {
+            "url": "https://jp.silcot.com/ja/cotton/season/proper-moisturizing-care.html"
+          },
+          {
+            "url": "https://jp.silcot.com/ja/cotton/season/proper-aging-care.html"
+          },
+          {
+            "url": "https://jp.silcot.com/ja/cotton/season/resetting-summer-skin-fatigue.html"
+          },
+          {
+            "url": "https://jp.silcot.com/ja/cotton/season/skin-care-in-the-rainy-season.html"
+          },
+          {
+            "url": "https://jp.silcot.com/ja/cotton/season/good-impression-with-beautiful-skin.html"
+          },
+          {
+            "url": "https://jp.silcot.com/ja/cotton/season/unwavering-skin-care.html"
+          },
+          {
+            "url": "https://jp.silcot.com/ja/cotton/season/stop-wrong-skin-care.html"
+          },
+          {
+            "url": "https://jp.silcot.com/ja/cotton/season/relationship-between-diet-and-skin.html"
+          },
+          {
+            "url": "https://jp.silcot.com/ja/cotton/season/dry-skin-care-in-winter.html"
+          },
+          {
+            "url": "https://jp.silcot.com/ja/cotton/season/bye-bye-dry-skin.html"
+          }
+        ]
+      },
+      "/en/wet/products": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://jp.silcot.com/en/wet/products/reliable_big.html"
+          },
+          {
+            "url": "https://jp.silcot.com/en/wet/products/9999.html"
+          },
+          {
+            "url": "https://jp.silcot.com/en/wet/products/9999_plus.html"
+          },
+          {
+            "url": "https://jp.silcot.com/en/wet/products/9999_big.html"
+          },
+          {
+            "url": "https://jp.silcot.com/en/wet/products/alcohol.html"
+          },
+          {
+            "url": "https://jp.silcot.com/en/wet/products/noroclear.html"
+          },
+          {
+            "url": "https://jp.silcot.com/en/wet/products/reliable.html"
+          },
+          {
+            "url": "https://jp.silcot.com/en/wet/products/pure.html"
+          },
+          {
+            "url": "https://jp.silcot.com/en/wet/products/shodoku.html"
+          },
+          {
+            "url": "https://jp.silcot.com/en/wet/products/virus_nonalc.html"
+          }
+        ]
+      },
+      "/en/cotton/products": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://jp.silcot.com/en/cotton/products/facialtowel_suhadaomoi.html"
+          },
+          {
+            "url": "https://jp.silcot.com/en/cotton/products/facialtowel_mutenka.html"
+          },
+          {
+            "url": "https://jp.silcot.com/en/cotton/products/moist.html"
+          },
+          {
+            "url": "https://jp.silcot.com/en/cotton/products/vitamin.html"
+          },
+          {
+            "url": "https://jp.silcot.com/en/cotton/products/silky.html"
+          },
+          {
+            "url": "https://jp.silcot.com/en/cotton/products/premium.html"
+          },
+          {
+            "url": "https://jp.silcot.com/en/cotton/products/smooth.html"
+          }
+        ]
+      },
+      "/ja/cotton/howto": {
+        "confidence": "85%",
+        "urls": [
+          {
+            "url": "https://jp.silcot.com/ja/cotton/howto/merit.html"
+          },
+          {
+            "url": "https://jp.silcot.com/ja/cotton/howto/use.html"
+          },
+          {
+            "url": "https://jp.silcot.com/ja/cotton/howto/point.html"
+          },
+          {
+            "url": "https://jp.silcot.com/ja/cotton/howto/tech.html"
+          }
+        ]
+      },
+      "/en/cotton/howto": {
+        "confidence": "85%",
+        "urls": [
+          {
+            "url": "https://jp.silcot.com/en/cotton/howto/merit.html"
+          },
+          {
+            "url": "https://jp.silcot.com/en/cotton/howto/use.html"
+          },
+          {
+            "url": "https://jp.silcot.com/en/cotton/howto/point.html"
+          },
+          {
+            "url": "https://jp.silcot.com/en/cotton/howto/tech.html"
+          }
+        ]
+      },
+      "/ja/wet": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://jp.silcot.com/ja/wet/home.html"
+          },
+          {
+            "url": "https://jp.silcot.com/ja/wet/message.html"
+          },
+          {
+            "url": "https://jp.silcot.com/ja/wet/products.html"
+          },
+          {
+            "url": "https://jp.silcot.com/ja/wet/kodawari.html"
+          },
+          {
+            "url": "https://jp.silcot.com/ja/wet/scene.html"
+          },
+          {
+            "url": "https://jp.silcot.com/ja/wet/article.html"
+          },
+          {
+            "url": "https://jp.silcot.com/ja/wet/site-map.html"
+          },
+          {
+            "url": "https://jp.silcot.com/ja/wet/news.html"
+          },
+          {
+            "url": "https://jp.silcot.com/ja/wet/campaign.html"
+          },
+          {
+            "url": "https://jp.silcot.com/ja/wet/cm.html"
+          }
+        ]
+      },
+      "/ja/cotton": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://jp.silcot.com/ja/cotton/home.html"
+          },
+          {
+            "url": "https://jp.silcot.com/ja/cotton/products.html"
+          },
+          {
+            "url": "https://jp.silcot.com/ja/cotton/message.html"
+          },
+          {
+            "url": "https://jp.silcot.com/ja/cotton/howto.html"
+          },
+          {
+            "url": "https://jp.silcot.com/ja/cotton/season.html"
+          },
+          {
+            "url": "https://jp.silcot.com/ja/cotton/site-map.html"
+          }
+        ]
+      },
+      "/en/wet": {
+        "confidence": "85%",
+        "urls": [
+          {
+            "url": "https://jp.silcot.com/en/wet/home.html"
+          },
+          {
+            "url": "https://jp.silcot.com/en/wet/products.html"
+          },
+          {
+            "url": "https://jp.silcot.com/en/wet/site-map.html"
+          }
+        ]
+      },
+      "/en/cotton": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://jp.silcot.com/en/cotton/home.html"
+          },
+          {
+            "url": "https://jp.silcot.com/en/cotton/products.html"
+          },
+          {
+            "url": "https://jp.silcot.com/en/cotton/message.html"
+          },
+          {
+            "url": "https://jp.silcot.com/en/cotton/howto.html"
+          },
+          {
+            "url": "https://jp.silcot.com/en/cotton/site-map.html"
+          }
+        ]
+      },
+      "/": {
+        "confidence": "100%",
+        "urls": [
+          {
+            "url": "https://jp.silcot.com/"
+          }
+        ]
+      },
+      "unknown": {
+        "confidence": "50%",
+        "urls": [
+          {
+            "url": "https://jp.silcot.com/shareparts/ja/cotton/movie/movie-moist-01/_jcr_content/for-reference.html"
+          },
+          {
+            "url": "https://jp.silcot.com/shareparts/ja/cotton/movie/movie-silky-01/_jcr_content/for-reference.html"
+          },
+          {
+            "url": "https://jp.silcot.com/shareparts/en/cotton/movie/movie-moist-01/_jcr_content/for-reference.html"
+          },
+          {
+            "url": "https://jp.silcot.com/shareparts/en/cotton/movie/movie-silky-01/_jcr_content/for-reference.html"
+          },
+          {
+            "url": "https://jp.silcot.com/en/silcotbrand/home.html"
+          },
+          {
+            "url": "https://jp.silcot.com/ja/silcotbrand/home.html"
+          }
+        ]
+      }
+    }
+  }
+}

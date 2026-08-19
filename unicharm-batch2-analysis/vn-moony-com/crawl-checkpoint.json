@@ -1,0 +1,375 @@
+{
+  "queue": [],
+  "visited": [
+    "https://vn.moony.com/",
+    "https://vn.moony.com/vi/home.html",
+    "https://vn.moony.com/vi/shop.html",
+    "https://vn.moony.com/vi/products.html",
+    "https://vn.moony.com/vi/products/ta-diu-nhe.html",
+    "https://vn.moony.com/vi/products/ta-dan.html",
+    "https://vn.moony.com/vi/products/ta-quan.html",
+    "https://vn.moony.com/vi/products/san-pham-cham-soc-cho-me.html",
+    "https://vn.moony.com/vi/products/tim-kiem-cac-loai-ta-bim-to-cho-be-tre-so-sinh.html",
+    "https://vn.moony.com/vi/diapers.html",
+    "https://vn.moony.com/vi/brand.html",
+    "https://vn.moony.com/vi/brand/nhung-cong-hien-tu-nhan-hang-moony.html",
+    "https://vn.moony.com/vi/brand/lich-su-moony.html",
+    "https://vn.moony.com/vi/cm.html",
+    "https://vn.moony.com/vi/products/ta-quan/ta-quan-moony-mizuasobi.html",
+    "https://vn.moony.com/vi/site-map.html",
+    "https://vn.moony.com/vi/global.html",
+    "https://vn.moony.com/vi/products/ta-natural/ta-dan-natural-cho-tre-so-sinh.html",
+    "https://vn.moony.com/vi/products/ta-natural/ta-dan-natural-size-s-bim-dan-natural-size-s.html",
+    "https://vn.moony.com/vi/products/ta-natural/ta-dan-natural-size-m-bim-dan-natural-size-m.html",
+    "https://vn.moony.com/vi/products/ta-natural/ta-dan-natural-size-l-bim-dan-natural-size-l.html",
+    "https://vn.moony.com/vi/products/ta-natural/ta-quan-natural-size-m-bim-quan-natural-size-m.html",
+    "https://vn.moony.com/vi/products/ta-dan/ta-dan-moony-size-3s-bim-dan-moony-size-3s.html",
+    "https://vn.moony.com/vi/products/ta-dan/ta-dan-cho-tre-so-sinh.html",
+    "https://vn.moony.com/vi/products/ta-dan/ta-dan-moony-size-s-bim-dan-moony-size-s.html",
+    "https://vn.moony.com/vi/products/ta-dan/ta-dan-moony-size-m-bim-dan-moony-size-m.html",
+    "https://vn.moony.com/vi/products/ta-dan/ta-dan-moony-size-l-bim-dan-moony-size-l.html",
+    "https://vn.moony.com/vi/products/ta-quan/ta-quan-moony-size-m-bim-quan-moony-size-m.html",
+    "https://vn.moony.com/vi/products/ta-quan/ta-quan-moony-size-l-bim-quan-moony-size-l.html",
+    "https://vn.moony.com/vi/products/ta-quan/ta-quan-moony-size-xl-bim-quan-moony-size-xl.html",
+    "https://vn.moony.com/vi/products/ta-quan/ta-quan-moony-size-xxl-bim-quan-moony-size-xxl.html",
+    "https://vn.moony.com/vi/products/san-pham-cham-soc-cho-me/mieng-lot-tham-sua.html",
+    "https://vn.moony.com/vi/products/ta-diu-nhe/ta-dan-natural-cho-tre-so-sinh.html",
+    "https://vn.moony.com/vi/products/ta-diu-nhe/ta-dan-natural-size-s-bim-dan-natural-size-s.html",
+    "https://vn.moony.com/vi/products/ta-diu-nhe/ta-dan-natural-size-m-bim-dan-natural-size-m.html",
+    "https://vn.moony.com/vi/products/ta-diu-nhe/ta-dan-natural-size-l-bim-dan-natural-size-l.html",
+    "https://vn.moony.com/vi/products/ta-diu-nhe/ta-quan-natural-size-m-bim-quan-natural-size-m.html",
+    "https://vn.moony.com/vi/products/ta-diu-nhe/ta-quan-natural-size-l-bim-quan-natural-size-l.html",
+    "https://vn.moony.com/vi/products/ta-diu-nhe/ta-quan-natural-size-xl-bim-quan-natural-size-xl.html",
+    "https://vn.moony.com/vi/products/ta-quan/ta-quan-moony-size-xxxl-bim-quan-moony-size-xxxl.html",
+    "https://vn.moony.com/vi/diapers/bim-nhat-moony-thiet-ke-em-dem-vua-van.html",
+    "https://vn.moony.com/vi/diapers/ta-em-be-voi-thiet-ke-thoang-khi.html",
+    "https://vn.moony.com/vi/diapers/sakaguchi-nguoi-phat-trien-san-pham-ta-moony.html",
+    "https://vn.moony.com/vi/diapers/hasimoto-nguoi-phat-trien-san-pham-ta-moony.html",
+    "https://vn.moony.com/vi/home.html?utm_source=uc&utm_medium=lp&utm_campaign=global",
+    "https://vn.moony.com/vi/tips/taiken45-01"
+  ],
+  "urls": [
+    {
+      "url": "https://vn.moony.com/",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://vn.moony.com/vi/home.html"
+    },
+    {
+      "url": "https://vn.moony.com/vi/home.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://vn.moony.com/vi/home.html"
+    },
+    {
+      "url": "https://vn.moony.com/vi/shop.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://vn.moony.com/vi/shop.html"
+    },
+    {
+      "url": "https://vn.moony.com/vi/products.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://vn.moony.com/vi/products.html"
+    },
+    {
+      "url": "https://vn.moony.com/vi/products/ta-diu-nhe.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://vn.moony.com/vi/products/ta-diu-nhe.html"
+    },
+    {
+      "url": "https://vn.moony.com/vi/products/ta-dan.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://vn.moony.com/vi/products/ta-dan.html"
+    },
+    {
+      "url": "https://vn.moony.com/vi/products/ta-quan.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://vn.moony.com/vi/products/ta-quan.html"
+    },
+    {
+      "url": "https://vn.moony.com/vi/products/san-pham-cham-soc-cho-me.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://vn.moony.com/vi/products/san-pham-cham-soc-cho-me.html"
+    },
+    {
+      "url": "https://vn.moony.com/vi/products/tim-kiem-cac-loai-ta-bim-to-cho-be-tre-so-sinh.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://vn.moony.com/vi/products/tim-kiem-cac-loai-ta-bim-to-cho-be-tre-so-sinh.html"
+    },
+    {
+      "url": "https://vn.moony.com/vi/diapers.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://vn.moony.com/vi/diapers.html"
+    },
+    {
+      "url": "https://vn.moony.com/vi/brand.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://vn.moony.com/vi/brand.html"
+    },
+    {
+      "url": "https://vn.moony.com/vi/brand/nhung-cong-hien-tu-nhan-hang-moony.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://vn.moony.com/vi/brand/nhung-cong-hien-tu-nhan-hang-moony.html"
+    },
+    {
+      "url": "https://vn.moony.com/vi/brand/lich-su-moony.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://vn.moony.com/vi/brand/lich-su-moony.html"
+    },
+    {
+      "url": "https://vn.moony.com/vi/cm.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://vn.moony.com/vi/cm.html"
+    },
+    {
+      "url": "https://vn.moony.com/vi/products/ta-quan/ta-quan-moony-mizuasobi.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://vn.moony.com/vi/products/ta-quan/ta-quan-moony-mizuasobi.html"
+    },
+    {
+      "url": "https://vn.moony.com/vi/site-map.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://vn.moony.com/vi/site-map.html"
+    },
+    {
+      "url": "https://vn.moony.com/vi/global.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://vn.moony.com/vi/global.html"
+    },
+    {
+      "url": "https://vn.moony.com/vi/products/ta-natural/ta-dan-natural-cho-tre-so-sinh.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://vn.moony.com/vi/products/ta-diu-nhe/ta-dan-natural-cho-tre-so-sinh.html"
+    },
+    {
+      "url": "https://vn.moony.com/vi/products/ta-natural/ta-dan-natural-size-s-bim-dan-natural-size-s.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://vn.moony.com/vi/products/ta-diu-nhe/ta-dan-natural-size-s-bim-dan-natural-size-s.html"
+    },
+    {
+      "url": "https://vn.moony.com/vi/products/ta-natural/ta-dan-natural-size-m-bim-dan-natural-size-m.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://vn.moony.com/vi/products/ta-diu-nhe/ta-dan-natural-size-m-bim-dan-natural-size-m.html"
+    },
+    {
+      "url": "https://vn.moony.com/vi/products/ta-natural/ta-dan-natural-size-l-bim-dan-natural-size-l.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://vn.moony.com/vi/products/ta-diu-nhe/ta-dan-natural-size-l-bim-dan-natural-size-l.html"
+    },
+    {
+      "url": "https://vn.moony.com/vi/products/ta-natural/ta-quan-natural-size-m-bim-quan-natural-size-m.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://vn.moony.com/vi/products/ta-diu-nhe/ta-quan-natural-size-m-bim-quan-natural-size-m.html"
+    },
+    {
+      "url": "https://vn.moony.com/vi/products/ta-dan/ta-dan-moony-size-3s-bim-dan-moony-size-3s.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://vn.moony.com/vi/products/ta-dan/ta-dan-moony-size-3s-bim-dan-moony-size-3s.html"
+    },
+    {
+      "url": "https://vn.moony.com/vi/products/ta-dan/ta-dan-cho-tre-so-sinh.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://vn.moony.com/vi/products/ta-dan/ta-dan-cho-tre-so-sinh.html"
+    },
+    {
+      "url": "https://vn.moony.com/vi/products/ta-dan/ta-dan-moony-size-s-bim-dan-moony-size-s.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://vn.moony.com/vi/products/ta-dan/ta-dan-moony-size-s-bim-dan-moony-size-s.html"
+    },
+    {
+      "url": "https://vn.moony.com/vi/products/ta-dan/ta-dan-moony-size-m-bim-dan-moony-size-m.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://vn.moony.com/vi/products/ta-dan/ta-dan-moony-size-m-bim-dan-moony-size-m.html"
+    },
+    {
+      "url": "https://vn.moony.com/vi/products/ta-dan/ta-dan-moony-size-l-bim-dan-moony-size-l.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://vn.moony.com/vi/products/ta-dan/ta-dan-moony-size-l-bim-dan-moony-size-l.html"
+    },
+    {
+      "url": "https://vn.moony.com/vi/products/ta-quan/ta-quan-moony-size-m-bim-quan-moony-size-m.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://vn.moony.com/vi/products/ta-quan/ta-quan-moony-size-m-bim-quan-moony-size-m.html"
+    },
+    {
+      "url": "https://vn.moony.com/vi/products/ta-quan/ta-quan-moony-size-l-bim-quan-moony-size-l.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://vn.moony.com/vi/products/ta-quan/ta-quan-moony-size-l-bim-quan-moony-size-l.html"
+    },
+    {
+      "url": "https://vn.moony.com/vi/products/ta-quan/ta-quan-moony-size-xl-bim-quan-moony-size-xl.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://vn.moony.com/vi/products/ta-quan/ta-quan-moony-size-xl-bim-quan-moony-size-xl.html"
+    },
+    {
+      "url": "https://vn.moony.com/vi/products/ta-quan/ta-quan-moony-size-xxl-bim-quan-moony-size-xxl.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://vn.moony.com/vi/products/ta-quan/ta-quan-moony-size-xxl-bim-quan-moony-size-xxl.html"
+    },
+    {
+      "url": "https://vn.moony.com/vi/products/san-pham-cham-soc-cho-me/mieng-lot-tham-sua.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://vn.moony.com/vi/products/san-pham-cham-soc-cho-me/mieng-lot-tham-sua.html"
+    },
+    {
+      "url": "https://vn.moony.com/vi/products/ta-diu-nhe/ta-dan-natural-cho-tre-so-sinh.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://vn.moony.com/vi/products/ta-diu-nhe/ta-dan-natural-cho-tre-so-sinh.html"
+    },
+    {
+      "url": "https://vn.moony.com/vi/products/ta-diu-nhe/ta-dan-natural-size-s-bim-dan-natural-size-s.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://vn.moony.com/vi/products/ta-diu-nhe/ta-dan-natural-size-s-bim-dan-natural-size-s.html"
+    },
+    {
+      "url": "https://vn.moony.com/vi/products/ta-diu-nhe/ta-dan-natural-size-m-bim-dan-natural-size-m.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://vn.moony.com/vi/products/ta-diu-nhe/ta-dan-natural-size-m-bim-dan-natural-size-m.html"
+    },
+    {
+      "url": "https://vn.moony.com/vi/products/ta-diu-nhe/ta-dan-natural-size-l-bim-dan-natural-size-l.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://vn.moony.com/vi/products/ta-diu-nhe/ta-dan-natural-size-l-bim-dan-natural-size-l.html"
+    },
+    {
+      "url": "https://vn.moony.com/vi/products/ta-diu-nhe/ta-quan-natural-size-m-bim-quan-natural-size-m.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://vn.moony.com/vi/products/ta-diu-nhe/ta-quan-natural-size-m-bim-quan-natural-size-m.html"
+    },
+    {
+      "url": "https://vn.moony.com/vi/products/ta-diu-nhe/ta-quan-natural-size-l-bim-quan-natural-size-l.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://vn.moony.com/vi/products/ta-diu-nhe/ta-quan-natural-size-l-bim-quan-natural-size-l.html"
+    },
+    {
+      "url": "https://vn.moony.com/vi/products/ta-diu-nhe/ta-quan-natural-size-xl-bim-quan-natural-size-xl.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://vn.moony.com/vi/products/ta-diu-nhe/ta-quan-natural-size-xl-bim-quan-natural-size-xl.html"
+    },
+    {
+      "url": "https://vn.moony.com/vi/products/ta-quan/ta-quan-moony-size-xxxl-bim-quan-moony-size-xxxl.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://vn.moony.com/vi/products/ta-quan/ta-quan-moony-size-xxxl-bim-quan-moony-size-xxxl.html"
+    },
+    {
+      "url": "https://vn.moony.com/vi/diapers/bim-nhat-moony-thiet-ke-em-dem-vua-van.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://vn.moony.com/vi/diapers/bim-nhat-moony-thiet-ke-em-dem-vua-van.html"
+    },
+    {
+      "url": "https://vn.moony.com/vi/diapers/ta-em-be-voi-thiet-ke-thoang-khi.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://vn.moony.com/vi/diapers/ta-em-be-voi-thiet-ke-thoang-khi.html"
+    },
+    {
+      "url": "https://vn.moony.com/vi/diapers/sakaguchi-nguoi-phat-trien-san-pham-ta-moony.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://vn.moony.com/vi/diapers/sakaguchi-nguoi-phat-trien-san-pham-ta-moony.html"
+    },
+    {
+      "url": "https://vn.moony.com/vi/diapers/hasimoto-nguoi-phat-trien-san-pham-ta-moony.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://vn.moony.com/vi/diapers/hasimoto-nguoi-phat-trien-san-pham-ta-moony.html"
+    },
+    {
+      "url": "https://vn.moony.com/vi/home.html?utm_source=uc&utm_medium=lp&utm_campaign=global",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://vn.moony.com/vi/home.html?utm_source=uc&utm_medium=lp&utm_campaign=global"
+    },
+    {
+      "url": "https://vn.moony.com/vi/tips/taiken45-01",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://vn.moony.com/vi/tips/taiken45-01.html"
+    }
+  ]
+}

@@ -1,0 +1,523 @@
+{
+  "urls-sample": {
+    "captured": "2026-08-19T11:37:09.447Z",
+    "totalUrls": 171,
+    "createdBy": "create-sample.js",
+    "samplingMethod": "all-urls",
+    "urls": [
+      {
+        "url": "https://www.diana.com.vn/vi/products/sieu_tham1/sieu_tham_4teen.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/sieu_tham1/sieu_sieu_mong01.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/sieu_tham1/sieu_tham_maxi_co_canh.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/sieu_tham1/sieu_tham_maxi_khong_canh.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/sieu_tham1/sieu_mong_canh.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/sieu_tham1/sieu_mong_khong_canh.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/sieu_tham1/st-ngay-nhieu-29cm.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/sensi1/sieu_mong_canh.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/sensi1/1203075_10711.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/sensi12/1205628_10711.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/sensi12/1206106_10711.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/sensi12/1206582_107091.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/sensi12/st-coolfresh-sieu-mong-kcanh.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/sensi12/b_ngsangch_congnghice-cool.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/sensi12/ss-coolfresh-mat-diu-canh.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/sensi12/ss-coolfresh-mat-diu-canh1.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/sensi11/ban_dem29.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/sensi11/ban_dem35.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/Diana_Super_Night1/Diana_Super_Night28.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/Diana_Super_Night1/Diana_Super_Night35.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/Diana_Super_Night11/Diana_Super_Night_shorts.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/Diana_Super_Night11/Diana_Super_Night_shorts1.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/Diana_Super_Night11/bang-quan-double-fresh.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/Diana_Super_Night11/bang-quan-cool-fresh-comfy-girl.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/Diana_Super_Night11/bang-quan-comfy-night.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/Diana_Super_Night11/bang-quan-beauty-hip.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/Diana_Super_Night11/bang-quan-cool-fresh-comfy-girl1.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/hang_ngay1/sensi_khang_khuyen.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/hang_ngay1/1203999_10717.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/hang_ngay1/1204040_10717.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/hang_ngay1/sieu_tham_mat_luoi.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/hang_ngay121/1202682_10717.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/hang_ngay121/1202682_107171.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/hang_ngay121/1202682_1071711.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/hang_ngay121/1202682_10717111.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/hang_ngay122/1202682_10717.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/hang_ngay122/1202682_107171.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/hang_ngay122/1202682_107172.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/sieu_tham/sieu_tham_4teen.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/sieu_tham/sieu_sieu_mong01.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/sieu_tham/sieu_tham_maxi_khong_canh.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/sieu_tham/sieu_tham_maxi_co_canh.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/sieu_tham/sieu_mong_khong_canh.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/sieu_tham/sieu_mong_canh.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/sensi/ban_dem29.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/sensi/ban_dem35.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/sensi/1203997_10711.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/sensi/sieu_mong_canh.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/sensi/1203075_10711.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/sensi/1206106_10711.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/sensi/1205628_10711.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/Diana_Super_Night/Diana_Super_Night28.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/Diana_Super_Night/Diana_Super_Night35.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/Diana_Super_Night/Diana_Super_Night42.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/Diana_Super_Night/Diana_Super_Night_shorts.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/hang_ngay/sensi_khang_khuyen.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/hang_ngay/1203999_10717.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/hang_ngay/1203985_10717.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/hang_ngay/1204040_10717.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/hang_ngay/1202682_10717.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/hang_ngay/1204000_10717.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/hang_ngay/sieu_tham_mat_luoi.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/hang_ngay/1204003_10717.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/hang_ngay/1205657_10717.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/libera/sieu_mong_khong_canh.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/libera/sieu_mong_canh.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/libera/maxi_khong_canh.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/libera/maxi_canh.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/libera/maxi_canh1.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/2019-ss-coolfresh-night/ss-coolfresh-night-29cm.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/2019-ss-coolfresh-night/ss-coolfresh-night-35cm.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/2019-sofy-cooling-fresh/sofy-coolingfresh-23cm.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/2019-sofy-cooling-fresh/sofy-coolingfresh-25cm.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/than-hoat-tinh/sieu-tham-than-hoat-tinh-canh.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/than-hoat-tinh/sensi-than-hoat-tinh-canh.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/femwash/odor-fresh.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/femwash/cool.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/femwash/skincare.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/hang_ngay13/1204040_10717.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/hang_ngay13/1204040_107171.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/hang_ngay13/1204040_1071711.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/diana-organic/diana-organic-.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/diana-organic/diana-organic-cool-fresh.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/advice/lifestyle/02.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/advice/lifestyle/021.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/advice/period/01.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/advice/period/03.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/advice/period/04.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/advice/period/05.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/advice/period/07.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/advice/period/09.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/advice/period/12.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/advice/period/13.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/advice/period/14.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/advice/period/16.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/advice/period/21.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/advice/period/22.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/advice/period/26.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/advice/period/28.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/advice/beauty/04.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/advice/beauty/06.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/advice/beauty/07.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/advice/beauty/08.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/advice/beauty/09.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/advice/fashion/01.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/advice/fashion/011.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/sieu_tham1.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/sensi1.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/sensi12.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/mama1.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/sensi11.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/Diana_Super_Night1.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/Diana_Super_Night11.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/hang_ngay1.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/hang_ngay11.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/hang_ngay12.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/hang_ngay121.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/hang_ngay122.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/type1.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/type.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/product-new.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/sieu_tham.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/sensi.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/Diana_Super_Night.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/hang_ngay.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/libera.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/mama.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/2019-ss-coolfresh-night.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/2019-sofy-cooling-fresh.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/2019-hn-sensi-cool-fresh.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/hang_ngay123.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/than-hoat-tinh.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/femwash.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/hang_ngay13.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/hang_ngay14.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/diana-organic.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/mama1/mama.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/hang_ngay11/1204003_10717.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/hang_ngay12/1202682_10717.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/mama/mama.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/2019-hn-sensi-cool-fresh/1205657_10717.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products/hang_ngay123/1202682_10717.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/brandactivity/2017-10-01-1.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/brandactivity/2016-11-23-1.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/brandactivity/2016-11-23-2.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/brandactivity/2016-5-24-1.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/brandactivity/2015-3-14-1.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/brandactivity/2016-5-14-24-1.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/brandactivity/2015-11-4-1.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/brandactivity/2015-3-14-2.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/brandactivity/2015-6-24-1.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/brandactivity/2015-10-15-1.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/brandactivity/2015-10-15-2.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/brandactivity/2015-10-15-3.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/advice/Teens.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/advice/20s.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/advice/30s-40s.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/advice/50s.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/advice/keyword-result.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/about/message.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/about/history.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/home.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/products.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/calendar.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/brandactivity.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/video.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/advice.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/about.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/site-map.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/vi/global.html"
+      },
+      {
+        "url": "https://www.diana.com.vn/"
+      }
+    ]
+  }
+}

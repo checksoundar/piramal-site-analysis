@@ -1,0 +1,322 @@
+{
+  "analysis-urls-grouped": {
+    "captured": "2026-08-19T11:38:31.019Z",
+    "urlGroupings": 8,
+    "locales": {
+      "en": 89,
+      "unknown": 1
+    },
+    "groups": {
+      "/en/about": {
+        "confidence": "85%",
+        "urls": [
+          {
+            "url": "https://my.mamypoko.com/en/about/who-is-poko.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/about/poko-chan-song.html"
+          }
+        ]
+      },
+      "/en/products": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://my.mamypoko.com/en/products/search.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/products/mp-preemie-pxs-preemie.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/products/mp-airfit-nb-s.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/products/mp-airfit-m-l.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/products/mpp-airfit-m-xl.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/products/mp-extradryskin-nb-s.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/products/mp-extradryskin-m-xxl.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/products/mpp-extradryskin-s.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/products/mpp-extradryskin-m.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/products/mpp-extradryskin-l-xxxl.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/products/mp-maxiabsorb-s-m.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/products/mp-maxiabsorb-l-xxl.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/products/mp-standard-nb-xl.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/products/mpp-standard-s-xxl.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/products/mpkid-xxl-xxxl.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/products/mpw-wipescottonysoft.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/products/mpw-wipesantibacterial.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/products/mp-natural-nb-l.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/products/mpp-natural-m-xl.html"
+          }
+        ]
+      },
+      "/en/mamatips": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://my.mamypoko.com/en/mamatips/pregnancy01.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/mamatips/pregnancy02.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/mamatips/pregnancy03.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/mamatips/pregnancy04.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/mamatips/pregnancy05.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/mamatips/delivery01.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/mamatips/delivery02.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/mamatips/delivery03.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/mamatips/delivery04.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/mamatips/delivery05.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/mamatips/development01.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/mamatips/development02.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/mamatips/development03.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/mamatips/development04.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/mamatips/development05.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/mamatips/development06.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/mamatips/postpartum01.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/mamatips/postpartum02.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/mamatips/postpartum03.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/mamatips/postpartum04.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/mamatips/postpartum05.html"
+          }
+        ]
+      },
+      "/en/news": {
+        "confidence": "85%",
+        "urls": [
+          {
+            "url": "https://my.mamypoko.com/en/news/19092017.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/news/sample-request.html"
+          }
+        ]
+      },
+      "/en/lullabymail": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://my.mamypoko.com/en/lullabymail/4weeks.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/lullabymail/0mths.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/lullabymail/8weeks.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/lullabymail/12weeks.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/lullabymail/16weeks.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/lullabymail/20weeks.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/lullabymail/24weeks.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/lullabymail/28weeks.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/lullabymail/30weeks.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/lullabymail/32weeks.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/lullabymail/34weeks.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/lullabymail/36weeks.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/lullabymail/38weeks.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/lullabymail/6mths.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/lullabymail/5mths.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/lullabymail/1mths.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/lullabymail/7mths.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/lullabymail/8mths.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/lullabymail/9mths.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/lullabymail/10mths.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/lullabymail/11mths.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/lullabymail/12mths.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/lullabymail/2mths.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/lullabymail/3mths.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/lullabymail/4mths.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/lullabymail/16weeks1.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/lullabymail/1mths1.html"
+          }
+        ]
+      },
+      "/en/pointprogram": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://my.mamypoko.com/en/pointprogram/items.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/pointprogram/prizes.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/pointprogram/how-to.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/pointprogram/appdl.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/pointprogram/chatbot.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/pointprogram/chatbot1.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/pointprogram/faq.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/pointprogram/agreement.html"
+          }
+        ]
+      },
+      "/en": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://my.mamypoko.com/en/home.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/about.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/products.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/mamatips.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/shop.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/video.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/news.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/contact.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/site-map.html"
+          },
+          {
+            "url": "https://my.mamypoko.com/en/japanesemamypoko.html"
+          }
+        ]
+      },
+      "/": {
+        "confidence": "100%",
+        "urls": [
+          {
+            "url": "https://my.mamypoko.com/"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,520 @@
+{
+  "analysis-urls-all": {
+    "captured": "2026-08-19T11:40:50.180Z",
+    "totalUrls": 126,
+    "totalDocuments": 0,
+    "method": "crawl",
+    "sitemapURL": null,
+    "robotsTxtFound": true,
+    "robotsTxtRulesApplied": true,
+    "limitations": "",
+    "confidence": "85%",
+    "urls": [
+      {
+        "url": "https://ru.moony.com/",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/home.html",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/shop.html",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/products.html",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/products/nmn.html",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/products/mn.html",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/products/mnm.html",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/products/search.html",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/products/genuine.html",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/diapers.html",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/brand.html",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/brand/history.html",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/brand/profile.html",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/tips/search.html",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/cm.html",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/brand/message.html",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/site-map.html",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/global.html",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/products/nmn/nmn-nb.html",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/products/nmn/nmn-s.html",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/products/nmn/nmn-m.html",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/products/nmn/nmn-l.html",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/products/nmn/nmn-mnms.html",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/products/nmn/nmn-mnmm.html",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/products/nmn/nmn-mnml.html",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/products/nmn/nmn-mnmxl.html",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/products/mn/mn-nb.html",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/products/mn/mn-s.html",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/products/mn/mn-m.html",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/products/mn/mn-l.html",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/products/mnm/mnm-mnms.html",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/products/mnm/mnm-mnmhaihai.html",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/products/mnm/mnm-mnmm.html",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/products/mnm/mnm-mnml.html",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/products/mnm/mnm-mnmxl.html",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/products/mnm/mnm-mnmxxl.html",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/en/product/pants",
+        "status": 404
+      },
+      {
+        "url": "https://ru.moony.com/ru/diapers/features-airfit.html",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/diapers/features-pr201412.html",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/diapers/kaihatsu-mn.html",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/diapers/kaihatsu-mnm.html",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/brand/song.html",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/tips/search.html?tipsAll=on",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/tips/tips_2.html",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/tips/tips_1.html",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/tips.html",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/diapers/features-tuukisei.html",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/gameterms.html",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/stati.html",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/qr/2021consultation02.html",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/privacy-policy.html",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/privacy-policy/cookie.html",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/home.html?utm_source=uc&utm_medium=lp&utm_campaign=global",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/tips.html?tipsAll=on",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/stati.html?tipsKeyword=03/kw-sleep",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/stati.html?tipsKeyword=03/kw-caesarean",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/stati.html?tipsKeyword=03/kw-rainyseason",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/stati.html?tipsKeyword=03/kw-exercise",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/stati.html?tipsKeyword=03/kw-phase",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/stati.html?tipsKeyword=03/kw-notebook",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/stati.html?tipsKeyword=03/kw-waterplaying",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/stati.html?tipsKeyword=03/kw-hospital",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/stati.html?tipsKeyword=02/kw-standing",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/stati.html?tipsKeyword=02/kw-halfbirthday",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/stati.html?tipsKeyword=03/kw-period",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/stati.html?tipsKeyword=02/kw-babyshower",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/stati.html?tipsKeyword=02/kw-crawling",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/stati.html?tipsKeyword=03/kw-deliveryholiday",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/stati.html?tipsKeyword=03/kw-summer",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/stati.html?tipsKeyword=02/kw-babyholiday",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/stati.html?tipsKeyword=02/kw-weight",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/stati.html?tipsKeyword=02/kw-nightcrying",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/stati.html?tipsKeyword=02/kw-urinaryleaking",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/stati.html?tipsKeyword=02/kw-development",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/stati.html?tipsKeyword=02/kw-fetalmovement",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/stati.html?tipsKeyword=02/kw-reaction",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/stati.html?tipsKeyword=02/kw-walking",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/stati.html?tipsKeyword=02/kw-weaning",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/stati.html?tipsKeyword=02/kw-size",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/stati.html?tipsKeyword=02/kw-winter",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/stati.html?tipsKeyword=02/kw-milk",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/stati.html?tipsKeyword=02/kw-maternity-blues",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/stati.html?tipsKeyword=02/kw-breastmilk",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/stati.html?tipsKeyword=02/kw-vaccination",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/stati.html?tipsKeyword=02/kw-putbed",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/stati.html?tipsKeyword=02/kw-recovering",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/stati.html?tipsKeyword=02/kw-mamafriends",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/stati.html?tipsKeyword=02/kw-bedwetting",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/stati.html?tipsKeyword=02/kw-fever",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/stati.html?tipsKeyword=02/kw-maternity",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/stati.html?tipsKeyword=02/kw-hospitalized",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/stati.html?tipsKeyword=01/kw-birthplan",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/stati.html?tipsKeyword=01/kw-morningsickness",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/stati.html?tipsKeyword=02/kw-changingclothes",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/stati.html?tipsKeyword=02/kw-rhythm",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/stati.html?tipsKeyword=01/kw-brushteeth",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/stati.html?tipsKeyword=01/kw-babywear",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/stati.html?tipsKeyword=02/kw-rupture",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/stati.html?tipsKeyword=01/kw-consultation",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/stati.html?tipsKeyword=01/kw-tummy",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/stati.html?tipsKeyword=01/kw-goods",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/stati.html?tipsKeyword=01/kw-childcare",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/stati.html?tipsKeyword=01/kw-sign",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/stati.html?tipsKeyword=01/kw-delivery",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/stati.html?tipsKeyword=01/kw-celebration",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/stati.html?tipsKeyword=01/kw-pee",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/stati.html?tipsKeyword=01/kw-labor",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/stati.html?tipsKeyword=01/kw-poo",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/stati.html?tipsKeyword=01/kw-babyfood",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/stati.html?tipsKeyword=01/kw-changingdiapers",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/stati.html?tipsKeyword=01/kw-bathing",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/stati.html?tipsKeyword=01/kw-bodydevelopment",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/stati.html?tipsKeyword=01/kw-bodychange",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/stati.html?tipsKeyword=01/kw-lactation",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/stati.html?tipsKeyword=01/kw-pregnancy",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/stati.html?tipsKeyword=01/kw-childbirth",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/stati.html?tipsKeyword=01/kw-breasts",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/stati.html?tipsKeyword=01/kw-goout",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/stati.html?tipsKeyword=01/kw-bath",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/stati.html?tipsKeyword=01/kw-diapers",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/stati.html?tipsKeyword=01/kw-training",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/stati.html?tipsKeyword=01/kw-paperdiapers",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/stati.html?tipsKeyword=01/kw-baby",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/stati.html?tipsKeyword=01/kw-postpartum",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/stati.html?tipsAll=on",
+        "status": 200
+      },
+      {
+        "url": "https://ru.moony.com/ru/qr.html",
+        "status": 404
+      }
+    ],
+    "documents": []
+  }
+}

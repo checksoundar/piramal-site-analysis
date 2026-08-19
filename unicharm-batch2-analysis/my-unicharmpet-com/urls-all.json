@@ -1,0 +1,36 @@
+{
+  "analysis-urls-all": {
+    "captured": "2026-08-19T11:39:14.613Z",
+    "totalUrls": 5,
+    "totalDocuments": 0,
+    "method": "crawl",
+    "sitemapURL": null,
+    "robotsTxtFound": true,
+    "robotsTxtRulesApplied": true,
+    "limitations": "",
+    "confidence": "85%",
+    "urls": [
+      {
+        "url": "https://my.unicharmpet.com/",
+        "status": 200
+      },
+      {
+        "url": "https://my.unicharmpet.com/en/home",
+        "status": 200
+      },
+      {
+        "url": "https://my.unicharmpet.com/en/deotoilet/home.html",
+        "status": 200
+      },
+      {
+        "url": "https://my.unicharmpet.com/en/global.html",
+        "status": 200
+      },
+      {
+        "url": "https://my.unicharmpet.com/en/home.html",
+        "status": 200
+      }
+    ],
+    "documents": []
+  }
+}

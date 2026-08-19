@@ -1,0 +1,88 @@
+{
+  "analysis-urls-all": {
+    "captured": "2026-08-19T11:45:16.907Z",
+    "totalUrls": 24,
+    "totalDocuments": 0,
+    "method": "sitemap",
+    "sitemapURL": "/ja/sitemap.xml,/en/sitemap.xml",
+    "robotsTxtFound": false,
+    "robotsTxtRulesApplied": false,
+    "limitations": "",
+    "confidence": "95%",
+    "urls": [
+      {
+        "url": "https://www.torepanman.jp/ja/home.html"
+      },
+      {
+        "url": "https://www.torepanman.jp/ja/toitore.html"
+      },
+      {
+        "url": "https://www.torepanman.jp/ja/navi.html"
+      },
+      {
+        "url": "https://www.torepanman.jp/ja/navi/01.html"
+      },
+      {
+        "url": "https://www.torepanman.jp/ja/navi/02.html"
+      },
+      {
+        "url": "https://www.torepanman.jp/ja/navi/03.html"
+      },
+      {
+        "url": "https://www.torepanman.jp/ja/navi/04.html"
+      },
+      {
+        "url": "https://www.torepanman.jp/ja/message.html"
+      },
+      {
+        "url": "https://www.torepanman.jp/ja/idea.html"
+      },
+      {
+        "url": "https://www.torepanman.jp/ja/idea/01.html"
+      },
+      {
+        "url": "https://www.torepanman.jp/ja/idea/02.html"
+      },
+      {
+        "url": "https://www.torepanman.jp/ja/idea/03.html"
+      },
+      {
+        "url": "https://www.torepanman.jp/ja/idea/04.html"
+      },
+      {
+        "url": "https://www.torepanman.jp/ja/idea/05.html"
+      },
+      {
+        "url": "https://www.torepanman.jp/ja/taikendan.html"
+      },
+      {
+        "url": "https://www.torepanman.jp/ja/taikendan/01.html"
+      },
+      {
+        "url": "https://www.torepanman.jp/ja/taikendan/02.html"
+      },
+      {
+        "url": "https://www.torepanman.jp/ja/taikendan/03.html"
+      },
+      {
+        "url": "https://www.torepanman.jp/ja/taikendan/04.html"
+      },
+      {
+        "url": "https://www.torepanman.jp/ja/download.html"
+      },
+      {
+        "url": "https://www.torepanman.jp/ja/site-map.html"
+      },
+      {
+        "url": "https://www.torepanman.jp/ja/qa_seal.html"
+      },
+      {
+        "url": "https://www.torepanman.jp/en/home.html"
+      },
+      {
+        "url": "https://www.torepanman.jp/en/download.html"
+      }
+    ],
+    "documents": []
+  }
+}

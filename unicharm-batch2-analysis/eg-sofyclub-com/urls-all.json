@@ -1,0 +1,115 @@
+{
+  "analysis-urls-all": {
+    "captured": "2026-08-19T11:38:27.345Z",
+    "totalUrls": 33,
+    "totalDocuments": 0,
+    "method": "sitemap",
+    "sitemapURL": "/ar/sitemap.xml,/en/sitemap.xml",
+    "robotsTxtFound": false,
+    "robotsTxtRulesApplied": false,
+    "limitations": "",
+    "confidence": "95%",
+    "urls": [
+      {
+        "url": "https://eg.sofyclub.com/ar/home.html"
+      },
+      {
+        "url": "https://eg.sofyclub.com/ar/products.html"
+      },
+      {
+        "url": "https://eg.sofyclub.com/ar/products/product-type.html"
+      },
+      {
+        "url": "https://eg.sofyclub.com/ar/products/product-new.html"
+      },
+      {
+        "url": "https://eg.sofyclub.com/ar/products/softandlumpfree_maxithick.html"
+      },
+      {
+        "url": "https://eg.sofyclub.com/ar/products/softandlumpfree_extralong.html"
+      },
+      {
+        "url": "https://eg.sofyclub.com/ar/products/lumpfree_night_super_extralong.html"
+      },
+      {
+        "url": "https://eg.sofyclub.com/ar/video.html"
+      },
+      {
+        "url": "https://eg.sofyclub.com/ar/brandactivity.html"
+      },
+      {
+        "url": "https://eg.sofyclub.com/ar/advice.html"
+      },
+      {
+        "url": "https://eg.sofyclub.com/ar/advice/basic.html"
+      },
+      {
+        "url": "https://eg.sofyclub.com/ar/advice/basic/faq-how-does-menstruation-work.html"
+      },
+      {
+        "url": "https://eg.sofyclub.com/ar/advice/basic/period-101.html"
+      },
+      {
+        "url": "https://eg.sofyclub.com/ar/advice/basic/feel-good.html"
+      },
+      {
+        "url": "https://eg.sofyclub.com/ar/site-map.html"
+      },
+      {
+        "url": "https://eg.sofyclub.com/ar/global.html"
+      },
+      {
+        "url": "https://eg.sofyclub.com/en/home.html"
+      },
+      {
+        "url": "https://eg.sofyclub.com/en/products.html"
+      },
+      {
+        "url": "https://eg.sofyclub.com/en/products/product-type.html"
+      },
+      {
+        "url": "https://eg.sofyclub.com/en/products/product-new.html"
+      },
+      {
+        "url": "https://eg.sofyclub.com/en/products/softandlumpfree_maxithick.html"
+      },
+      {
+        "url": "https://eg.sofyclub.com/en/products/softandlumpfree_extralong.html"
+      },
+      {
+        "url": "https://eg.sofyclub.com/en/products/lumpfree_night_super_extralong.html"
+      },
+      {
+        "url": "https://eg.sofyclub.com/en/video.html"
+      },
+      {
+        "url": "https://eg.sofyclub.com/en/brandactivity.html"
+      },
+      {
+        "url": "https://eg.sofyclub.com/en/advice.html"
+      },
+      {
+        "url": "https://eg.sofyclub.com/en/advice/basic.html"
+      },
+      {
+        "url": "https://eg.sofyclub.com/en/advice/basic/faq-how-does-menstruation-work.html"
+      },
+      {
+        "url": "https://eg.sofyclub.com/en/advice/basic/period-101.html"
+      },
+      {
+        "url": "https://eg.sofyclub.com/en/advice/basic/feel-good.html"
+      },
+      {
+        "url": "https://eg.sofyclub.com/en/site-map.html"
+      },
+      {
+        "url": "https://eg.sofyclub.com/en/calendar.html"
+      },
+      {
+        "url": "https://eg.sofyclub.com/en/global.html"
+      }
+    ],
+    "documents": []
+  }
+}

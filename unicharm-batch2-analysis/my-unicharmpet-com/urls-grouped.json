@@ -1,0 +1,37 @@
+{
+  "analysis-urls-grouped": {
+    "captured": "2026-08-19T11:39:14.872Z",
+    "urlGroupings": 2,
+    "locales": {
+      "en": 4,
+      "unknown": 1
+    },
+    "groups": {
+      "/en": {
+        "confidence": "85%",
+        "urls": [
+          {
+            "url": "https://my.unicharmpet.com/en/home"
+          },
+          {
+            "url": "https://my.unicharmpet.com/en/global.html"
+          },
+          {
+            "url": "https://my.unicharmpet.com/en/home.html"
+          },
+          {
+            "url": "https://my.unicharmpet.com/en/deotoilet/home.html"
+          }
+        ]
+      },
+      "/": {
+        "confidence": "100%",
+        "urls": [
+          {
+            "url": "https://my.unicharmpet.com/"
+          }
+        ]
+      }
+    }
+  }
+}

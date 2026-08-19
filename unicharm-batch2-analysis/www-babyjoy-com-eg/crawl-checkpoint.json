@@ -1,0 +1,15 @@
+{
+  "queue": [],
+  "visited": [
+    "https://www.babyjoy.com.eg/"
+  ],
+  "urls": [
+    {
+      "url": "https://www.babyjoy.com.eg/",
+      "method": "crawl",
+      "status": 0,
+      "error": "timeout",
+      "retries": 2
+    }
+  ]
+}

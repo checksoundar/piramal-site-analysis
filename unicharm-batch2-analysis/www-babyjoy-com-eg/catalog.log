@@ -1,0 +1,61 @@
+2026-08-19 11:38:01 | WARNING | Fetch error: fetch failed (ERR_SSL_TLSV1_UNRECOGNIZED_NAME)
+2026-08-19 11:38:02 | WARNING | Fetch error: fetch failed (ERR_SSL_TLSV1_UNRECOGNIZED_NAME)
+2026-08-19 11:38:02 | INFO | Checking root page for sitemap-like links...
+2026-08-19 11:38:02 | WARNING | Fetch error: fetch failed (ERR_SSL_TLSV1_UNRECOGNIZED_NAME)
+2026-08-19 11:38:02 | INFO | Trying sitemap candidates...
+2026-08-19 11:38:02 | INFO | Trying sitemap candidate: https://www.babyjoy.com.eg/sitemap.xml
+2026-08-19 11:38:02 | WARNING | Fetch error: fetch failed (ERR_SSL_TLSV1_UNRECOGNIZED_NAME)
+2026-08-19 11:38:02 | INFO | Trying sitemap candidate: https://www.babyjoy.com.eg/sitemap.xml.gz
+2026-08-19 11:38:02 | WARNING | Fetch error: fetch failed (ERR_SSL_TLSV1_UNRECOGNIZED_NAME)
+2026-08-19 11:38:02 | INFO | Trying sitemap candidate: https://www.babyjoy.com.eg/sitemap_index.xml
+2026-08-19 11:38:03 | WARNING | Fetch error: fetch failed (ERR_SSL_TLSV1_UNRECOGNIZED_NAME)
+2026-08-19 11:38:03 | INFO | Trying sitemap candidate: https://www.babyjoy.com.eg/sitemap-index.xml
+2026-08-19 11:38:03 | WARNING | Fetch error: fetch failed (ERR_SSL_TLSV1_UNRECOGNIZED_NAME)
+2026-08-19 11:38:03 | INFO | Trying sitemap candidate: https://www.babyjoy.com.eg/sitemap.txt
+2026-08-19 11:38:03 | WARNING | Fetch error: fetch failed (ERR_SSL_TLSV1_UNRECOGNIZED_NAME)
+2026-08-19 11:38:03 | INFO | Checking robots.txt for sitemap references...
+2026-08-19 11:38:03 | WARNING | Fetch error: fetch failed (ERR_SSL_TLSV1_UNRECOGNIZED_NAME)
+2026-08-19 11:38:03 | INFO | Retrying sitemap discovery with alternate root: https://babyjoy.com.eg
+2026-08-19 11:38:03 | INFO | Checking root page for sitemap-like links...
+2026-08-19 11:38:04 | WARNING | Fetch error: fetch failed (ERR_SSL_TLSV1_UNRECOGNIZED_NAME)
+2026-08-19 11:38:04 | INFO | Trying sitemap candidates...
+2026-08-19 11:38:04 | INFO | Trying sitemap candidate: https://babyjoy.com.eg/sitemap.xml
+2026-08-19 11:38:04 | WARNING | Fetch error: fetch failed (ERR_SSL_TLSV1_UNRECOGNIZED_NAME)
+2026-08-19 11:38:04 | INFO | Trying sitemap candidate: https://babyjoy.com.eg/sitemap.xml.gz
+2026-08-19 11:38:04 | WARNING | Fetch error: fetch failed (ERR_SSL_TLSV1_UNRECOGNIZED_NAME)
+2026-08-19 11:38:04 | INFO | Trying sitemap candidate: https://babyjoy.com.eg/sitemap_index.xml
+2026-08-19 11:38:04 | WARNING | Fetch error: fetch failed (ERR_SSL_TLSV1_UNRECOGNIZED_NAME)
+2026-08-19 11:38:04 | INFO | Trying sitemap candidate: https://babyjoy.com.eg/sitemap-index.xml
+2026-08-19 11:38:04 | WARNING | Fetch error: fetch failed (ERR_SSL_TLSV1_UNRECOGNIZED_NAME)
+2026-08-19 11:38:04 | INFO | Trying sitemap candidate: https://babyjoy.com.eg/sitemap.txt
+2026-08-19 11:38:05 | WARNING | Fetch error: fetch failed (ERR_SSL_TLSV1_UNRECOGNIZED_NAME)
+2026-08-19 11:38:05 | INFO | Checking robots.txt for sitemap references...
+2026-08-19 11:38:05 | WARNING | Fetch error: fetch failed (ERR_SSL_TLSV1_UNRECOGNIZED_NAME)
+2026-08-19 11:38:05 | INFO | Fetching sitemap for site root: https://www.babyjoy.com.eg
+2026-08-19 11:38:05 | ERROR | No sitemap found
+2026-08-19 11:38:05 | INFO | Tried standard locations and robots.txt references.
+2026-08-19 11:38:05 | WARNING | No sitemap found for https://www.babyjoy.com.eg - will need to use crawler fallback
+2026-08-19 11:38:05 | INFO | Retrying crawl start with alternate root: https://babyjoy.com.eg
+2026-08-19 11:38:05 | INFO | Site crawler starting
+2026-08-19 11:38:05 | INFO | Starting crawl: https://www.babyjoy.com.eg
+2026-08-19 11:38:05 | INFO | Max pages: 4000, Delay: 300ms, Timeout: 15000ms
+2026-08-19 11:38:05 | INFO | Max retries per URL: 2
+2026-08-19 11:38:05 | WARNING | Could not fetch robots.txt: Command failed: curl -s -L --max-time 10 "https://www.babyjoy.com.eg/robots.txt"
+
+2026-08-19 11:38:05 | INFO | Robots.txt disallow rules found: 0
+2026-08-19 11:38:05 | INFO | Retry 1/2: https://www.babyjoy.com.eg/...
+2026-08-19 11:38:06 | INFO | Retry 2/2: https://www.babyjoy.com.eg/...
+2026-08-19 11:38:07 | INFO | ✓ 1/4000 | Queue: 0 | ❌ https://www.babyjoy.com.eg/...
+2026-08-19 11:38:07 | INFO | Checkpoint saved: 1 visited, 0 queued
+2026-08-19 11:38:07 | INFO | CRAWL COMPLETE
+2026-08-19 11:38:07 | INFO | Total URLs discovered: 1
+2026-08-19 11:38:07 | INFO | Status breakdown:
+2026-08-19 11:38:07 | INFO | ❌ 0 (Error/Timeout): 1
+2026-08-19 11:38:08 | INFO | Creating sample URLs...
+2026-08-19 11:38:08 | INFO | Total URLs in grouped data: 1
+2026-08-19 11:38:08 | INFO | Total URLs (1) <= 1000, using ALL URLs
+2026-08-19 11:38:08 | INFO | Created urls-sample.json with 1 URLs
+2026-08-19 11:38:08 | INFO | Validating urls-sample.json against schema...
+✅ VALIDATION PASSED: urls-sample.json matches schema
+2026-08-19 11:38:08 | INFO | Schema validation passed
+2026-08-19 11:38:08 | INFO | Sample creation complete - urls-sample.json with 1 URLs

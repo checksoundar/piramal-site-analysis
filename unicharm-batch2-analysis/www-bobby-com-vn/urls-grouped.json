@@ -1,0 +1,695 @@
+{
+  "analysis-urls-grouped": {
+    "captured": "2026-08-19T11:37:00.862Z",
+    "urlGroupings": 7,
+    "locales": {
+      "vi": 215,
+      "unknown": 1
+    },
+    "groups": {
+      "/vi/about": {
+        "confidence": "85%",
+        "urls": [
+          {
+            "url": "https://www.bobby.com.vn/vi/about/who-is-bobby.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/about/bobby-chan-song.html"
+          }
+        ]
+      },
+      "/vi/products": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://www.bobby.com.vn/vi/products/bb-mienglot-nb.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/products/bb-sieutham-nb-xxl.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/products/bbp-sieutham-s-xxl.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/products/bbp-sieutham-xxxl.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/products/bbw-khanuottreem.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/products/search.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/products/bb-mmb-ss.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/products/bb-mmb-ss-thong-tin-san-pham.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/products/bb-mmb-ss-huong-dan-mac-ta.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/products/bbp-antimos-m-xxl.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/products/bbp-premiumsoft-m-xxl.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/products/bobbychan-wash.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/products/nbpremium-wetwipes.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/products/antimos-wetwipes.html"
+          }
+        ]
+      },
+      "/vi/mamatips": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/delivery01.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/delivery02.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/delivery03.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/delivery04.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/delivery05.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/development01.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/development02.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/development03.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/development04.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/development05.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/development06.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/development07.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/postpartum01.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/postpartum02.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/postpartum03.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/postpartum04.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/postpartum05.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/hanh-trinh-40-tuan-thai.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/danh-sach-chuan-bi.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/sinh-va-chao-doi.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/lua-chon-benh-vien.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/phuong-phap-sinh.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/thay-doi-co-the-me-tuan-0-den-3.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/thay-doi-co-the-me-tuan-4-den-7.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/thay-doi-co-the-me-tuan-8-den-11.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/thay-doi-co-the-me-tuan-12-den-15.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/thay-doi-co-the-me-tuan-16-den-19.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/thay-doi-co-the-me-tuan-20-den-23.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/thay-doi-co-the-me-tuan-24-den-27.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/thay-doi-co-the-me-tuan-28-den-31.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/thay-doi-co-the-me-tuan-32-den-35.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/thay-doi-co-the-me-tuan-36-den-39.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/suc-khoe-thai-nhi-tuan-0-den-3.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/suc-khoe-thai-nhi-tuan-4-den-7.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/suc-khoe-thai-nhi-tuan-8-den-11.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/suc-khoe-thai-nhi-tuan-12-den-15.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/suc-khoe-thai-nhi-tuan-16-den-19.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/suc-khoe-thai-nhi-tuan-20-den-23.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/suc-khoe-thai-nhi-tuan-24-den-27.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/suc-khoe-thai-nhi-tuan-28-den-31.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/suc-khoe-thai-nhi-tuan-32-den-35.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/suc-khoe-thai-nhi-tuan-36-den-39.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/me-can-luu-y-tuan-0-den-3.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/me-can-luu-y-tuan-4-den-7.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/me-can-luu-y-tuan-8-den-11.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/me-can-luu-y-tuan-12-den-15.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/me-can-luu-y-tuan-16-den-19.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/me-can-luu-y-tuan-20-den-23.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/me-can-luu-y-tuan-24-den-27.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/me-can-luu-y-tuan-28-den-31.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/me-can-luu-y-tuan-32-den-35.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/me-can-luu-y-tuan-36-den-39.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/be-2-thang-mac-ta-gi.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/be-dong-bim-bi-len-mun.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/be-khong-chiu-mac-ta.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/be-trai-mac-ta-nhieu-co-sao-khong.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/bim-cho-be-duoi-3kg.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/bim-danh-rieng-cho-be-trai.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/bim-nao-mong-tham-hut-tot.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/bim-quan-dung-duoc-may-tieng.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/bim-size-l-cho-be-bao-nhieu-kg.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/bim-size-lon.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/cach-chon-size-bim-cho-be.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/cach-dong-bim-cho-be.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/cach-dong-bim-khong-bi-ham-cho-tre-so-sinh.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/cach-dong-bim-khong-bi-tran.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/cach-thay-bim-khi-quan-chun.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/co-nen-dong-bim-cho-tre-so-sinh.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/co-nen-dong-bim-khi-tre-bi-sot.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/dong-bim-bi-do-mong.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/dong-bim-bi-ham.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/dong-bim-bi-tran-lung.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/dong-bim-bi-vo-sinh.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/dong-bim-cho-be-den-may-tuoi.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/dong-bim-co-hai-khong.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/dong-bim-di-ung.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/kinh-nghiem-mua-bim-cho-tre-so-sinh.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/mieng-dan-o-ta-quan-de-lam-gi.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/mua-bim-o-dau-tot-nhat.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/ta-dan-la-gi.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/3-thang-mac-bim-quan-duoc-khong.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/be-3-tuoi-van-dong-bim.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/be-dong-bim-bi-ngua.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/be-may-thang-mac-ta-quan.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/bim-cho-tre-so-sinh.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/bim-nao-thoang-mat-cho-be.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/bim-quan-la-gi.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/bim-quan-size-nho-nhat.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/bim-tham-hut-tot-cho-tre-so-sinh.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/cach-dong-bim-cho-tre-so-sinh.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/cach-mac-ta-vai-cho-tre-so-sinh.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/cach-thay-bim-cho-be-trai.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/chon-bim-quan-cho-be.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/dong-bim-bao-lau-thi-thay.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/dong-bim-bi-lan.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/dong-bim-cho-tre-so-sinh-co-bi-vong-kieng.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/dong-bim-mua-he.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/do-tham-hut-cua-bim.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/nen-dung-bim-dan-den-khi-nao.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/quan-bim.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/quan-dong-bim-cho-tre-so-sinh.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/ta-dan-cho-be.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/ta-dan-co-ranh-ron.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/ta-dan-so-sinh-loai-nao-tot.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/ta-dan-va-ta-quan.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/thay-bim-cho-be-dung-cach.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/tre-so-sinh-dung-mieng-lot-hay-ta-dan.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/bim-cho-be-7kg.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/cach-chon-bim-tiet-kiem.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/cach-chon-bim-cho-be.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/cach-chon-ta-dan-cho-tre-so-sinh.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/ta-quan-size-l.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/ta-dan-cho-tre-1-thang-tuoi.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/chon-size-bim-cho-tre-so-sinh.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/bim-mem-mong-cho-be.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/bim-tham-hut-tot.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/khong-dong-bim-cho-tre-so-sinh.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/dong-bim-khi-nao.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/bim-dan-vao-quan-cho-tre-so-sinh.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/cach-thay-bim-khi-mac-body.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/bim-re-va-tot-cho-be.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/bim-dung-ngan.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/bim-cho-be-5kg.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/cach-mac-ta-dan-cho-be.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/gia-cac-loai-bim-cho-be.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/cach-mac-ta-tam-giac.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/2-thang-mac-duoc-bim-quan-chua.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/gia-ta-quan.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/mac-bim-quan-dung-cach.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/cach-mac-ta-dan-cho-tre-so-sinh.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/ta-quan-cho-be.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/bim-cho-be-20kg.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/bim-cho-be-25kg.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/ta-dan-duoi-5kg.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/ta-dan-cho-tre-2-thang-tuoi.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/review-bim.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/nen-chon-loai-bim-nao-cho-be.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/ta-dan-size-s.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/ta-quan-cho-be-30kg.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/bim-quan-size-m.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/ta-quan-size-s.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/ta-dan-ban-dem.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/bim-quan-ban-dem-cho-be.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/bim-dan-cho-be-trai.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/be-2-tuoi-dong-bim.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/bim-chong-tham-nguoc.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/bim-khong-ham.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/ta-dan-cho-be-6kg.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/bim-quan-cho-be-20kg.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/bim-dan-va-ta-dan.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/bim-quan-3xl.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/bim-quan-cho-be-5kg.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/cach-thay-bim-quan-khi-be-i.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/ta-dan-4-8kg.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/ta-quan-xl.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/bim-tham-hut-tot-cho-be-trai.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/ta-dan-tham-hut-tot.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/bim-12-tieng.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/ta-dan-khong-ham.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips/dong-bim-cho-tre-co-tot-khong.html"
+          }
+        ]
+      },
+      "/vi/news": {
+        "confidence": "85%",
+        "urls": [
+          {
+            "url": "https://www.bobby.com.vn/vi/news/19092017.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/news/27092016.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/news/22022023.html"
+          }
+        ]
+      },
+      "/vi/lullabymail": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://www.bobby.com.vn/vi/lullabymail/4weeks.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/lullabymail/8weeks.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/lullabymail/12weeks.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/lullabymail/16weeks.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/lullabymail/20weeks.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/lullabymail/24weeks.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/lullabymail/28weeks.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/lullabymail/30weeks.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/lullabymail/32weeks.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/lullabymail/34weeks.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/lullabymail/36weeks.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/lullabymail/38weeks.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/lullabymail/0mths.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/lullabymail/1mths.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/lullabymail/2mths.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/lullabymail/3mths.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/lullabymail/4mths.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/lullabymail/5mths.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/lullabymail/6mths.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/lullabymail/7mths.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/lullabymail/8mths.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/lullabymail/9mths.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/lullabymail/10mths.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/lullabymail/11mths.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/lullabymail/12mths.html"
+          }
+        ]
+      },
+      "/vi": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://www.bobby.com.vn/vi/test-home-dd-addhome-d35sc8qe.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/home.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/about.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/products.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/mamatips.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/shop.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/video.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/news.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/contact.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/site-map.html"
+          },
+          {
+            "url": "https://www.bobby.com.vn/vi/lullabymail.html"
+          }
+        ]
+      },
+      "/": {
+        "confidence": "100%",
+        "urls": [
+          {
+            "url": "https://www.bobby.com.vn/"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,50 @@
+2026-08-19 11:39:02 | INFO | Redirect (301) → https://www.babyjoy.com.sa/ar/home.html
+2026-08-19 11:39:03 | INFO | Checking root page for sitemap-like links...
+2026-08-19 11:39:03 | INFO | Redirect (301) → https://www.babyjoy.com.sa/ar/home.html
+2026-08-19 11:39:03 | INFO | Found 2 sitemap-like candidate(s) on the root page
+2026-08-19 11:39:03 | INFO | Trying sitemap candidates...
+2026-08-19 11:39:03 | INFO | Trying sitemap candidate: https://www.babyjoy.com.sa/sitemap.xml
+2026-08-19 11:39:03 | WARNING | HTTP status: 404
+2026-08-19 11:39:03 | INFO | Trying sitemap candidate: https://www.babyjoy.com.sa/sitemap.xml.gz
+2026-08-19 11:39:03 | WARNING | HTTP status: 404
+2026-08-19 11:39:03 | INFO | Trying sitemap candidate: https://www.babyjoy.com.sa/sitemap_index.xml
+2026-08-19 11:39:03 | WARNING | HTTP status: 404
+2026-08-19 11:39:03 | INFO | Trying sitemap candidate: https://www.babyjoy.com.sa/sitemap-index.xml
+2026-08-19 11:39:04 | WARNING | HTTP status: 404
+2026-08-19 11:39:04 | INFO | Trying sitemap candidate: https://www.babyjoy.com.sa/sitemap.txt
+2026-08-19 11:39:04 | WARNING | HTTP status: 404
+2026-08-19 11:39:04 | INFO | Trying sitemap candidate: https://www.babyjoy.com.sa/ar/site-map.html
+2026-08-19 11:39:04 | WARNING | Got 200 but not a valid sitemap. Preview: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"> <html lang="ar" dir="rtl" > <head prefix="og: http://ogp.me/ns#"> <meta http-equiv="Co...
+2026-08-19 11:39:04 | INFO | Trying sitemap candidate: http://www.unicharm.com.sa/sitemap/index.html
+2026-08-19 11:39:04 | INFO | Redirect (301) → https://www.unicharm.com.sa/sitemap/index.html
+2026-08-19 11:39:04 | INFO | Redirect (301) → https://www.unicharm.com.sa/ar/site-map.html
+2026-08-19 11:39:04 | WARNING | Got 200 but not a valid sitemap. Preview: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"> <html lang="ar" dir="rtl" > <head prefix="og: http://ogp.me/ns#"> <meta http-equiv="Co...
+2026-08-19 11:39:04 | INFO | Checking robots.txt for sitemap references...
+2026-08-19 11:39:05 | INFO | Found 2 sitemap(s) in robots.txt
+2026-08-19 11:39:05 | INFO | Processing 2 unique sitemap(s) from robots.txt...
+2026-08-19 11:39:05 | INFO | [1/2] Fetching sitemap: https://www.babyjoy.com.sa/ar/sitemap.xml
+2026-08-19 11:39:05 | INFO | Fetched sitemap successfully (urlset)
+2026-08-19 11:39:05 | INFO | [2/2] Fetching sitemap: https://www.babyjoy.com.sa/en/sitemap.xml
+2026-08-19 11:39:05 | INFO | Fetched sitemap successfully (urlset)
+2026-08-19 11:39:05 | INFO | Successfully fetched 2 sitemap(s)
+2026-08-19 11:39:05 | INFO | Fetching sitemap for site root: https://www.babyjoy.com.sa
+2026-08-19 11:39:05 | INFO | Processing 2 sitemap(s)...
+2026-08-19 11:39:05 | INFO | [1/2] Processing sitemap: https://www.babyjoy.com.sa/ar/sitemap.xml
+2026-08-19 11:39:05 | INFO | Sitemap type: urlset
+2026-08-19 11:39:05 | INFO | Extracted 20 URLs
+2026-08-19 11:39:05 | INFO | [2/2] Processing sitemap: https://www.babyjoy.com.sa/en/sitemap.xml
+2026-08-19 11:39:05 | INFO | Sitemap type: urlset
+2026-08-19 11:39:05 | INFO | Extracted 21 URLs
+2026-08-19 11:39:05 | INFO | Sitemap fetch complete
+2026-08-19 11:39:05 | INFO | Total sitemaps processed: 2
+2026-08-19 11:39:05 | INFO | Total URLs discovered: 41
+2026-08-19 11:39:05 | INFO | Sitemap location 1: https://www.babyjoy.com.sa/ar/sitemap.xml
+2026-08-19 11:39:05 | INFO | Sitemap location 2: https://www.babyjoy.com.sa/en/sitemap.xml
+2026-08-19 11:39:06 | INFO | Creating sample URLs...
+2026-08-19 11:39:06 | INFO | Total URLs in grouped data: 42
+2026-08-19 11:39:06 | INFO | Total URLs (42) <= 1000, using ALL URLs
+2026-08-19 11:39:06 | INFO | Created urls-sample.json with 42 URLs
+2026-08-19 11:39:06 | INFO | Validating urls-sample.json against schema...
+✅ VALIDATION PASSED: urls-sample.json matches schema
+2026-08-19 11:39:06 | INFO | Schema validation passed
+2026-08-19 11:39:06 | INFO | Sample creation complete - urls-sample.json with 42 URLs

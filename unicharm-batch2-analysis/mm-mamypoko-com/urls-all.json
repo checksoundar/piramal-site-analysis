@@ -1,0 +1,145 @@
+{
+  "analysis-urls-all": {
+    "captured": "2026-08-19T11:37:51.146Z",
+    "totalUrls": 43,
+    "totalDocuments": 0,
+    "method": "sitemap",
+    "sitemapURL": "/my/sitemap.xml",
+    "robotsTxtFound": false,
+    "robotsTxtRulesApplied": false,
+    "limitations": "",
+    "confidence": "95%",
+    "urls": [
+      {
+        "url": "https://mm.mamypoko.com/my/site-map.html"
+      },
+      {
+        "url": "https://mm.mamypoko.com/my/home.html"
+      },
+      {
+        "url": "https://mm.mamypoko.com/my/about.html"
+      },
+      {
+        "url": "https://mm.mamypoko.com/my/about/who-is-poko.html"
+      },
+      {
+        "url": "https://mm.mamypoko.com/my/about/poko-chan-song.html"
+      },
+      {
+        "url": "https://mm.mamypoko.com/my/products.html"
+      },
+      {
+        "url": "https://mm.mamypoko.com/my/products/search.html"
+      },
+      {
+        "url": "https://mm.mamypoko.com/my/products/mp-airfit-nb-s.html"
+      },
+      {
+        "url": "https://mm.mamypoko.com/my/products/mp-airfit-m.html"
+      },
+      {
+        "url": "https://mm.mamypoko.com/my/products/mp-extradryskin-nb-s.html"
+      },
+      {
+        "url": "https://mm.mamypoko.com/my/products/mp-extradryskin-m-xxl.html"
+      },
+      {
+        "url": "https://mm.mamypoko.com/my/products/mpp-extradryskin-nb-s.html"
+      },
+      {
+        "url": "https://mm.mamypoko.com/my/products/mpp-extradryskin-m.html"
+      },
+      {
+        "url": "https://mm.mamypoko.com/my/products/mpp-extradryskin-l-xxxl.html"
+      },
+      {
+        "url": "https://mm.mamypoko.com/my/products/mp-ecotapediaper-s-xl.html"
+      },
+      {
+        "url": "https://mm.mamypoko.com/my/products/mpp-ecopantsdiaper-s-xl.html"
+      },
+      {
+        "url": "https://mm.mamypoko.com/my/products/mpp-happydayandnight-s-xxl.html"
+      },
+      {
+        "url": "https://mm.mamypoko.com/my/products/mp-mybaby-s-xl.html"
+      },
+      {
+        "url": "https://mm.mamypoko.com/my/products/mpp-mybaby-s-xl.html"
+      },
+      {
+        "url": "https://mm.mamypoko.com/my/products/mpw-standardbox.html"
+      },
+      {
+        "url": "https://mm.mamypoko.com/my/products/mpw-standard.html"
+      },
+      {
+        "url": "https://mm.mamypoko.com/my/products/mpw-comfort.html"
+      },
+      {
+        "url": "https://mm.mamypoko.com/my/products/mpw-antibacteria.html"
+      },
+      {
+        "url": "https://mm.mamypoko.com/my/mamatips.html"
+      },
+      {
+        "url": "https://mm.mamypoko.com/my/mamatips/pregnancy01.html"
+      },
+      {
+        "url": "https://mm.mamypoko.com/my/mamatips/pregnancy02.html"
+      },
+      {
+        "url": "https://mm.mamypoko.com/my/mamatips/pregnancy03.html"
+      },
+      {
+        "url": "https://mm.mamypoko.com/my/mamatips/pregnancy04.html"
+      },
+      {
+        "url": "https://mm.mamypoko.com/my/mamatips/pregnancy05.html"
+      },
+      {
+        "url": "https://mm.mamypoko.com/my/mamatips/development01.html"
+      },
+      {
+        "url": "https://mm.mamypoko.com/my/mamatips/development02.html"
+      },
+      {
+        "url": "https://mm.mamypoko.com/my/mamatips/development03.html"
+      },
+      {
+        "url": "https://mm.mamypoko.com/my/mamatips/development04.html"
+      },
+      {
+        "url": "https://mm.mamypoko.com/my/mamatips/development05.html"
+      },
+      {
+        "url": "https://mm.mamypoko.com/my/mamatips/development06.html"
+      },
+      {
+        "url": "https://mm.mamypoko.com/my/mamatips/postpartum01.html"
+      },
+      {
+        "url": "https://mm.mamypoko.com/my/mamatips/postpartum02.html"
+      },
+      {
+        "url": "https://mm.mamypoko.com/my/mamatips/postpartum03.html"
+      },
+      {
+        "url": "https://mm.mamypoko.com/my/mamatips/postpartum04.html"
+      },
+      {
+        "url": "https://mm.mamypoko.com/my/mamatips/postpartum05.html"
+      },
+      {
+        "url": "https://mm.mamypoko.com/my/news.html"
+      },
+      {
+        "url": "https://mm.mamypoko.com/my/news/19092017.html"
+      },
+      {
+        "url": "https://mm.mamypoko.com/my/contact.html"
+      }
+    ],
+    "documents": []
+  }
+}

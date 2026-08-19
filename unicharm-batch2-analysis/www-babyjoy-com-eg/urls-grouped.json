@@ -1,0 +1,19 @@
+{
+  "analysis-urls-grouped": {
+    "captured": "2026-08-19T11:38:07.975Z",
+    "urlGroupings": 1,
+    "locales": {
+      "unknown": 1
+    },
+    "groups": {
+      "/": {
+        "confidence": "100%",
+        "urls": [
+          {
+            "url": "https://www.babyjoy.com.eg/"
+          }
+        ]
+      }
+    }
+  }
+}

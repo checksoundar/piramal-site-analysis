@@ -1,0 +1,646 @@
+{
+  "analysis-urls-all": {
+    "captured": "2026-08-19T11:37:04.482Z",
+    "totalUrls": 210,
+    "totalDocuments": 0,
+    "method": "sitemap",
+    "sitemapURL": "/th/sitemap.xml",
+    "robotsTxtFound": false,
+    "robotsTxtRulesApplied": false,
+    "limitations": "",
+    "confidence": "95%",
+    "urls": [
+      {
+        "url": "https://th.mamypoko.com/th/home.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/about.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/about/who-is-poko.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/about/poko-chan-song.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/products.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/products/search.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/products/mp-premiumextradry-nb-s.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/products/mp-premiumextradry-m-xl.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/products/mpp-premiumextradry-s-xxxl.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/products/mpp-happydayandnight-s-xxl.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/products/mpp-bedtime-m-xl.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/products/mpp-standard-s-xxl.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/products/mpkp-xl-xxxl.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/products/mpw-premiumsoft.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/products/mpw-save-care.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/products/mpk-super-premium-organic-nb-s.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/products/mppk-super-premium-organic-s-m.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/products/mppk-super-premium-organic-l-xxl.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/products/mpp-happydayandnight-comfortablythin-s-xxl.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/products/mpw-super-premium-organic.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/products/mpw-natural-and-protect.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/products/mp-premiumextradry-nb-xl.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/products/mpp-premiumaimperfectdry-s-xxxl.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/pregnancy01.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/pregnancy02.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/pregnancy03.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/pregnancy04.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/pregnancy05.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/pregnancy06.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/pregnancy07.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/development01.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/development02.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/development03.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/development04.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/development05.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/development06.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/development07.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/development08.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/development09.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/development10.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/development11.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/development12.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/development13.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/development14.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/development15.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/development16.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/development17.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/development18.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/development19.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/postpartum01.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/postpartum02.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/postpartum03.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/postpartum04.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/postpartum05.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/postpartum06.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/postpartum07.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/postpartum08.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipsformom01.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipsformom02.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipsformom03.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipsformom04.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipsformom05.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/pregnancymom01.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/pregnancymom02.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/pregnancymom03.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/pregnancymom04.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/pregnancymom05.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/pregnancymom06.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/pregnancymom07.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/pregnancymom08.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/developmentbaby01.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/developmentbaby02.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/developmentbaby03.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/developmentbaby04.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/developmentbaby05.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/developmentbaby06.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/developmentbaby07.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/developmentbaby08.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/developmentbaby09.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/developmentbaby10.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/bodypostpartum01.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/bodypostpartum02.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/bodypostpartum03.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/bodypostpartum04.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/bodypostpartum05.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/bodypostpartum06.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/bodypostpartum07.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/bodypostpartum08.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/developmentbaby11.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/developmentbaby12.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/developmentbaby13.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/developmentbaby14.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipsformom06.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipformom07.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipformom08.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipformom09.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipformom10.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipformom11.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipformom12.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipformom13.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipformom14.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipformom15.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipformom16.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipformom17.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipformom18.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipformom19.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipformom20.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipformom21.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipformom22.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipformom23.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipformom24.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipformom25.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipformom26.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipformom27.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipformom28.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipformom29.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipformom30.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipformom31.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipformom32.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipformom33.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipformom34.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipformom35.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipformom36.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipformom37.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipformom38.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipformom39.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipformom40.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipformom41.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipformom42.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipformom43.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipformom44.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipformom45.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipformom46.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipformom47.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipformom48.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipformom49.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipformom50.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipformom51.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipformom52.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipformom53.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipformom54.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipformom55.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipformom56.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipformom57.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipformom58.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipformom59.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipformom60.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipformom61.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipformom62.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipformom63.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipformom64.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipformom65.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipformom66.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipformom67.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipformom68.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipformom69.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipformom70.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipformom71.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipformom72.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipformom73.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipformom74.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipformom75.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipformom76.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipformom77.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipformom78.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipformom79.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipformom80.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipformom81.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/mamatips/tipformom82.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/shop.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/video.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/news.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/news/19092017.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/contact.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/site-map.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/pointprogram/items.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/pointprogram/prizes.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/pointprogram/how-to.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/pointprogram/appdl.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/pointprogram/agreement.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/pointprogram/faq.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/lullabymail/4weeks.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/lullabymail/8weeks.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/lullabymail/12weeks.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/lullabymail/16weeks.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/lullabymail/20weeks.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/lullabymail/24weeks.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/lullabymail/28weeks.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/lullabymail/30weeks.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/lullabymail/32weeks.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/lullabymail/34weeks.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/lullabymail/36weeks.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/lullabymail/38weeks.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/lullabymail/0mths.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/lullabymail/2mths.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/lullabymail/3mths.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/lullabymail/4mths.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/lullabymail/5mths.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/lullabymail/6mths.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/lullabymail/7mths.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/lullabymail/8mths.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/lullabymail/9mths.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/lullabymail/10mths.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/lullabymail/11mths.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/lullabymail/12mths.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/lullabymail/1mths.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/innovation/premium-extra-dry.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/privacy-policy.html"
+      },
+      {
+        "url": "https://th.mamypoko.com/th/global.html"
+      }
+    ],
+    "documents": []
+  }
+}

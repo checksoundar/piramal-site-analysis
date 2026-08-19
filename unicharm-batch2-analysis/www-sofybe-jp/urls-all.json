@@ -1,0 +1,28 @@
+{
+  "analysis-urls-all": {
+    "captured": "2026-08-19T11:39:06.969Z",
+    "totalUrls": 4,
+    "totalDocuments": 0,
+    "method": "sitemap",
+    "sitemapURL": "/ja/sitemap.xml,/en/sitemap.xml",
+    "robotsTxtFound": false,
+    "robotsTxtRulesApplied": false,
+    "limitations": "",
+    "confidence": "95%",
+    "urls": [
+      {
+        "url": "https://www.sofybe.jp/ja/home.html"
+      },
+      {
+        "url": "https://www.sofybe.jp/ja/products/cho-jukusui-pajamas.html"
+      },
+      {
+        "url": "https://www.sofybe.jp/ja/checkkit/iron-checkkit.html"
+      },
+      {
+        "url": "https://www.sofybe.jp/ja/supplements/fembe.html"
+      }
+    ],
+    "documents": []
+  }
+}

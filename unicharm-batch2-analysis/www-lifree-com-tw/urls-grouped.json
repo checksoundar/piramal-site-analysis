@@ -1,0 +1,338 @@
+{
+  "analysis-urls-grouped": {
+    "captured": "2026-08-19T11:38:17.743Z",
+    "urlGroupings": 15,
+    "locales": {
+      "unknown": 84
+    },
+    "groups": {
+      "/zh-tw/product/light/choose": {
+        "confidence": "85%",
+        "urls": [
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/product/light/choose/data.html"
+          },
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/product/light/choose/experience.html"
+          }
+        ]
+      },
+      "/zh-tw/product/adult/choose": {
+        "confidence": "85%",
+        "urls": [
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/product/adult/choose/index.html"
+          },
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/product/adult/choose/point.html"
+          }
+        ]
+      },
+      "/zh-tw/product/light": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/product/light/product_sample.html"
+          },
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/product/light/SW20cc.html"
+          },
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/product/light/SW80cc.html"
+          },
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/product/light/SW120cc.html"
+          },
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/product/light/SW220cc.html"
+          },
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/product/light/SW270cc.html"
+          },
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/product/light/SWman20cc.html"
+          },
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/product/light/SWman80cc.html"
+          },
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/product/light/SWman200cc.html"
+          },
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/product/light/SW170cc.html"
+          }
+        ]
+      },
+      "/zh-tw/product/adult": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/product/adult/choose.html"
+          },
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/product/adult/Active_Pants.html"
+          },
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/product/adult/Leo_IIRehabili_pants.html"
+          },
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/product/adult/Leo_II_Longtime.html"
+          },
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/product/adult/Pants_Inner.html"
+          },
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/product/adult/Open_CL.html"
+          },
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/product/adult/Open_PE.html"
+          },
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/product/adult/Regular.html"
+          },
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/product/adult/Night.html"
+          },
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/product/adult/HW.html"
+          },
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/product/adult/Jins.html"
+          },
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/product/adult/BS.html"
+          },
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/product/adult/Liberty_pants_Male_and_Female.html"
+          },
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/product/adult/keanu_Pants.html"
+          },
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/product/adult/Longtime7_Pants.html"
+          }
+        ]
+      },
+      "/zh-tw/nyoumore/male": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/nyoumore/male/sawayakamen_qa.html"
+          },
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/nyoumore/male/sawayakamen_five_a.html"
+          },
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/nyoumore/male/sawayakamen_five_b.html"
+          },
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/nyoumore/male/sawayakamen_five_c.html"
+          },
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/nyoumore/male/sawayakamen_five_d.html"
+          },
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/nyoumore/male/sawayakamen_five_e.html"
+          }
+        ]
+      },
+      "/zh-tw/nyoumore/products_light_pregnancy": {
+        "confidence": "85%",
+        "urls": [
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/nyoumore/products_light_pregnancy/situation.html"
+          },
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/nyoumore/products_light_pregnancy/knowledge.html"
+          }
+        ]
+      },
+      "/zh-tw/advice/professional": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/advice/professional/01.html"
+          },
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/advice/professional/02.html"
+          },
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/advice/professional/03.html"
+          },
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/advice/professional/04.html"
+          },
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/advice/professional/05.html"
+          },
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/advice/professional/06.html"
+          }
+        ]
+      },
+      "/zh-tw/sawayakamen/check": {
+        "confidence": "85%",
+        "urls": [
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/sawayakamen/check/result-s.html"
+          },
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/sawayakamen/check/result-m.html"
+          },
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/sawayakamen/check/result-l.html"
+          }
+        ]
+      },
+      "/zh-tw/nyoumore": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/nyoumore/cause.html"
+          },
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/nyoumore/exclusive.html"
+          },
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/nyoumore/male.html"
+          },
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/nyoumore/training.html"
+          },
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/nyoumore/experience.html"
+          },
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/nyoumore/products_light_pregnancy.html"
+          },
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/nyoumore/products_light_feature.html"
+          },
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/nyoumore/experience/advice.html"
+          }
+        ]
+      },
+      "/zh-tw/advice": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/advice/point.html"
+          },
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/advice/usage.html"
+          },
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/advice/adl.html"
+          },
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/advice/professional.html"
+          },
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/advice/qa.html"
+          },
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/advice/rehabilitation.html"
+          },
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/advice/healthy_life_tips01.html"
+          },
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/advice/assistance.html"
+          }
+        ]
+      },
+      "/zh-tw/dementia-prevention": {
+        "confidence": "85%",
+        "urls": [
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/dementia-prevention/symptom.html"
+          },
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/dementia-prevention/type.html"
+          },
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/dementia-prevention/cause.html"
+          },
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/dementia-prevention/diagnosis-treatment.html"
+          }
+        ]
+      },
+      "/zh-tw/healthy_life": {
+        "confidence": "85%",
+        "urls": [
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/healthy_life/report01.html"
+          },
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/healthy_life/report02.html"
+          },
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/healthy_life/activity.html"
+          },
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/healthy_life/activity/06.html"
+          }
+        ]
+      },
+      "/zh-tw/sawayakamen": {
+        "confidence": "85%",
+        "urls": [
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/sawayakamen/home.html"
+          },
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/sawayakamen/check.html"
+          }
+        ]
+      },
+      "/zh-tw": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/home.html"
+          },
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/product.html"
+          },
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/nyoumore.html"
+          },
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/advice.html"
+          },
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/dementia-prevention.html"
+          },
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/healthy_life.html"
+          },
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/cm.html"
+          },
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/products_light_select.html"
+          },
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/products_adult_select.html"
+          },
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/sawayakamen.html"
+          },
+          {
+            "url": "https://www.lifree.com.tw/zh-tw/global.html"
+          }
+        ]
+      },
+      "/": {
+        "confidence": "100%",
+        "urls": [
+          {
+            "url": "https://www.lifree.com.tw/"
+          }
+        ]
+      }
+    }
+  }
+}

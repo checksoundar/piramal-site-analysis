@@ -1,0 +1,187 @@
+{
+  "analysis-urls-all": {
+    "captured": "2026-08-19T11:38:22.463Z",
+    "totalUrls": 57,
+    "totalDocuments": 0,
+    "method": "sitemap",
+    "sitemapURL": "/ar/sitemap.xml,/en/sitemap.xml",
+    "robotsTxtFound": false,
+    "robotsTxtRulesApplied": false,
+    "limitations": "",
+    "confidence": "95%",
+    "urls": [
+      {
+        "url": "https://sa.sofyclub.com/ar/home.html"
+      },
+      {
+        "url": "https://sa.sofyclub.com/ar/products.html"
+      },
+      {
+        "url": "https://sa.sofyclub.com/ar/products/product-type.html"
+      },
+      {
+        "url": "https://sa.sofyclub.com/ar/products/product-new.html"
+      },
+      {
+        "url": "https://sa.sofyclub.com/ar/products/softsecure.html"
+      },
+      {
+        "url": "https://sa.sofyclub.com/ar/products/softsecure/w29.html"
+      },
+      {
+        "url": "https://sa.sofyclub.com/ar/products/nightcomfort.html"
+      },
+      {
+        "url": "https://sa.sofyclub.com/ar/products/nightcomfort/w35.html"
+      },
+      {
+        "url": "https://sa.sofyclub.com/ar/products/cleanandpure.html"
+      },
+      {
+        "url": "https://sa.sofyclub.com/ar/products/cleanandpure/unscented.html"
+      },
+      {
+        "url": "https://sa.sofyclub.com/ar/products/cleanandpure/fresh.html"
+      },
+      {
+        "url": "https://sa.sofyclub.com/ar/products/gentletoskin.html"
+      },
+      {
+        "url": "https://sa.sofyclub.com/ar/products/gentletoskin/w29.html"
+      },
+      {
+        "url": "https://sa.sofyclub.com/ar/products/antibacterial.html"
+      },
+      {
+        "url": "https://sa.sofyclub.com/ar/products/antibacterial/w23.html"
+      },
+      {
+        "url": "https://sa.sofyclub.com/ar/products/sofy-olive.html"
+      },
+      {
+        "url": "https://sa.sofyclub.com/ar/products/sofy-olive/ar-sofy-olive-23.html"
+      },
+      {
+        "url": "https://sa.sofyclub.com/ar/products/sofy-olive/ar-sofy-olive-29.html"
+      },
+      {
+        "url": "https://sa.sofyclub.com/ar/brandactivity.html"
+      },
+      {
+        "url": "https://sa.sofyclub.com/ar/video.html"
+      },
+      {
+        "url": "https://sa.sofyclub.com/ar/site-map.html"
+      },
+      {
+        "url": "https://sa.sofyclub.com/ar/advice.html"
+      },
+      {
+        "url": "https://sa.sofyclub.com/ar/advice/basic.html"
+      },
+      {
+        "url": "https://sa.sofyclub.com/ar/advice/basic/faq-how-does-menstruation-work.html"
+      },
+      {
+        "url": "https://sa.sofyclub.com/ar/advice/basic/period-101.html"
+      },
+      {
+        "url": "https://sa.sofyclub.com/ar/advice/basic/feel-good.html"
+      },
+      {
+        "url": "https://sa.sofyclub.com/ar/shop.html"
+      },
+      {
+        "url": "https://sa.sofyclub.com/ar/global.html"
+      },
+      {
+        "url": "https://sa.sofyclub.com/en/home.html"
+      },
+      {
+        "url": "https://sa.sofyclub.com/en/products.html"
+      },
+      {
+        "url": "https://sa.sofyclub.com/en/products/product-type.html"
+      },
+      {
+        "url": "https://sa.sofyclub.com/en/products/product-new.html"
+      },
+      {
+        "url": "https://sa.sofyclub.com/en/products/gentletoskin.html"
+      },
+      {
+        "url": "https://sa.sofyclub.com/en/products/gentletoskin/w29.html"
+      },
+      {
+        "url": "https://sa.sofyclub.com/en/products/softsecure.html"
+      },
+      {
+        "url": "https://sa.sofyclub.com/en/products/softsecure/w29.html"
+      },
+      {
+        "url": "https://sa.sofyclub.com/en/products/nightcomfort.html"
+      },
+      {
+        "url": "https://sa.sofyclub.com/en/products/nightcomfort/w35.html"
+      },
+      {
+        "url": "https://sa.sofyclub.com/en/products/cleanandpure.html"
+      },
+      {
+        "url": "https://sa.sofyclub.com/en/products/cleanandpure/unscented.html"
+      },
+      {
+        "url": "https://sa.sofyclub.com/en/products/cleanandpure/fresh.html"
+      },
+      {
+        "url": "https://sa.sofyclub.com/en/products/antibacterial.html"
+      },
+      {
+        "url": "https://sa.sofyclub.com/en/products/antibacterial/w29.html"
+      },
+      {
+        "url": "https://sa.sofyclub.com/en/products/sofy-olive.html"
+      },
+      {
+        "url": "https://sa.sofyclub.com/en/products/sofy-olive/w29.html"
+      },
+      {
+        "url": "https://sa.sofyclub.com/en/products/sofy-olive/w291.html"
+      },
+      {
+        "url": "https://sa.sofyclub.com/en/brandactivity.html"
+      },
+      {
+        "url": "https://sa.sofyclub.com/en/video.html"
+      },
+      {
+        "url": "https://sa.sofyclub.com/en/site-map.html"
+      },
+      {
+        "url": "https://sa.sofyclub.com/en/calendar.html"
+      },
+      {
+        "url": "https://sa.sofyclub.com/en/advice.html"
+      },
+      {
+        "url": "https://sa.sofyclub.com/en/advice/basic.html"
+      },
+      {
+        "url": "https://sa.sofyclub.com/en/advice/basic/faq-how-does-menstruation-work.html"
+      },
+      {
+        "url": "https://sa.sofyclub.com/en/advice/basic/period-101.html"
+      },
+      {
+        "url": "https://sa.sofyclub.com/en/advice/basic/feel-good.html"
+      },
+      {
+        "url": "https://sa.sofyclub.com/en/shop.html"
+      },
+      {
+        "url": "https://sa.sofyclub.com/en/global.html"
+      }
+    ],
+    "documents": []
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "analysis-urls-all": {
+    "captured": "2026-08-19T11:44:51.282Z",
+    "totalUrls": 40,
+    "totalDocuments": 0,
+    "method": "crawl",
+    "sitemapURL": null,
+    "robotsTxtFound": true,
+    "robotsTxtRulesApplied": true,
+    "limitations": "Crawl fallback (no sitemap); cleaned of relative-link loops.",
+    "confidence": "85%",
+    "urls": [
+      {
+        "url": "https://bh.babyjoyclub.com/",
+        "status": 200
+      },
+      {
+        "url": "https://bh.babyjoyclub.com/ar/about.html",
+        "status": 200
+      },
+      {
+        "url": "https://bh.babyjoyclub.com/ar/about/who-is-joy.html",
+        "status": 200
+      },
+      {
+        "url": "https://bh.babyjoyclub.com/ar/contact.html",
+        "status": 200
+      },
+      {
+        "url": "https://bh.babyjoyclub.com/ar/home.html",
+        "status": 200
+      },
+      {
+        "url": "https://bh.babyjoyclub.com/ar/home.html?utm_source=uc&utm_medium=lp&utm_campaign=global",
+        "status": 200
+      },
+      {
+        "url": "https://bh.babyjoyclub.com/ar/news.html",
+        "status": 200
+      },
+      {
+        "url": "https://bh.babyjoyclub.com/ar/news/19092017.html",
+        "status": 200
+      },
+      {
+        "url": "https://bh.babyjoyclub.com/ar/privacy-policy.html",
+        "status": 200
+      },
+      {
+        "url": "https://bh.babyjoyclub.com/ar/privacy-policy/cookie.html",
+        "status": 200
+      },
+      {
+        "url": "https://bh.babyjoyclub.com/ar/products.html",
+        "status": 200
+      },
+      {
+        "url": "https://bh.babyjoyclub.com/ar/products/bj-compressed-jrxxl.html",
+        "status": 200
+      },
+      {
+        "url": "https://bh.babyjoyclub.com/ar/products/bj-compressed-m-jr.html",
+        "status": 200
+      },
+      {
+        "url": "https://bh.babyjoyclub.com/ar/products/bj-compressed-nb-s",
+        "status": 200
+      },
+      {
+        "url": "https://bh.babyjoyclub.com/ar/products/bj-compressed-nb-s.html",
+        "status": 200
+      },
+      {
+        "url": "https://bh.babyjoyclub.com/ar/products/bj-tape-m-jr.html",
+        "status": 404
+      },
+      {
+        "url": "https://bh.babyjoyclub.com/ar/products/bjc-culotte-m-jrxxl.html",
+        "status": 200
+      },
+      {
+        "url": "https://bh.babyjoyclub.com/ar/products/search.html",
+        "status": 200
+      },
+      {
+        "url": "https://bh.babyjoyclub.com/ar/shop.html",
+        "status": 200
+      },
+      {
+        "url": "https://bh.babyjoyclub.com/ar/site-map.html",
+        "status": 200
+      },
+      {
+        "url": "https://bh.babyjoyclub.com/ar/video.html",
+        "status": 200
+      },
+      {
+        "url": "https://bh.babyjoyclub.com/en/about.html",
+        "status": 200
+      },
+      {
+        "url": "https://bh.babyjoyclub.com/en/about/who-is-joy.html",
+        "status": 200
+      },
+      {
+        "url": "https://bh.babyjoyclub.com/en/contact.html",
+        "status": 200
+      },
+      {
+        "url": "https://bh.babyjoyclub.com/en/global.html",
+        "status": 200
+      },
+      {
+        "url": "https://bh.babyjoyclub.com/en/home.html",
+        "status": 200
+      },
+      {
+        "url": "https://bh.babyjoyclub.com/en/home.html?utm_source=uc&utm_medium=lp&utm_campaign=global",
+        "status": 200
+      },
+      {
+        "url": "https://bh.babyjoyclub.com/en/news.html",
+        "status": 200
+      },
+      {
+        "url": "https://bh.babyjoyclub.com/en/news/19092017.html",
+        "status": 200
+      },
+      {
+        "url": "https://bh.babyjoyclub.com/en/privacy-policy.html",
+        "status": 200
+      },
+      {
+        "url": "https://bh.babyjoyclub.com/en/privacy-policy/cookie.html",
+        "status": 200
+      },
+      {
+        "url": "https://bh.babyjoyclub.com/en/products.html",
+        "status": 200
+      },
+      {
+        "url": "https://bh.babyjoyclub.com/en/products/bj-compressed-jrxxl.html",
+        "status": 200
+      },
+      {
+        "url": "https://bh.babyjoyclub.com/en/products/bj-compressed-m-jr.html",
+        "status": 200
+      },
+      {
+        "url": "https://bh.babyjoyclub.com/en/products/bj-compressed-nb-s.html",
+        "status": 200
+      },
+      {
+        "url": "https://bh.babyjoyclub.com/en/products/bjc-culotte-m-jrxxl.html",
+        "status": 200
+      },
+      {
+        "url": "https://bh.babyjoyclub.com/en/products/search.html",
+        "status": 200
+      },
+      {
+        "url": "https://bh.babyjoyclub.com/en/shop.html",
+        "status": 200
+      },
+      {
+        "url": "https://bh.babyjoyclub.com/en/site-map.html",
+        "status": 200
+      },
+      {
+        "url": "https://bh.babyjoyclub.com/en/video.html",
+        "status": 200
+      }
+    ],
+    "documents": []
+  }
+}

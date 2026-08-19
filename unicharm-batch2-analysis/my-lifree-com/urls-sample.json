@@ -1,0 +1,193 @@
+{
+  "urls-sample": {
+    "captured": "2026-08-19T11:39:01.493Z",
+    "totalUrls": 61,
+    "createdBy": "create-sample.js",
+    "samplingMethod": "all-urls",
+    "urls": [
+      {
+        "url": "https://my.lifree.com/en/product/light/choose/data.html"
+      },
+      {
+        "url": "https://my.lifree.com/en/product/light/choose/experience.html"
+      },
+      {
+        "url": "https://my.lifree.com/en/product/adult/choose/index.html"
+      },
+      {
+        "url": "https://my.lifree.com/en/product/adult/choose/point.html"
+      },
+      {
+        "url": "https://my.lifree.com/en/product/adult/choose/advice.html"
+      },
+      {
+        "url": "https://my.lifree.com/en/product/adult/choose/diagnosis"
+      },
+      {
+        "url": "https://my.lifree.com/en/product/adult/choose/experience.html"
+      },
+      {
+        "url": "https://my.lifree.com/en/product/adult/choose/data.html"
+      },
+      {
+        "url": "https://my.lifree.com/en/product/adult/pants/experience.html"
+      },
+      {
+        "url": "https://my.lifree.com/en/product/adult/pants/data.html"
+      },
+      {
+        "url": "https://my.lifree.com/en/product/adult/purchase/experience.html"
+      },
+      {
+        "url": "https://my.lifree.com/en/product/adult/purchase/data.html"
+      },
+      {
+        "url": "https://my.lifree.com/en/nyoumore/experience/experience.html"
+      },
+      {
+        "url": "https://my.lifree.com/en/nyoumore/experience/family_experience.html"
+      },
+      {
+        "url": "https://my.lifree.com/en/nyoumore/experience/advice.html"
+      },
+      {
+        "url": "https://my.lifree.com/en/nyoumore/experience/data.html"
+      },
+      {
+        "url": "https://my.lifree.com/en/nyoumore/experience/family_data.html"
+      },
+      {
+        "url": "https://my.lifree.com/en/product/adult/lifree_ultra_slim_pants.html"
+      },
+      {
+        "url": "https://my.lifree.com/en/product/adult/lifree_powerful_slim_pants.html"
+      },
+      {
+        "url": "https://my.lifree.com/en/product/adult/lifree_super_absorb_tape.html"
+      },
+      {
+        "url": "https://my.lifree.com/en/product/adult/lifree_absorbent_pads.html"
+      },
+      {
+        "url": "https://my.lifree.com/en/product/adult/choose.html"
+      },
+      {
+        "url": "https://my.lifree.com/en/product/adult/pants.html"
+      },
+      {
+        "url": "https://my.lifree.com/en/product/adult/purchase.html"
+      },
+      {
+        "url": "https://my.lifree.com/en/product/light/lifree_extra_dry_pad_20cc.html"
+      },
+      {
+        "url": "https://my.lifree.com/en/product/light/lifree_extra_dry_pad_80cc.html"
+      },
+      {
+        "url": "https://my.lifree.com/en/product/light/lifree_extra_dry_pad_120cc.html"
+      },
+      {
+        "url": "https://my.lifree.com/en/product/light/lifree_extra_dry_pad_170cc.html"
+      },
+      {
+        "url": "https://my.lifree.com/en/product/light/lifree_extra_dry_pad_300cc.html"
+      },
+      {
+        "url": "https://my.lifree.com/en/advice/professional/01.html"
+      },
+      {
+        "url": "https://my.lifree.com/en/advice/professional/04.html"
+      },
+      {
+        "url": "https://my.lifree.com/en/advice/professional/06.html"
+      },
+      {
+        "url": "https://my.lifree.com/en/advice/professional/02"
+      },
+      {
+        "url": "https://my.lifree.com/en/advice/professional/03"
+      },
+      {
+        "url": "https://my.lifree.com/en/advice/professional/05"
+      },
+      {
+        "url": "https://my.lifree.com/en/nyoumore/cause.html"
+      },
+      {
+        "url": "https://my.lifree.com/en/nyoumore/exclusive.html"
+      },
+      {
+        "url": "https://my.lifree.com/en/nyoumore/male.html"
+      },
+      {
+        "url": "https://my.lifree.com/en/nyoumore/training.html"
+      },
+      {
+        "url": "https://my.lifree.com/en/nyoumore/experience.html"
+      },
+      {
+        "url": "https://my.lifree.com/en/advice/point.html"
+      },
+      {
+        "url": "https://my.lifree.com/en/advice/usage.html"
+      },
+      {
+        "url": "https://my.lifree.com/en/advice/adl.html"
+      },
+      {
+        "url": "https://my.lifree.com/en/advice/professional.html"
+      },
+      {
+        "url": "https://my.lifree.com/en/advice/qa.html"
+      },
+      {
+        "url": "https://my.lifree.com/en/advice/rehabilitation.html"
+      },
+      {
+        "url": "https://my.lifree.com/en/dementia-prevention/symptom.html"
+      },
+      {
+        "url": "https://my.lifree.com/en/dementia-prevention/type.html"
+      },
+      {
+        "url": "https://my.lifree.com/en/dementia-prevention/cause.html"
+      },
+      {
+        "url": "https://my.lifree.com/en/dementia-prevention/diagnosis-treatment.html"
+      },
+      {
+        "url": "https://my.lifree.com/en/healthy_life/activity.html"
+      },
+      {
+        "url": "https://my.lifree.com/en/healthy_life/report01.html"
+      },
+      {
+        "url": "https://my.lifree.com/en/healthy_life/report02.html"
+      },
+      {
+        "url": "https://my.lifree.com/en/healthy_life/activity/06.html"
+      },
+      {
+        "url": "https://my.lifree.com/en/home.html"
+      },
+      {
+        "url": "https://my.lifree.com/en/product.html"
+      },
+      {
+        "url": "https://my.lifree.com/en/nyoumore.html"
+      },
+      {
+        "url": "https://my.lifree.com/en/advice.html"
+      },
+      {
+        "url": "https://my.lifree.com/en/dementia-prevention.html"
+      },
+      {
+        "url": "https://my.lifree.com/en/healthy_life.html"
+      },
+      {
+        "url": "https://my.lifree.com/"
+      }
+    ]
+  }
+}

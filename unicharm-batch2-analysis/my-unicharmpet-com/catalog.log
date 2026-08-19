@@ -1,0 +1,63 @@
+2026-08-19 11:39:08 | INFO | Redirect (301) → https://my.unicharmpet.com/en/home.html
+2026-08-19 11:39:08 | INFO | Checking root page for sitemap-like links...
+2026-08-19 11:39:08 | INFO | Redirect (301) → https://my.unicharmpet.com/en/home.html
+2026-08-19 11:39:08 | INFO | Trying sitemap candidates...
+2026-08-19 11:39:08 | INFO | Trying sitemap candidate: https://my.unicharmpet.com/sitemap.xml
+2026-08-19 11:39:08 | WARNING | HTTP status: 404
+2026-08-19 11:39:08 | INFO | Trying sitemap candidate: https://my.unicharmpet.com/sitemap.xml.gz
+2026-08-19 11:39:09 | WARNING | HTTP status: 404
+2026-08-19 11:39:09 | INFO | Trying sitemap candidate: https://my.unicharmpet.com/sitemap_index.xml
+2026-08-19 11:39:09 | WARNING | HTTP status: 404
+2026-08-19 11:39:09 | INFO | Trying sitemap candidate: https://my.unicharmpet.com/sitemap-index.xml
+2026-08-19 11:39:09 | WARNING | HTTP status: 404
+2026-08-19 11:39:09 | INFO | Trying sitemap candidate: https://my.unicharmpet.com/sitemap.txt
+2026-08-19 11:39:09 | WARNING | HTTP status: 404
+2026-08-19 11:39:09 | INFO | Checking robots.txt for sitemap references...
+2026-08-19 11:39:10 | INFO | Found 1 sitemap(s) in robots.txt
+2026-08-19 11:39:10 | INFO | Processing 1 unique sitemap(s) from robots.txt...
+2026-08-19 11:39:10 | INFO | [1/1] Fetching sitemap: https://my.unicharmpet.com/en/sitemap.xml
+2026-08-19 11:39:10 | WARNING | HTTP status: 404
+2026-08-19 11:39:10 | WARNING | Failed to fetch sitemap (status: 404)
+2026-08-19 11:39:10 | INFO | Retrying sitemap discovery with alternate root: https://www.my.unicharmpet.com
+2026-08-19 11:39:10 | INFO | Checking root page for sitemap-like links...
+2026-08-19 11:39:10 | WARNING | Fetch error: fetch failed
+2026-08-19 11:39:10 | INFO | Trying sitemap candidates...
+2026-08-19 11:39:10 | INFO | Trying sitemap candidate: https://www.my.unicharmpet.com/sitemap.xml
+2026-08-19 11:39:10 | WARNING | Fetch error: fetch failed
+2026-08-19 11:39:10 | INFO | Trying sitemap candidate: https://www.my.unicharmpet.com/sitemap.xml.gz
+2026-08-19 11:39:10 | WARNING | Fetch error: fetch failed
+2026-08-19 11:39:10 | INFO | Trying sitemap candidate: https://www.my.unicharmpet.com/sitemap_index.xml
+2026-08-19 11:39:10 | WARNING | Fetch error: fetch failed
+2026-08-19 11:39:10 | INFO | Trying sitemap candidate: https://www.my.unicharmpet.com/sitemap-index.xml
+2026-08-19 11:39:10 | WARNING | Fetch error: fetch failed
+2026-08-19 11:39:10 | INFO | Trying sitemap candidate: https://www.my.unicharmpet.com/sitemap.txt
+2026-08-19 11:39:10 | WARNING | Fetch error: fetch failed
+2026-08-19 11:39:10 | INFO | Checking robots.txt for sitemap references...
+2026-08-19 11:39:10 | WARNING | Fetch error: fetch failed
+2026-08-19 11:39:10 | INFO | Fetching sitemap for site root: https://my.unicharmpet.com
+2026-08-19 11:39:10 | ERROR | No sitemap found
+2026-08-19 11:39:10 | INFO | Tried standard locations and robots.txt references.
+2026-08-19 11:39:10 | WARNING | No sitemap found for https://my.unicharmpet.com - will need to use crawler fallback
+2026-08-19 11:39:11 | INFO | Site crawler starting
+2026-08-19 11:39:11 | INFO | Starting crawl: https://my.unicharmpet.com
+2026-08-19 11:39:11 | INFO | Max pages: 4000, Delay: 300ms, Timeout: 15000ms
+2026-08-19 11:39:11 | INFO | Max retries per URL: 2
+2026-08-19 11:39:11 | INFO | Robots.txt disallow rules found: 1
+2026-08-19 11:39:11 | INFO | ✓ 1/4000 | Queue: 13 | ✅ https://my.unicharmpet.com/...
+2026-08-19 11:39:12 | INFO | ✓ 2/4000 | Queue: 12 | ✅ https://my.unicharmpet.com/en/home...
+2026-08-19 11:39:13 | INFO | ✓ 3/4000 | Queue: 12 | ✅ https://my.unicharmpet.com/en/deotoilet/home.html...
+2026-08-19 11:39:13 | INFO | ✓ 4/4000 | Queue: 15 | ✅ https://my.unicharmpet.com/en/global.html...
+2026-08-19 11:39:14 | INFO | ✓ 5/4000 | Queue: 19 | ✅ https://my.unicharmpet.com/en/home.html...
+2026-08-19 11:39:14 | INFO | Checkpoint saved: 5 visited, 0 queued
+2026-08-19 11:39:14 | INFO | CRAWL COMPLETE
+2026-08-19 11:39:14 | INFO | Total URLs discovered: 5
+2026-08-19 11:39:14 | INFO | Status breakdown:
+2026-08-19 11:39:14 | INFO | ✅ 200 (Success): 5
+2026-08-19 11:39:15 | INFO | Creating sample URLs...
+2026-08-19 11:39:15 | INFO | Total URLs in grouped data: 5
+2026-08-19 11:39:15 | INFO | Total URLs (5) <= 1000, using ALL URLs
+2026-08-19 11:39:15 | INFO | Created urls-sample.json with 5 URLs
+2026-08-19 11:39:15 | INFO | Validating urls-sample.json against schema...
+✅ VALIDATION PASSED: urls-sample.json matches schema
+2026-08-19 11:39:15 | INFO | Schema validation passed
+2026-08-19 11:39:15 | INFO | Sample creation complete - urls-sample.json with 5 URLs

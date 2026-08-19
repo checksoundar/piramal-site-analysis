@@ -1,0 +1,1599 @@
+{
+  "queue": [],
+  "visited": [
+    "https://www.unicharm.com.br/",
+    "https://www.unicharm.com.br/pt/home.html",
+    "https://www.unicharm.com.br/pt/global.html",
+    "https://www.unicharm.com.br/pt/brand.html",
+    "https://www.unicharm.com.br/pt/cm.html",
+    "https://www.unicharm.com.br/pt/contact-us.html",
+    "https://www.unicharm.com.br/pt/contact-us/qa1.html",
+    "https://www.unicharm.com.br/pt/company.html",
+    "https://www.unicharm.com.br/pt/company/topmessage.html",
+    "https://www.unicharm.com.br/pt/company/corporate-philosophy.html",
+    "https://www.unicharm.com.br/pt/company/corporate-governance.html",
+    "https://www.unicharm.com.br/pt/company/overview.html",
+    "https://www.unicharm.com.br/pt/company/business-field.html",
+    "https://www.unicharm.com.br/pt/company/office.html",
+    "https://www.unicharm.com.br/pt/company/affiliate.html",
+    "https://www.unicharm.com.br/pt/company/charmring.html",
+    "https://www.unicharm.com.br/pt/company/lyp.html",
+    "https://www.unicharm.com.br/pt/csr-eco.html",
+    "https://www.unicharm.com.br/pt/company/news/2022",
+    "https://www.unicharm.com.br/pt/terms-of-use.html",
+    "https://www.unicharm.com.br/pt/privacy-policy.html",
+    "https://www.unicharm.com.br/pt/site-map.html",
+    "https://www.unicharm.com.br/pt/responsibility.html",
+    "https://www.unicharm.com.br/pt/company/.html?anchor_link=anchor01",
+    "https://www.unicharm.com.br/pt/company/.html?anchor_link=anchor02",
+    "https://www.unicharm.com.br/pt/company/.html?anchor_link=anchor03",
+    "https://www.unicharm.com.br/pt/company/.html?anchor_link=anchor04",
+    "https://www.unicharm.com.br/pt/company/.html?anchor_link=anchor05",
+    "https://www.unicharm.com.br/pt/company/.html?anchor_link=anchor06",
+    "https://www.unicharm.com.br/pt/company/.html?anchor_link=anchor07",
+    "https://www.unicharm.com.br/content/dam/sites/www_unicharm_co_jp/pdf/company/about/Corporate_Governance_Report-20220328.pdf",
+    "https://www.unicharm.com.br/pt/company/.html?anchor_link=overview01",
+    "https://www.unicharm.com.br/pt/company/.html?anchor_link=overview02",
+    "https://www.unicharm.com.br/pt/company/.html?anchor_link=01",
+    "https://www.unicharm.com.br/pt/company/.html?anchor_link=02",
+    "https://www.unicharm.com.br/pt/company/.html?anchor_link=03",
+    "https://www.unicharm.com.br/pt/company/.html?anchor_link=04",
+    "https://www.unicharm.com.br/pt/company/.html?anchor_link=affiliate01",
+    "https://www.unicharm.com.br/pt/company/.html?anchor_link=affiliate02",
+    "https://www.unicharm.com.br/pt/company/.html?anchor_link=affiliate03",
+    "http://www.unicharm.com.br/",
+    "https://www.unicharm.com.br/pt/csr-eco/report.html",
+    "https://www.unicharm.com.br/pt/csr-eco/education",
+    "https://www.unicharm.com.br/pt/privacy-policy/cookie.html",
+    "https://www.unicharm.com.br/pt/company/safety.html",
+    "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/Relat%C3%B3rio_de_Igualdade_Salarial_e_de_Crit%C3%A9rios_Remunerat%C3%B3rios-1%C2%BASemestre_de_2026-final.pdf",
+    "http://www.unicharm.com.br/pt/home.html",
+    "http://www.unicharm.com.br/pt/global.html",
+    "http://www.unicharm.com.br/pt/brand.html",
+    "http://www.unicharm.com.br/pt/cm.html",
+    "http://www.unicharm.com.br/pt/contact-us.html",
+    "http://www.unicharm.com.br/pt/contact-us/qa1.html",
+    "http://www.unicharm.com.br/pt/company.html",
+    "http://www.unicharm.com.br/pt/company/topmessage.html",
+    "http://www.unicharm.com.br/pt/company/corporate-philosophy.html",
+    "http://www.unicharm.com.br/pt/company/corporate-governance.html",
+    "http://www.unicharm.com.br/pt/company/overview.html",
+    "http://www.unicharm.com.br/pt/company/business-field.html",
+    "http://www.unicharm.com.br/pt/company/office.html",
+    "http://www.unicharm.com.br/pt/company/affiliate.html",
+    "http://www.unicharm.com.br/pt/company/charmring.html",
+    "http://www.unicharm.com.br/pt/company/lyp.html",
+    "http://www.unicharm.com.br/pt/csr-eco.html",
+    "http://www.unicharm.com.br/pt/company/news/2022",
+    "http://www.unicharm.com.br/pt/terms-of-use.html",
+    "http://www.unicharm.com.br/pt/privacy-policy.html",
+    "http://www.unicharm.com.br/pt/site-map.html",
+    "http://www.unicharm.com.br/pt/responsibility.html",
+    "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_all.pdf",
+    "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_01.pdf",
+    "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_02.pdf",
+    "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_03.pdf",
+    "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_04.pdf",
+    "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_05.pdf",
+    "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_06.pdf",
+    "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_07.pdf",
+    "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_08.pdf",
+    "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_09-01.pdf",
+    "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_09-02.pdf",
+    "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_09-03.pdf",
+    "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_09-04.pdf",
+    "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_09-05.pdf",
+    "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_09-06.pdf",
+    "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_09-07.pdf",
+    "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_09-08.pdf",
+    "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_10.pdf",
+    "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_11.pdf",
+    "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_12.pdf",
+    "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_13.pdf",
+    "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_14.pdf",
+    "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_15.pdf",
+    "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_16.pdf",
+    "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_17.pdf",
+    "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_18.pdf",
+    "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_19-01.pdf",
+    "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_19-02.pdf",
+    "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_19-03.pdf",
+    "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_19-04.pdf",
+    "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_20.pdf",
+    "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_21.pdf",
+    "https://www.unicharm.com.br/en/home.html",
+    "https://www.unicharm.com.br/en/global.html",
+    "https://www.unicharm.com.br/en/brand.html",
+    "https://www.unicharm.com.br/en/contact-us.html",
+    "https://www.unicharm.com.br/en/contact-us/qa1.html",
+    "https://www.unicharm.com.br/en/contact-us/qa2.html",
+    "https://www.unicharm.com.br/en/contact-us/qa3.html",
+    "https://www.unicharm.com.br/en/company.html",
+    "https://www.unicharm.com.br/en/company/topmessage.html",
+    "https://www.unicharm.com.br/en/company/corporate-philosophy.html",
+    "https://www.unicharm.com.br/en/company/corporate-governance.html",
+    "https://www.unicharm.com.br/en/company/overview.html",
+    "https://www.unicharm.com.br/en/company/business-field.html",
+    "https://www.unicharm.com.br/en/company/office.html",
+    "https://www.unicharm.com.br/en/company/affiliate.html",
+    "https://www.unicharm.com.br/en/company/charmring.html",
+    "https://www.unicharm.com.br/en/company/lyp.html",
+    "https://www.unicharm.com.br/en/csr-eco.html",
+    "https://www.unicharm.com.br/en/recruit.html",
+    "https://www.unicharm.com.br/en/terms-of-use.html",
+    "https://www.unicharm.com.br/en/privacy-policy.html",
+    "https://www.unicharm.com.br/en/site-map.html",
+    "http://www.unicharm.com.br/pt/company/.html?anchor_link=anchor01",
+    "http://www.unicharm.com.br/pt/company/.html?anchor_link=anchor02",
+    "http://www.unicharm.com.br/pt/company/.html?anchor_link=anchor03",
+    "http://www.unicharm.com.br/pt/company/.html?anchor_link=anchor04",
+    "http://www.unicharm.com.br/pt/company/.html?anchor_link=anchor05",
+    "http://www.unicharm.com.br/pt/company/.html?anchor_link=anchor06",
+    "http://www.unicharm.com.br/pt/company/.html?anchor_link=anchor07",
+    "http://www.unicharm.com.br/content/dam/sites/www_unicharm_co_jp/pdf/company/about/Corporate_Governance_Report-20220328.pdf",
+    "http://www.unicharm.com.br/pt/company/.html?anchor_link=overview01",
+    "http://www.unicharm.com.br/pt/company/.html?anchor_link=overview02",
+    "http://www.unicharm.com.br/pt/company/.html?anchor_link=01",
+    "http://www.unicharm.com.br/pt/company/.html?anchor_link=02",
+    "http://www.unicharm.com.br/pt/company/.html?anchor_link=03",
+    "http://www.unicharm.com.br/pt/company/.html?anchor_link=04",
+    "http://www.unicharm.com.br/pt/company/.html?anchor_link=affiliate01",
+    "http://www.unicharm.com.br/pt/company/.html?anchor_link=affiliate02",
+    "http://www.unicharm.com.br/pt/company/.html?anchor_link=affiliate03",
+    "http://www.unicharm.com.br/pt/csr-eco/report.html",
+    "http://www.unicharm.com.br/pt/csr-eco/education",
+    "http://www.unicharm.com.br/pt/company/safety.html",
+    "http://www.unicharm.com.br/pt/privacy-policy/cookie.html",
+    "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/Relat%C3%B3rio_de_Igualdade_Salarial_e_de_Crit%C3%A9rios_Remunerat%C3%B3rios-1%C2%BASemestre_de_2026-final.pdf",
+    "https://www.unicharm.com.br/en/privacy-policy/cookie.html",
+    "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_all.pdf",
+    "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_01.pdf",
+    "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_02.pdf",
+    "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_03.pdf",
+    "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_04.pdf",
+    "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_05.pdf",
+    "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_06.pdf",
+    "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_07.pdf",
+    "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_08.pdf",
+    "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_09-01.pdf",
+    "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_09-02.pdf",
+    "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_09-03.pdf",
+    "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_09-04.pdf",
+    "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_09-05.pdf",
+    "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_09-06.pdf",
+    "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_09-07.pdf",
+    "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_09-08.pdf",
+    "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_10.pdf",
+    "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_11.pdf",
+    "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_12.pdf",
+    "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_13.pdf",
+    "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_14.pdf",
+    "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_15.pdf",
+    "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_16.pdf",
+    "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_17.pdf",
+    "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_18.pdf",
+    "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_19-01.pdf",
+    "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_19-02.pdf",
+    "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_19-03.pdf",
+    "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_19-04.pdf",
+    "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_20.pdf",
+    "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_21.pdf",
+    "http://www.unicharm.com.br/en/home.html",
+    "http://www.unicharm.com.br/en/global.html",
+    "http://www.unicharm.com.br/en/brand.html",
+    "http://www.unicharm.com.br/en/contact-us.html",
+    "http://www.unicharm.com.br/en/contact-us/qa1.html",
+    "http://www.unicharm.com.br/en/contact-us/qa2.html",
+    "http://www.unicharm.com.br/en/contact-us/qa3.html",
+    "http://www.unicharm.com.br/en/company.html",
+    "http://www.unicharm.com.br/en/company/topmessage.html",
+    "http://www.unicharm.com.br/en/company/corporate-philosophy.html",
+    "http://www.unicharm.com.br/en/company/corporate-governance.html",
+    "http://www.unicharm.com.br/en/company/overview.html",
+    "http://www.unicharm.com.br/en/company/business-field.html",
+    "http://www.unicharm.com.br/en/company/office.html",
+    "http://www.unicharm.com.br/en/company/affiliate.html",
+    "http://www.unicharm.com.br/en/company/charmring.html",
+    "http://www.unicharm.com.br/en/company/lyp.html",
+    "http://www.unicharm.com.br/en/csr-eco.html",
+    "http://www.unicharm.com.br/en/recruit.html",
+    "http://www.unicharm.com.br/en/terms-of-use.html",
+    "http://www.unicharm.com.br/en/privacy-policy.html",
+    "http://www.unicharm.com.br/en/site-map.html"
+  ],
+  "urls": [
+    {
+      "url": "https://www.unicharm.com.br/",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/home.html"
+    },
+    {
+      "url": "https://www.unicharm.com.br/pt/home.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/home.html"
+    },
+    {
+      "url": "https://www.unicharm.com.br/pt/global.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/global.html"
+    },
+    {
+      "url": "https://www.unicharm.com.br/pt/brand.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/brand.html"
+    },
+    {
+      "url": "https://www.unicharm.com.br/pt/cm.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/cm.html"
+    },
+    {
+      "url": "https://www.unicharm.com.br/pt/contact-us.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/contact-us.html"
+    },
+    {
+      "url": "https://www.unicharm.com.br/pt/contact-us/qa1.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/contact-us/qa1.html"
+    },
+    {
+      "url": "https://www.unicharm.com.br/pt/company.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/company.html"
+    },
+    {
+      "url": "https://www.unicharm.com.br/pt/company/topmessage.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/company/topmessage.html"
+    },
+    {
+      "url": "https://www.unicharm.com.br/pt/company/corporate-philosophy.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/company/corporate-philosophy.html"
+    },
+    {
+      "url": "https://www.unicharm.com.br/pt/company/corporate-governance.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/company/corporate-governance.html"
+    },
+    {
+      "url": "https://www.unicharm.com.br/pt/company/overview.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/company/overview.html"
+    },
+    {
+      "url": "https://www.unicharm.com.br/pt/company/business-field.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/company/business-field.html"
+    },
+    {
+      "url": "https://www.unicharm.com.br/pt/company/office.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/company/office.html"
+    },
+    {
+      "url": "https://www.unicharm.com.br/pt/company/affiliate.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/company/affiliate.html"
+    },
+    {
+      "url": "https://www.unicharm.com.br/pt/company/charmring.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/company/charmring.html"
+    },
+    {
+      "url": "https://www.unicharm.com.br/pt/company/lyp.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/company/lyp.html"
+    },
+    {
+      "url": "https://www.unicharm.com.br/pt/csr-eco.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/csr-eco.html"
+    },
+    {
+      "url": "https://www.unicharm.com.br/pt/company/news/2022",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/company/news/2022.html"
+    },
+    {
+      "url": "https://www.unicharm.com.br/pt/terms-of-use.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/terms-of-use.html"
+    },
+    {
+      "url": "https://www.unicharm.com.br/pt/privacy-policy.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/privacy-policy.html"
+    },
+    {
+      "url": "https://www.unicharm.com.br/pt/site-map.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/site-map.html"
+    },
+    {
+      "url": "https://www.unicharm.com.br/pt/responsibility.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/responsibility.html"
+    },
+    {
+      "url": "https://www.unicharm.com.br/pt/company/.html?anchor_link=anchor01",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/company/.html?anchor_link=anchor01"
+    },
+    {
+      "url": "https://www.unicharm.com.br/pt/company/.html?anchor_link=anchor02",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/company/.html?anchor_link=anchor02"
+    },
+    {
+      "url": "https://www.unicharm.com.br/pt/company/.html?anchor_link=anchor03",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/company/.html?anchor_link=anchor03"
+    },
+    {
+      "url": "https://www.unicharm.com.br/pt/company/.html?anchor_link=anchor04",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/company/.html?anchor_link=anchor04"
+    },
+    {
+      "url": "https://www.unicharm.com.br/pt/company/.html?anchor_link=anchor05",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/company/.html?anchor_link=anchor05"
+    },
+    {
+      "url": "https://www.unicharm.com.br/pt/company/.html?anchor_link=anchor06",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/company/.html?anchor_link=anchor06"
+    },
+    {
+      "url": "https://www.unicharm.com.br/pt/company/.html?anchor_link=anchor07",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/company/.html?anchor_link=anchor07"
+    },
+    {
+      "url": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_co_jp/pdf/company/about/Corporate_Governance_Report-20220328.pdf",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_co_jp/pdf/company/about/Corporate_Governance_Report-20220328.pdf"
+    },
+    {
+      "url": "https://www.unicharm.com.br/pt/company/.html?anchor_link=overview01",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/company/.html?anchor_link=overview01"
+    },
+    {
+      "url": "https://www.unicharm.com.br/pt/company/.html?anchor_link=overview02",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/company/.html?anchor_link=overview02"
+    },
+    {
+      "url": "https://www.unicharm.com.br/pt/company/.html?anchor_link=01",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/company/.html?anchor_link=01"
+    },
+    {
+      "url": "https://www.unicharm.com.br/pt/company/.html?anchor_link=02",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/company/.html?anchor_link=02"
+    },
+    {
+      "url": "https://www.unicharm.com.br/pt/company/.html?anchor_link=03",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/company/.html?anchor_link=03"
+    },
+    {
+      "url": "https://www.unicharm.com.br/pt/company/.html?anchor_link=04",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/company/.html?anchor_link=04"
+    },
+    {
+      "url": "https://www.unicharm.com.br/pt/company/.html?anchor_link=affiliate01",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/company/.html?anchor_link=affiliate01"
+    },
+    {
+      "url": "https://www.unicharm.com.br/pt/company/.html?anchor_link=affiliate02",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/company/.html?anchor_link=affiliate02"
+    },
+    {
+      "url": "https://www.unicharm.com.br/pt/company/.html?anchor_link=affiliate03",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/company/.html?anchor_link=affiliate03"
+    },
+    {
+      "url": "http://www.unicharm.com.br/",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/home.html"
+    },
+    {
+      "url": "https://www.unicharm.com.br/pt/csr-eco/report.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/csr-eco/report.html"
+    },
+    {
+      "url": "https://www.unicharm.com.br/pt/csr-eco/education",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/csr-eco/education.html"
+    },
+    {
+      "url": "https://www.unicharm.com.br/pt/privacy-policy/cookie.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/privacy-policy/cookie.html"
+    },
+    {
+      "url": "https://www.unicharm.com.br/pt/company/safety.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/company/safety.html"
+    },
+    {
+      "url": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/Relat%C3%B3rio_de_Igualdade_Salarial_e_de_Crit%C3%A9rios_Remunerat%C3%B3rios-1%C2%BASemestre_de_2026-final.pdf",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/Relat%C3%B3rio_de_Igualdade_Salarial_e_de_Crit%C3%A9rios_Remunerat%C3%B3rios-1%C2%BASemestre_de_2026-final.pdf"
+    },
+    {
+      "url": "http://www.unicharm.com.br/pt/home.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/home.html"
+    },
+    {
+      "url": "http://www.unicharm.com.br/pt/global.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/global.html"
+    },
+    {
+      "url": "http://www.unicharm.com.br/pt/brand.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/brand.html"
+    },
+    {
+      "url": "http://www.unicharm.com.br/pt/cm.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/cm.html"
+    },
+    {
+      "url": "http://www.unicharm.com.br/pt/contact-us.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/contact-us.html"
+    },
+    {
+      "url": "http://www.unicharm.com.br/pt/contact-us/qa1.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/contact-us/qa1.html"
+    },
+    {
+      "url": "http://www.unicharm.com.br/pt/company.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/company.html"
+    },
+    {
+      "url": "http://www.unicharm.com.br/pt/company/topmessage.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/company/topmessage.html"
+    },
+    {
+      "url": "http://www.unicharm.com.br/pt/company/corporate-philosophy.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/company/corporate-philosophy.html"
+    },
+    {
+      "url": "http://www.unicharm.com.br/pt/company/corporate-governance.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/company/corporate-governance.html"
+    },
+    {
+      "url": "http://www.unicharm.com.br/pt/company/overview.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/company/overview.html"
+    },
+    {
+      "url": "http://www.unicharm.com.br/pt/company/business-field.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/company/business-field.html"
+    },
+    {
+      "url": "http://www.unicharm.com.br/pt/company/office.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/company/office.html"
+    },
+    {
+      "url": "http://www.unicharm.com.br/pt/company/affiliate.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/company/affiliate.html"
+    },
+    {
+      "url": "http://www.unicharm.com.br/pt/company/charmring.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/company/charmring.html"
+    },
+    {
+      "url": "http://www.unicharm.com.br/pt/company/lyp.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/company/lyp.html"
+    },
+    {
+      "url": "http://www.unicharm.com.br/pt/csr-eco.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/csr-eco.html"
+    },
+    {
+      "url": "http://www.unicharm.com.br/pt/company/news/2022",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/company/news/2022.html"
+    },
+    {
+      "url": "http://www.unicharm.com.br/pt/terms-of-use.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/terms-of-use.html"
+    },
+    {
+      "url": "http://www.unicharm.com.br/pt/privacy-policy.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/privacy-policy.html"
+    },
+    {
+      "url": "http://www.unicharm.com.br/pt/site-map.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/site-map.html"
+    },
+    {
+      "url": "http://www.unicharm.com.br/pt/responsibility.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/responsibility.html"
+    },
+    {
+      "url": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_all.pdf",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_all.pdf"
+    },
+    {
+      "url": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_01.pdf",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_01.pdf"
+    },
+    {
+      "url": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_02.pdf",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_02.pdf"
+    },
+    {
+      "url": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_03.pdf",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_03.pdf"
+    },
+    {
+      "url": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_04.pdf",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_04.pdf"
+    },
+    {
+      "url": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_05.pdf",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_05.pdf"
+    },
+    {
+      "url": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_06.pdf",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_06.pdf"
+    },
+    {
+      "url": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_07.pdf",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_07.pdf"
+    },
+    {
+      "url": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_08.pdf",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_08.pdf"
+    },
+    {
+      "url": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_09-01.pdf",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_09-01.pdf"
+    },
+    {
+      "url": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_09-02.pdf",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_09-02.pdf"
+    },
+    {
+      "url": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_09-03.pdf",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_09-03.pdf"
+    },
+    {
+      "url": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_09-04.pdf",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_09-04.pdf"
+    },
+    {
+      "url": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_09-05.pdf",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_09-05.pdf"
+    },
+    {
+      "url": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_09-06.pdf",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_09-06.pdf"
+    },
+    {
+      "url": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_09-07.pdf",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_09-07.pdf"
+    },
+    {
+      "url": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_09-08.pdf",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_09-08.pdf"
+    },
+    {
+      "url": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_10.pdf",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_10.pdf"
+    },
+    {
+      "url": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_11.pdf",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_11.pdf"
+    },
+    {
+      "url": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_12.pdf",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_12.pdf"
+    },
+    {
+      "url": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_13.pdf",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_13.pdf"
+    },
+    {
+      "url": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_14.pdf",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_14.pdf"
+    },
+    {
+      "url": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_15.pdf",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_15.pdf"
+    },
+    {
+      "url": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_16.pdf",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_16.pdf"
+    },
+    {
+      "url": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_17.pdf",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_17.pdf"
+    },
+    {
+      "url": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_18.pdf",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_18.pdf"
+    },
+    {
+      "url": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_19-01.pdf",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_19-01.pdf"
+    },
+    {
+      "url": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_19-02.pdf",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_19-02.pdf"
+    },
+    {
+      "url": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_19-03.pdf",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_19-03.pdf"
+    },
+    {
+      "url": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_19-04.pdf",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_19-04.pdf"
+    },
+    {
+      "url": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_20.pdf",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_20.pdf"
+    },
+    {
+      "url": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_21.pdf",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_21.pdf"
+    },
+    {
+      "url": "https://www.unicharm.com.br/en/home.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/home.html"
+    },
+    {
+      "url": "https://www.unicharm.com.br/en/global.html",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/en/global.html"
+    },
+    {
+      "url": "https://www.unicharm.com.br/en/brand.html",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/en/brand.html"
+    },
+    {
+      "url": "https://www.unicharm.com.br/en/contact-us.html",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/en/contact-us.html"
+    },
+    {
+      "url": "https://www.unicharm.com.br/en/contact-us/qa1.html",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/en/contact-us/qa1.html"
+    },
+    {
+      "url": "https://www.unicharm.com.br/en/contact-us/qa2.html",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/en/contact-us/qa2.html"
+    },
+    {
+      "url": "https://www.unicharm.com.br/en/contact-us/qa3.html",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/en/contact-us/qa3.html"
+    },
+    {
+      "url": "https://www.unicharm.com.br/en/company.html",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/en/company.html"
+    },
+    {
+      "url": "https://www.unicharm.com.br/en/company/topmessage.html",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/en/company/topmessage.html"
+    },
+    {
+      "url": "https://www.unicharm.com.br/en/company/corporate-philosophy.html",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/en/company/corporate-philosophy.html"
+    },
+    {
+      "url": "https://www.unicharm.com.br/en/company/corporate-governance.html",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/en/company/corporate-governance.html"
+    },
+    {
+      "url": "https://www.unicharm.com.br/en/company/overview.html",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/en/company/overview.html"
+    },
+    {
+      "url": "https://www.unicharm.com.br/en/company/business-field.html",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/en/company/business-field.html"
+    },
+    {
+      "url": "https://www.unicharm.com.br/en/company/office.html",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/en/company/office.html"
+    },
+    {
+      "url": "https://www.unicharm.com.br/en/company/affiliate.html",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/en/company/affiliate.html"
+    },
+    {
+      "url": "https://www.unicharm.com.br/en/company/charmring.html",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/en/company/charmring.html"
+    },
+    {
+      "url": "https://www.unicharm.com.br/en/company/lyp.html",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/en/company/lyp.html"
+    },
+    {
+      "url": "https://www.unicharm.com.br/en/csr-eco.html",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/en/csr-eco.html"
+    },
+    {
+      "url": "https://www.unicharm.com.br/en/recruit.html",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/en/recruit.html"
+    },
+    {
+      "url": "https://www.unicharm.com.br/en/terms-of-use.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/en/terms-of-use.html"
+    },
+    {
+      "url": "https://www.unicharm.com.br/en/privacy-policy.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/en/privacy-policy.html"
+    },
+    {
+      "url": "https://www.unicharm.com.br/en/site-map.html",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/en/site-map.html"
+    },
+    {
+      "url": "http://www.unicharm.com.br/pt/company/.html?anchor_link=anchor01",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/company/.html?anchor_link=anchor01"
+    },
+    {
+      "url": "http://www.unicharm.com.br/pt/company/.html?anchor_link=anchor02",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/company/.html?anchor_link=anchor02"
+    },
+    {
+      "url": "http://www.unicharm.com.br/pt/company/.html?anchor_link=anchor03",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/company/.html?anchor_link=anchor03"
+    },
+    {
+      "url": "http://www.unicharm.com.br/pt/company/.html?anchor_link=anchor04",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/company/.html?anchor_link=anchor04"
+    },
+    {
+      "url": "http://www.unicharm.com.br/pt/company/.html?anchor_link=anchor05",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/company/.html?anchor_link=anchor05"
+    },
+    {
+      "url": "http://www.unicharm.com.br/pt/company/.html?anchor_link=anchor06",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/company/.html?anchor_link=anchor06"
+    },
+    {
+      "url": "http://www.unicharm.com.br/pt/company/.html?anchor_link=anchor07",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/company/.html?anchor_link=anchor07"
+    },
+    {
+      "url": "http://www.unicharm.com.br/content/dam/sites/www_unicharm_co_jp/pdf/company/about/Corporate_Governance_Report-20220328.pdf",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_co_jp/pdf/company/about/Corporate_Governance_Report-20220328.pdf"
+    },
+    {
+      "url": "http://www.unicharm.com.br/pt/company/.html?anchor_link=overview01",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/company/.html?anchor_link=overview01"
+    },
+    {
+      "url": "http://www.unicharm.com.br/pt/company/.html?anchor_link=overview02",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/company/.html?anchor_link=overview02"
+    },
+    {
+      "url": "http://www.unicharm.com.br/pt/company/.html?anchor_link=01",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/company/.html?anchor_link=01"
+    },
+    {
+      "url": "http://www.unicharm.com.br/pt/company/.html?anchor_link=02",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/company/.html?anchor_link=02"
+    },
+    {
+      "url": "http://www.unicharm.com.br/pt/company/.html?anchor_link=03",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/company/.html?anchor_link=03"
+    },
+    {
+      "url": "http://www.unicharm.com.br/pt/company/.html?anchor_link=04",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/company/.html?anchor_link=04"
+    },
+    {
+      "url": "http://www.unicharm.com.br/pt/company/.html?anchor_link=affiliate01",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/company/.html?anchor_link=affiliate01"
+    },
+    {
+      "url": "http://www.unicharm.com.br/pt/company/.html?anchor_link=affiliate02",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/company/.html?anchor_link=affiliate02"
+    },
+    {
+      "url": "http://www.unicharm.com.br/pt/company/.html?anchor_link=affiliate03",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/company/.html?anchor_link=affiliate03"
+    },
+    {
+      "url": "http://www.unicharm.com.br/pt/csr-eco/report.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/csr-eco/report.html"
+    },
+    {
+      "url": "http://www.unicharm.com.br/pt/csr-eco/education",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/csr-eco/education.html"
+    },
+    {
+      "url": "http://www.unicharm.com.br/pt/company/safety.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/company/safety.html"
+    },
+    {
+      "url": "http://www.unicharm.com.br/pt/privacy-policy/cookie.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/privacy-policy/cookie.html"
+    },
+    {
+      "url": "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/Relat%C3%B3rio_de_Igualdade_Salarial_e_de_Crit%C3%A9rios_Remunerat%C3%B3rios-1%C2%BASemestre_de_2026-final.pdf",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/Relat%C3%B3rio_de_Igualdade_Salarial_e_de_Crit%C3%A9rios_Remunerat%C3%B3rios-1%C2%BASemestre_de_2026-final.pdf"
+    },
+    {
+      "url": "https://www.unicharm.com.br/en/privacy-policy/cookie.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/en/privacy-policy/cookie.html"
+    },
+    {
+      "url": "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_all.pdf",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_all.pdf"
+    },
+    {
+      "url": "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_01.pdf",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_01.pdf"
+    },
+    {
+      "url": "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_02.pdf",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_02.pdf"
+    },
+    {
+      "url": "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_03.pdf",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_03.pdf"
+    },
+    {
+      "url": "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_04.pdf",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_04.pdf"
+    },
+    {
+      "url": "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_05.pdf",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_05.pdf"
+    },
+    {
+      "url": "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_06.pdf",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_06.pdf"
+    },
+    {
+      "url": "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_07.pdf",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_07.pdf"
+    },
+    {
+      "url": "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_08.pdf",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_08.pdf"
+    },
+    {
+      "url": "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_09-01.pdf",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_09-01.pdf"
+    },
+    {
+      "url": "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_09-02.pdf",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_09-02.pdf"
+    },
+    {
+      "url": "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_09-03.pdf",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_09-03.pdf"
+    },
+    {
+      "url": "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_09-04.pdf",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_09-04.pdf"
+    },
+    {
+      "url": "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_09-05.pdf",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_09-05.pdf"
+    },
+    {
+      "url": "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_09-06.pdf",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_09-06.pdf"
+    },
+    {
+      "url": "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_09-07.pdf",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_09-07.pdf"
+    },
+    {
+      "url": "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_09-08.pdf",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_09-08.pdf"
+    },
+    {
+      "url": "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_10.pdf",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_10.pdf"
+    },
+    {
+      "url": "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_11.pdf",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_11.pdf"
+    },
+    {
+      "url": "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_12.pdf",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_12.pdf"
+    },
+    {
+      "url": "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_13.pdf",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_13.pdf"
+    },
+    {
+      "url": "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_14.pdf",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_14.pdf"
+    },
+    {
+      "url": "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_15.pdf",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_15.pdf"
+    },
+    {
+      "url": "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_16.pdf",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_16.pdf"
+    },
+    {
+      "url": "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_17.pdf",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_17.pdf"
+    },
+    {
+      "url": "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_18.pdf",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_18.pdf"
+    },
+    {
+      "url": "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_19-01.pdf",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_19-01.pdf"
+    },
+    {
+      "url": "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_19-02.pdf",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_19-02.pdf"
+    },
+    {
+      "url": "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_19-03.pdf",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_19-03.pdf"
+    },
+    {
+      "url": "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_19-04.pdf",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_19-04.pdf"
+    },
+    {
+      "url": "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_20.pdf",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_20.pdf"
+    },
+    {
+      "url": "http://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_21.pdf",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/content/dam/sites/www_unicharm_com_br/pdf/csr-eco/report/en-ucsus2021_21.pdf"
+    },
+    {
+      "url": "http://www.unicharm.com.br/en/home.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/pt/home.html"
+    },
+    {
+      "url": "http://www.unicharm.com.br/en/global.html",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/en/global.html"
+    },
+    {
+      "url": "http://www.unicharm.com.br/en/brand.html",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/en/brand.html"
+    },
+    {
+      "url": "http://www.unicharm.com.br/en/contact-us.html",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/en/contact-us.html"
+    },
+    {
+      "url": "http://www.unicharm.com.br/en/contact-us/qa1.html",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/en/contact-us/qa1.html"
+    },
+    {
+      "url": "http://www.unicharm.com.br/en/contact-us/qa2.html",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/en/contact-us/qa2.html"
+    },
+    {
+      "url": "http://www.unicharm.com.br/en/contact-us/qa3.html",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/en/contact-us/qa3.html"
+    },
+    {
+      "url": "http://www.unicharm.com.br/en/company.html",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/en/company.html"
+    },
+    {
+      "url": "http://www.unicharm.com.br/en/company/topmessage.html",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/en/company/topmessage.html"
+    },
+    {
+      "url": "http://www.unicharm.com.br/en/company/corporate-philosophy.html",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/en/company/corporate-philosophy.html"
+    },
+    {
+      "url": "http://www.unicharm.com.br/en/company/corporate-governance.html",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/en/company/corporate-governance.html"
+    },
+    {
+      "url": "http://www.unicharm.com.br/en/company/overview.html",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/en/company/overview.html"
+    },
+    {
+      "url": "http://www.unicharm.com.br/en/company/business-field.html",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/en/company/business-field.html"
+    },
+    {
+      "url": "http://www.unicharm.com.br/en/company/office.html",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/en/company/office.html"
+    },
+    {
+      "url": "http://www.unicharm.com.br/en/company/affiliate.html",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/en/company/affiliate.html"
+    },
+    {
+      "url": "http://www.unicharm.com.br/en/company/charmring.html",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/en/company/charmring.html"
+    },
+    {
+      "url": "http://www.unicharm.com.br/en/company/lyp.html",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/en/company/lyp.html"
+    },
+    {
+      "url": "http://www.unicharm.com.br/en/csr-eco.html",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/en/csr-eco.html"
+    },
+    {
+      "url": "http://www.unicharm.com.br/en/recruit.html",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/en/recruit.html"
+    },
+    {
+      "url": "http://www.unicharm.com.br/en/terms-of-use.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/en/terms-of-use.html"
+    },
+    {
+      "url": "http://www.unicharm.com.br/en/privacy-policy.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/en/privacy-policy.html"
+    },
+    {
+      "url": "http://www.unicharm.com.br/en/site-map.html",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://www.unicharm.com.br/en/site-map.html"
+    }
+  ]
+}

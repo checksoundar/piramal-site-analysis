@@ -1,0 +1,118 @@
+{
+  "urls-sample": {
+    "captured": "2026-08-19T11:38:13.363Z",
+    "totalUrls": 36,
+    "createdBy": "create-sample.js",
+    "samplingMethod": "all-urls",
+    "urls": [
+      {
+        "url": "https://www.mamypoko.jp/ja/products/s.html"
+      },
+      {
+        "url": "https://www.mamypoko.jp/ja/products/m.html"
+      },
+      {
+        "url": "https://www.mamypoko.jp/ja/products/l.html"
+      },
+      {
+        "url": "https://www.mamypoko.jp/ja/products/b.html"
+      },
+      {
+        "url": "https://www.mamypoko.jp/ja/products/bdai.html"
+      },
+      {
+        "url": "https://www.mamypoko.jp/ja/products/night.html"
+      },
+      {
+        "url": "https://www.mamypoko.jp/ja/products/night-m.html"
+      },
+      {
+        "url": "https://www.mamypoko.jp/ja/products/night-l.html"
+      },
+      {
+        "url": "https://www.mamypoko.jp/ja/products/night-b.html"
+      },
+      {
+        "url": "https://www.mamypoko.jp/ja/products/night-bdai.html"
+      },
+      {
+        "url": "https://www.mamypoko.jp/en/products/s.html"
+      },
+      {
+        "url": "https://www.mamypoko.jp/en/products/m.html"
+      },
+      {
+        "url": "https://www.mamypoko.jp/en/products/l.html"
+      },
+      {
+        "url": "https://www.mamypoko.jp/en/products/b.html"
+      },
+      {
+        "url": "https://www.mamypoko.jp/en/products/bdai.html"
+      },
+      {
+        "url": "https://www.mamypoko.jp/en/products/night.html"
+      },
+      {
+        "url": "https://www.mamypoko.jp/en/products/night-m.html"
+      },
+      {
+        "url": "https://www.mamypoko.jp/en/products/night-l.html"
+      },
+      {
+        "url": "https://www.mamypoko.jp/en/products/night-b.html"
+      },
+      {
+        "url": "https://www.mamypoko.jp/en/products/night-bdai.html"
+      },
+      {
+        "url": "https://www.mamypoko.jp/ja/home.html"
+      },
+      {
+        "url": "https://www.mamypoko.jp/ja/qa.html"
+      },
+      {
+        "url": "https://www.mamypoko.jp/ja/play.html"
+      },
+      {
+        "url": "https://www.mamypoko.jp/ja/limited.html"
+      },
+      {
+        "url": "https://www.mamypoko.jp/ja/limited-l.html"
+      },
+      {
+        "url": "https://www.mamypoko.jp/ja/limited_s.html"
+      },
+      {
+        "url": "https://www.mamypoko.jp/ja/202602samplingcp.html"
+      },
+      {
+        "url": "https://www.mamypoko.jp/ja/site-map.html"
+      },
+      {
+        "url": "https://www.mamypoko.jp/ja/home1.html"
+      },
+      {
+        "url": "https://www.mamypoko.jp/en/home.html"
+      },
+      {
+        "url": "https://www.mamypoko.jp/en/qa.html"
+      },
+      {
+        "url": "https://www.mamypoko.jp/en/limited.html"
+      },
+      {
+        "url": "https://www.mamypoko.jp/en/limited-l.html"
+      },
+      {
+        "url": "https://www.mamypoko.jp/en/limited_s.html"
+      },
+      {
+        "url": "https://www.mamypoko.jp/en/site-map.html"
+      },
+      {
+        "url": "https://www.mamypoko.jp/"
+      }
+    ]
+  }
+}

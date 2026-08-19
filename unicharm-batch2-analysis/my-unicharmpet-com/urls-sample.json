@@ -1,0 +1,25 @@
+{
+  "urls-sample": {
+    "captured": "2026-08-19T11:39:15.137Z",
+    "totalUrls": 5,
+    "createdBy": "create-sample.js",
+    "samplingMethod": "all-urls",
+    "urls": [
+      {
+        "url": "https://my.unicharmpet.com/en/home"
+      },
+      {
+        "url": "https://my.unicharmpet.com/en/global.html"
+      },
+      {
+        "url": "https://my.unicharmpet.com/en/home.html"
+      },
+      {
+        "url": "https://my.unicharmpet.com/en/deotoilet/home.html"
+      },
+      {
+        "url": "https://my.unicharmpet.com/"
+      }
+    ]
+  }
+}

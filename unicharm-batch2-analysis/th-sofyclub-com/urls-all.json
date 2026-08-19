@@ -1,0 +1,742 @@
+{
+  "analysis-urls-all": {
+    "captured": "2026-08-19T11:36:51.434Z",
+    "totalUrls": 242,
+    "totalDocuments": 0,
+    "method": "sitemap",
+    "sitemapURL": "/th/sitemap.xml",
+    "robotsTxtFound": false,
+    "robotsTxtRulesApplied": false,
+    "limitations": "",
+    "confidence": "95%",
+    "urls": [
+      {
+        "url": "https://th.sofyclub.com/th/home.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/product-type.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/coolingfresh.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/coolingfresh/1204059_11870.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/coolingfresh/1203672_11870.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/coolingfresh/1203671_11870.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/coolingfresh/1203670_11870.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/coolingfresh/1203669_11870.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/coolingfresh/1206064_11870.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/coolingfresh/1206066_11870.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/coolingfresh/1206065_11870.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/coolingfresh/1206066_118701.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/coolingfresh/1204059_118701.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/coolingfresh/1203670_118702.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/coolingfresh/1203670_1187021.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/coolingfresh/1203670_11870211.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/coolingfresh/1203670_118702111.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/coolingfresh/1203670_1187021111.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/coolingfresh/cf_slim_wing_25.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/coolingfresh/cfn_slim_wing_25.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/coolingfresh/cooling_np_patent.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/coolingfresh/cfe_superslim_wing_01_23.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/coolingfresh/cfe_superslim_wing_01_25.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/coolingfresh/cfe_wing_29.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/coolingfresh/cfy_superslim_wing_01_23.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/coolingfresh/cfy_superslim_wing_01_25.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/coolingfresh/cfy_slim_wing_25.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/kachub.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/kachub/1195775_7911.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/kachub/1195775_79111.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/korbpokpong.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/korbpokpong/1195780_7913.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/korbpokpong/1195781_7913.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/sleep.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/sleep/1195796_7915.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/sleep/1195797_7915.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/sleep/1195791_7915.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/sleep/1195792_7915.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/sleep/1195793_7915.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/sleep/1206061_7915.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/sleep/1206062_7915.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/sleep/1206063_7915.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/sleep/1206064_7915.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/sleep/1206063_79151.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/sleep/nightpants_cool_l.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/sleep/nightpants_cool_xl.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/tanompew.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/tanompew/1203648_11866.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/tanompew/1203652_11866.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/tanompew/1203649_11866.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/tanompew/1203653_11866.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/tanompew/1203650_11866.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/tanompew/1206063_11866.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/tanompew/1203651_11866.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/softtampon.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/softtampon/1195069_7919.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/softtampon/1195070_7919.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/comfort.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/comfort/index.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/purecare.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/purecare/1200027_7921.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/purecare/1195788_7921.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/longwide.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/longwide/1205730_7923.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/longwide/1195786_7923.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/longwide/1195787_7923.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/longwide/1200028_7923.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/coolingfresh_pl.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/coolingfresh_pl/1205732_127281.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/coolingfresh_pl/1205732_1272812.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/coolingfresh_pl/1205732_12728121.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/coolingfresh_pl/1205732_1272811.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/product-new.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/charcoalfresh.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/charcoalfresh/slim_wing_23.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/charcoalfresh/ultraslim_wing_23.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/charcoalfresh/wing_29.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/sofyaile.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/sofyaile/qnr.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/sofyaile/qnr/result1.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/sofyaile/qnr/result2.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/sofyaile/qnr/result3.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products/sofyaile/qnr/result4.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/brandactivity.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/video.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/keyword-result.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/emotions.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/emotions/01.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/emotions/02.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/emotions/03.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/emotions/04.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/emotions/05.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/emotions/06.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/emotions/07.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/emotions/pms.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/emotions/tiredwhilehavingperiod.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/emotions/excitingfeelingwhilehavingperiod.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/emotions/moodswing.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/emotions/psychologyofperiodanddepression.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/emotions/angerwhilehavingperiod.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/emotions/overthinkwhilehavingperiod.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/howtocare.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/howtocare/01.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/howtocare/02.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/howtocare/03.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/howtocare/04.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/howtocare/05.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/howtocare/06.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/howtocare/07.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/howtocare/08.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/howtocare/09.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/howtocare/10.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/howtocare/11.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/howtocare/12.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/howtocare/13.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/howtocare/14.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/howtocare/15.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/howtocare/16.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/howtocare/17.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/howtocare/18.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/howtocare/19.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/howtocare/20.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/howtocare/21.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/howtocare/23.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/howtocare/22.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/howtocare/24.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/howtocare/25.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/howtocare/26.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/howtocare/27.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/howtocare/28.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/howtocare/29.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/howtocare/dischargeforteen.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/howtocare/gettoknowperiod.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/howtocare/whatisdischarge.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/howtocare/hormoneandperiod.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/howtocare/QandAaboutperiod.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/howtocare/whydowomenhaveperiod.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/howtocare/firsttimeofperiod.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/howtocare/QandAaboutfirstperiod.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/howtocare/QandAaboutbody.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/howtocare/adayatschoolwhileonaperiod.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/howtocare/sofygirls.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/howtocare/irregularperiod.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/howtocare/missedperiod.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/howtocare/abnormalbleeding.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/howtocare/bleedingpregnancy.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/howtocare/goldenage.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/howtocare/bleedingatgoldenage.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/howtocare/bleedingdiseases.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/howtocare/bleedingandwaistpain.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/howtocare/howtohandlebleedingdisease.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/howtocare/bleedingandnausea.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/howtocare/waytocurebleedingdisorders.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/howtocare/femalediseases.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/howtocare/stressandperiod.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/howtocare/bleedingandwomendiseases.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/howtocare/menorrhagia.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/howtocare/shortmenstrualcycle.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/howtocare/longmenstrualcycle.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/howtocare/signofabnormalperiod.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/howtocare/periodtipsindailylife.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/howtocare/producehormone.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/howtocare/periodpain.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/howtocare/rashwhilehavingperiod.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/howtocare/puffyfacewhilehavingperiod.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/howtocare/Sofygirlguidebook.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/comforttips.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/comforttips/01.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/comforttips/02.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/comforttips/03.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/comforttips/04.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/comforttips/05.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/comforttips/06.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/comforttips/07.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/comforttips/08.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/comforttips/09.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/comforttips/10.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/comforttips/11.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/comforttips/12.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/comforttips/13.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/comforttips/14.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/comforttips/15.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/comforttips/16.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/comforttips/17.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/comforttips/18.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/comforttips/femalehormone.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/comforttips/boyandgirl.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/comforttips/relaxtipsonyourperiod.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/comforttips/tipswhengirlgoingoutonperiod.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/comforttips/puppylove.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/comforttips/findingoutaboutsex.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/comforttips/knowtherightthingsaboutsex.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/comforttips/protectyourselffromdanger.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/comforttips/sexualdiseases.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/comforttips/howtotrackyourperiod.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/comforttips/psychologyofperiodandwaystoreducehunger.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/comforttips/mistakedecisionwhilehavingperiod.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/comforttips/psychologyofperiodanddecision.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/usagetips.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/usagetips/01.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/usagetips/02.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/usagetips/03.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/usagetips/04.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/usagetips/05.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/usagetips/06.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/usagetips/07.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/usagetips/08.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/usagetips/09.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/usagetips/10.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/usagetips/11.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/usagetips/12.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/usagetips/13.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/usagetips/14.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/usagetips/15.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/usagetips/16.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/usagetips/17.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/usagetips/18.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/usagetips/19.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/usagetips/181.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/usagetips/20.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/usagetips/1811.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/usagetips/21.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/usagetips/22.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/usagetips/23.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/usagetips/24.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/usagetips/25.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/usagetips/typesofnapkins.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/usagetips/whatisliner.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/usagetips/howtousesanitarypads.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/usagetips/Whatexactlyaresanitarypads.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/Teens.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/20s.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/30s-40s.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/50s.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/advice/dischargeforteen.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/calendar.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/calendar/process.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/site-map.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/products1.html"
+      },
+      {
+        "url": "https://th.sofyclub.com/th/global.html"
+      }
+    ],
+    "documents": []
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "analysis-urls-all": {
+    "captured": "2026-08-19T11:42:19.285Z",
+    "totalUrls": 47,
+    "totalDocuments": 0,
+    "method": "crawl",
+    "sitemapURL": null,
+    "robotsTxtFound": true,
+    "robotsTxtRulesApplied": true,
+    "limitations": "",
+    "confidence": "85%",
+    "urls": [
+      {
+        "url": "https://jp.unicharm-mask.com/",
+        "status": 200
+      },
+      {
+        "url": "https://jp.unicharm-mask.com/ja/home.html",
+        "status": 200
+      },
+      {
+        "url": "https://jp.unicharm-mask.com/ja/products.html",
+        "status": 200
+      },
+      {
+        "url": "https://jp.unicharm-mask.com/ja/how-to-choose.html",
+        "status": 200
+      },
+      {
+        "url": "https://jp.unicharm-mask.com/ja/my-style-mask.html",
+        "status": 200
+      },
+      {
+        "url": "https://jp.unicharm-mask.com/ja/wear-no-space.html",
+        "status": 200
+      },
+      {
+        "url": "https://jp.unicharm-mask.com/ja/dev-interview.html",
+        "status": 200
+      },
+      {
+        "url": "https://jp.unicharm-mask.com/ja/doctor-advice1.html",
+        "status": 200
+      },
+      {
+        "url": "https://jp.unicharm-mask.com/ja/doctor-advice2.html",
+        "status": 200
+      },
+      {
+        "url": "https://jp.unicharm-mask.com/ja/faq.html",
+        "status": 200
+      },
+      {
+        "url": "https://jp.unicharm-mask.com/en/home.html",
+        "status": 200
+      },
+      {
+        "url": "https://jp.unicharm-mask.com/ja/products/smart-color.html",
+        "status": 200
+      },
+      {
+        "url": "https://jp.unicharm-mask.com/ja/products/cho-kaiteki.html",
+        "status": 200
+      },
+      {
+        "url": "https://jp.unicharm-mask.com/ja/products/rittai-cold.html",
+        "status": 200
+      },
+      {
+        "url": "https://jp.unicharm-mask.com/ja/products/pleats-kids.html",
+        "status": 200
+      },
+      {
+        "url": "https://jp.unicharm-mask.com/ja/products/transparent.html",
+        "status": 200
+      },
+      {
+        "url": "https://jp.unicharm-mask.com/ja/my-style-mask/artl07.html",
+        "status": 200
+      },
+      {
+        "url": "https://jp.unicharm-mask.com/ja/products/airlish.html",
+        "status": 200
+      },
+      {
+        "url": "https://jp.unicharm-mask.com/ja/products/pleats-gray",
+        "status": 200
+      },
+      {
+        "url": "https://jp.unicharm-mask.com/ja/products/smart-color",
+        "status": 200
+      },
+      {
+        "url": "https://jp.unicharm-mask.com/ja/products/pleats-binkan",
+        "status": 200
+      },
+      {
+        "url": "https://jp.unicharm-mask.com/ja/products/transparent",
+        "status": 200
+      },
+      {
+        "url": "https://jp.unicharm-mask.com/ja/products/pleats-slightly-large",
+        "status": 200
+      },
+      {
+        "url": "https://jp.unicharm-mask.com/ja/products/summer_mask.html",
+        "status": 200
+      },
+      {
+        "url": "https://jp.unicharm-mask.com/ja/products/pleats-slightly-large.html",
+        "status": 200
+      },
+      {
+        "url": "https://jp.unicharm-mask.com/ja/products/pleats-ikimure.html",
+        "status": 200
+      },
+      {
+        "url": "https://jp.unicharm-mask.com/ja/products/pleats-binkan.html",
+        "status": 200
+      },
+      {
+        "url": "https://jp.unicharm-mask.com/ja/products/rittai-standard.html",
+        "status": 200
+      },
+      {
+        "url": "https://jp.unicharm-mask.com/ja/products/rittai-kids.html",
+        "status": 200
+      },
+      {
+        "url": "https://jp.unicharm-mask.com/en/products.html",
+        "status": 200
+      },
+      {
+        "url": "https://jp.unicharm-mask.com/ja/my-style-mask/artl06.html",
+        "status": 200
+      },
+      {
+        "url": "https://jp.unicharm-mask.com/ja/my-style-mask/artl01.html",
+        "status": 200
+      },
+      {
+        "url": "https://jp.unicharm-mask.com/ja/my-style-mask/artl02.html",
+        "status": 200
+      },
+      {
+        "url": "https://jp.unicharm-mask.com/ja/my-style-mask/artl03.html",
+        "status": 200
+      },
+      {
+        "url": "https://jp.unicharm-mask.com/ja/my-style-mask/artl04.html",
+        "status": 200
+      },
+      {
+        "url": "https://jp.unicharm-mask.com/en/products/cho-kaiteki.html",
+        "status": 200
+      },
+      {
+        "url": "https://jp.unicharm-mask.com/en/products/pleats-slightly-large.html",
+        "status": 200
+      },
+      {
+        "url": "https://jp.unicharm-mask.com/en/products/pleats-ikimure.html",
+        "status": 200
+      },
+      {
+        "url": "https://jp.unicharm-mask.com/en/products/pleats-binkan.html",
+        "status": 200
+      },
+      {
+        "url": "https://jp.unicharm-mask.com/en/products/airlish.html",
+        "status": 200
+      },
+      {
+        "url": "https://jp.unicharm-mask.com/en/products/pleats-kids.html",
+        "status": 200
+      },
+      {
+        "url": "https://jp.unicharm-mask.com/en/products/rittai-cold.html",
+        "status": 200
+      },
+      {
+        "url": "https://jp.unicharm-mask.com/en/products/rittai-standard.html",
+        "status": 200
+      },
+      {
+        "url": "https://jp.unicharm-mask.com/en/products/rittai-kids.html",
+        "status": 200
+      },
+      {
+        "url": "https://jp.unicharm-mask.com/en/products/smart-color.html",
+        "status": 200
+      },
+      {
+        "url": "https://jp.unicharm-mask.com/en/products/transparent.html",
+        "status": 200
+      },
+      {
+        "url": "https://jp.unicharm-mask.com/ja/products/smart-color_yellowblue.html",
+        "status": 200
+      }
+    ],
+    "documents": []
+  }
+}

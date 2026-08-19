@@ -1,0 +1,61 @@
+{
+  "urls-sample": {
+    "captured": "2026-08-19T11:38:58.832Z",
+    "totalUrls": 17,
+    "createdBy": "create-sample.js",
+    "samplingMethod": "all-urls",
+    "urls": [
+      {
+        "url": "https://latam.mamypoko.com/es/about/who-is-poko.html"
+      },
+      {
+        "url": "https://latam.mamypoko.com/es/about/poko-chan-song.html"
+      },
+      {
+        "url": "https://latam.mamypoko.com/es/products/search.html"
+      },
+      {
+        "url": "https://latam.mamypoko.com/es/products/mpfc-p-xxg.html"
+      },
+      {
+        "url": "https://latam.mamypoko.com/es/products/mpw-toalhasumedecidas.html"
+      },
+      {
+        "url": "https://latam.mamypoko.com/es/products/mpfc-diaenoite-m-xg.html"
+      },
+      {
+        "url": "https://latam.mamypoko.com/es/home.html"
+      },
+      {
+        "url": "https://latam.mamypoko.com/es/about.html"
+      },
+      {
+        "url": "https://latam.mamypoko.com/es/products.html"
+      },
+      {
+        "url": "https://latam.mamypoko.com/es/shop.html"
+      },
+      {
+        "url": "https://latam.mamypoko.com/es/contact.html"
+      },
+      {
+        "url": "https://latam.mamypoko.com/es/site-map.html"
+      },
+      {
+        "url": "https://latam.mamypoko.com/es/privacy-policy.html"
+      },
+      {
+        "url": "https://latam.mamypoko.com/es/terms-of-use.html"
+      },
+      {
+        "url": "https://latam.mamypoko.com/es/global.html"
+      },
+      {
+        "url": "https://latam.mamypoko.com/es/privacy-policy/cookie.html"
+      },
+      {
+        "url": "https://latam.mamypoko.com/"
+      }
+    ]
+  }
+}

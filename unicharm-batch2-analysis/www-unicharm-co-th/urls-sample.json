@@ -1,0 +1,91 @@
+{
+  "urls-sample": {
+    "captured": "2026-08-19T11:36:43.608Z",
+    "totalUrls": 27,
+    "createdBy": "create-sample.js",
+    "samplingMethod": "all-urls",
+    "urls": [
+      {
+        "url": "https://www.unicharm.co.th/th/contact-us/qa1.html"
+      },
+      {
+        "url": "https://www.unicharm.co.th/th/contact-us/qa2.html"
+      },
+      {
+        "url": "https://www.unicharm.co.th/th/contact-us/qa3.html"
+      },
+      {
+        "url": "https://www.unicharm.co.th/th/contact-us/qa4.html"
+      },
+      {
+        "url": "https://www.unicharm.co.th/th/contact-us/qa5.html"
+      },
+      {
+        "url": "https://www.unicharm.co.th/th/company/topmessage.html"
+      },
+      {
+        "url": "https://www.unicharm.co.th/th/company/corporate-philosophy.html"
+      },
+      {
+        "url": "https://www.unicharm.co.th/th/company/corporate-governance.html"
+      },
+      {
+        "url": "https://www.unicharm.co.th/th/company/overview.html"
+      },
+      {
+        "url": "https://www.unicharm.co.th/th/company/business-field.html"
+      },
+      {
+        "url": "https://www.unicharm.co.th/th/company/office.html"
+      },
+      {
+        "url": "https://www.unicharm.co.th/th/company/affiliate.html"
+      },
+      {
+        "url": "https://www.unicharm.co.th/th/company/charmring.html"
+      },
+      {
+        "url": "https://www.unicharm.co.th/th/company/lyp.html"
+      },
+      {
+        "url": "https://www.unicharm.co.th/th/home.html"
+      },
+      {
+        "url": "https://www.unicharm.co.th/th/brand.html"
+      },
+      {
+        "url": "https://www.unicharm.co.th/th/contact-us.html"
+      },
+      {
+        "url": "https://www.unicharm.co.th/th/company.html"
+      },
+      {
+        "url": "https://www.unicharm.co.th/th/csr-eco.html"
+      },
+      {
+        "url": "https://www.unicharm.co.th/th/recruit.html"
+      },
+      {
+        "url": "https://www.unicharm.co.th/th/terms-of-use.html"
+      },
+      {
+        "url": "https://www.unicharm.co.th/th/privacy-policy.html"
+      },
+      {
+        "url": "https://www.unicharm.co.th/th/site-map.html"
+      },
+      {
+        "url": "https://www.unicharm.co.th/th/global.html"
+      },
+      {
+        "url": "https://www.unicharm.co.th/th/recruit/01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.th/th/privacy-policy/cookie.html"
+      },
+      {
+        "url": "https://www.unicharm.co.th//"
+      }
+    ]
+  }
+}

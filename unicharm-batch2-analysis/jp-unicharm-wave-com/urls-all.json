@@ -1,0 +1,128 @@
+{
+  "analysis-urls-all": {
+    "captured": "2026-08-19T11:42:50.902Z",
+    "totalUrls": 28,
+    "totalDocuments": 0,
+    "method": "crawl",
+    "sitemapURL": null,
+    "robotsTxtFound": true,
+    "robotsTxtRulesApplied": true,
+    "limitations": "",
+    "confidence": "85%",
+    "urls": [
+      {
+        "url": "https://jp.unicharm-wave.com/",
+        "status": 200
+      },
+      {
+        "url": "https://jp.unicharm-wave.com/ja/home.html",
+        "status": 200
+      },
+      {
+        "url": "https://jp.unicharm-wave.com/ja/products.html",
+        "status": 200
+      },
+      {
+        "url": "https://jp.unicharm-wave.com/ja/tips.html",
+        "status": 200
+      },
+      {
+        "url": "https://jp.unicharm-wave.com/ja/message.html",
+        "status": 200
+      },
+      {
+        "url": "https://jp.unicharm-wave.com/ja/cm.html",
+        "status": 200
+      },
+      {
+        "url": "https://jp.unicharm-wave.com/ja",
+        "status": 200
+      },
+      {
+        "url": "https://jp.unicharm-wave.com/ja/site-map.html",
+        "status": 200
+      },
+      {
+        "url": "https://jp.unicharm-wave.com/ja/products/handywiper.html",
+        "status": 200
+      },
+      {
+        "url": "https://jp.unicharm-wave.com/ja/products/handywiper_long.html",
+        "status": 200
+      },
+      {
+        "url": "https://jp.unicharm-wave.com/ja/products/floorwiper.html",
+        "status": 200
+      },
+      {
+        "url": "https://jp.unicharm-wave.com/en/home.html",
+        "status": 200
+      },
+      {
+        "url": "https://jp.unicharm-wave.com/ja/products/floorwiper_ichimaikanketsu.html",
+        "status": 200
+      },
+      {
+        "url": "https://jp.unicharm-wave.com/ja/products/handywiper_sheet.html",
+        "status": 200
+      },
+      {
+        "url": "https://jp.unicharm-wave.com/ja/products/handywiper_case.html",
+        "status": 200
+      },
+      {
+        "url": "https://jp.unicharm-wave.com/ja/products/floorwiper_dry.html",
+        "status": 200
+      },
+      {
+        "url": "https://jp.unicharm-wave.com/ja/products/floorwiper_wet.html",
+        "status": 200
+      },
+      {
+        "url": "https://jp.unicharm-wave.com/en/products.html",
+        "status": 200
+      },
+      {
+        "url": "https://jp.unicharm-wave.com/en/site-map.html",
+        "status": 200
+      },
+      {
+        "url": "https://jp.unicharm-wave.com/en/products/handywiper.html",
+        "status": 200
+      },
+      {
+        "url": "https://jp.unicharm-wave.com/en/products/handywiper_long.html",
+        "status": 200
+      },
+      {
+        "url": "https://jp.unicharm-wave.com/en/products/floorwiper.html",
+        "status": 200
+      },
+      {
+        "url": "https://jp.unicharm-wave.com/en",
+        "status": 200
+      },
+      {
+        "url": "https://jp.unicharm-wave.com/en/products/floorwiper_ichimaikanketsu.html",
+        "status": 200
+      },
+      {
+        "url": "https://jp.unicharm-wave.com/en/products/handywiper_sheet.html",
+        "status": 200
+      },
+      {
+        "url": "https://jp.unicharm-wave.com/en/products/floorwiper_dry.html",
+        "status": 200
+      },
+      {
+        "url": "https://jp.unicharm-wave.com/en/products/floorwiper_wet.html",
+        "status": 200
+      },
+      {
+        "url": "https://jp.unicharm-wave.com/en/products/handywiper_case.html",
+        "status": 200
+      }
+    ],
+    "documents": []
+  }
+}

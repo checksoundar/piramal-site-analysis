@@ -1,0 +1,119 @@
+{
+  "analysis-urls-grouped": {
+    "captured": "2026-08-19T11:38:51.036Z",
+    "urlGroupings": 4,
+    "locales": {
+      "en": 28,
+      "unknown": 1
+    },
+    "groups": {
+      "/en/company/overview/officer": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://www.unicharm.com.au/en/company/overview/officer/03.html"
+          },
+          {
+            "url": "https://www.unicharm.com.au/en/company/overview/officer/02.html"
+          },
+          {
+            "url": "https://www.unicharm.com.au/en/company/overview/officer/05.html"
+          },
+          {
+            "url": "https://www.unicharm.com.au/en/company/overview/officer/01.html"
+          },
+          {
+            "url": "https://www.unicharm.com.au/en/company/overview/officer/06.html"
+          },
+          {
+            "url": "https://www.unicharm.com.au/en/company/overview/officer/04.html"
+          }
+        ]
+      },
+      "/en/company": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://www.unicharm.com.au/en/company/topmessage.html"
+          },
+          {
+            "url": "https://www.unicharm.com.au/en/company/corporate-philosophy.html"
+          },
+          {
+            "url": "https://www.unicharm.com.au/en/company/corporate-governance.html"
+          },
+          {
+            "url": "https://www.unicharm.com.au/en/company/overview.html"
+          },
+          {
+            "url": "https://www.unicharm.com.au/en/company/business-field.html"
+          },
+          {
+            "url": "https://www.unicharm.com.au/en/company/office.html"
+          },
+          {
+            "url": "https://www.unicharm.com.au/en/company/affiliate.html"
+          },
+          {
+            "url": "https://www.unicharm.com.au/en/company/charmring.html"
+          },
+          {
+            "url": "https://www.unicharm.com.au/en/company/safety.html"
+          },
+          {
+            "url": "https://www.unicharm.com.au/en/company/lyp.html"
+          }
+        ]
+      },
+      "/en": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://www.unicharm.com.au/en/home.html"
+          },
+          {
+            "url": "https://www.unicharm.com.au/en/brand.html"
+          },
+          {
+            "url": "https://www.unicharm.com.au/en/contact-us.html"
+          },
+          {
+            "url": "https://www.unicharm.com.au/en/company.html"
+          },
+          {
+            "url": "https://www.unicharm.com.au/en/csr-eco.html"
+          },
+          {
+            "url": "https://www.unicharm.com.au/en/recruit.html"
+          },
+          {
+            "url": "https://www.unicharm.com.au/en/terms-of-use.html"
+          },
+          {
+            "url": "https://www.unicharm.com.au/en/privacy-policy.html"
+          },
+          {
+            "url": "https://www.unicharm.com.au/en/site-map.html"
+          },
+          {
+            "url": "https://www.unicharm.com.au/en/global.html"
+          },
+          {
+            "url": "https://www.unicharm.com.au/en/contact-us/qa1.html"
+          },
+          {
+            "url": "https://www.unicharm.com.au/en/privacy-policy/cookie.html"
+          }
+        ]
+      },
+      "/": {
+        "confidence": "100%",
+        "urls": [
+          {
+            "url": "https://www.unicharm.com.au/"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "analysis-urls-all": {
+    "captured": "2026-08-19T11:38:07.750Z",
+    "totalUrls": 1,
+    "totalDocuments": 0,
+    "method": "crawl",
+    "sitemapURL": null,
+    "robotsTxtFound": true,
+    "robotsTxtRulesApplied": true,
+    "limitations": "",
+    "confidence": "85%",
+    "urls": [
+      {
+        "url": "https://www.babyjoy.com.eg/",
+        "status": 200
+      }
+    ],
+    "documents": []
+  }
+}

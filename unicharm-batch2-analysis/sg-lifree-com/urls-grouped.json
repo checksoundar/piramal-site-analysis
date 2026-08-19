@@ -1,0 +1,271 @@
+{
+  "analysis-urls-grouped": {
+    "captured": "2026-08-19T11:37:54.620Z",
+    "urlGroupings": 14,
+    "locales": {
+      "en": 62,
+      "unknown": 1
+    },
+    "groups": {
+      "/en/product/light/choose": {
+        "confidence": "85%",
+        "urls": [
+          {
+            "url": "https://sg.lifree.com/en/product/light/choose/data.html"
+          },
+          {
+            "url": "https://sg.lifree.com/en/product/light/choose/experience.html"
+          }
+        ]
+      },
+      "/en/product/adult/choose": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://sg.lifree.com/en/product/adult/choose/index.html"
+          },
+          {
+            "url": "https://sg.lifree.com/en/product/adult/choose/point.html"
+          },
+          {
+            "url": "https://sg.lifree.com/en/product/adult/choose/advice.html"
+          },
+          {
+            "url": "https://sg.lifree.com/en/product/adult/choose/diagnosis"
+          },
+          {
+            "url": "https://sg.lifree.com/en/product/adult/choose/experience.html"
+          },
+          {
+            "url": "https://sg.lifree.com/en/product/adult/choose/data.html"
+          }
+        ]
+      },
+      "/en/product/adult/pants": {
+        "confidence": "85%",
+        "urls": [
+          {
+            "url": "https://sg.lifree.com/en/product/adult/pants/experience.html"
+          },
+          {
+            "url": "https://sg.lifree.com/en/product/adult/pants/data.html"
+          }
+        ]
+      },
+      "/en/product/adult/purchase": {
+        "confidence": "85%",
+        "urls": [
+          {
+            "url": "https://sg.lifree.com/en/product/adult/purchase/experience.html"
+          },
+          {
+            "url": "https://sg.lifree.com/en/product/adult/purchase/data.html"
+          }
+        ]
+      },
+      "/en/nyoumore/experience": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://sg.lifree.com/en/nyoumore/experience/experience.html"
+          },
+          {
+            "url": "https://sg.lifree.com/en/nyoumore/experience/family_experience.html"
+          },
+          {
+            "url": "https://sg.lifree.com/en/nyoumore/experience/advice.html"
+          },
+          {
+            "url": "https://sg.lifree.com/en/nyoumore/experience/data.html"
+          },
+          {
+            "url": "https://sg.lifree.com/en/nyoumore/experience/family_data.html"
+          }
+        ]
+      },
+      "/en/product/adult": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://sg.lifree.com/en/product/adult/lifree_ultra_slim_pants.html"
+          },
+          {
+            "url": "https://sg.lifree.com/en/product/adult/lifree_powerful_slim_pants.html"
+          },
+          {
+            "url": "https://sg.lifree.com/en/product/adult/lifree_night_pants_comfort_sleep_protection.html"
+          },
+          {
+            "url": "https://sg.lifree.com/en/product/adult/lifree_super_absorb_tape.html"
+          },
+          {
+            "url": "https://sg.lifree.com/en/product/adult/lifree_absorbent_pads.html"
+          },
+          {
+            "url": "https://sg.lifree.com/en/product/adult/choose.html"
+          },
+          {
+            "url": "https://sg.lifree.com/en/product/adult/pants.html"
+          },
+          {
+            "url": "https://sg.lifree.com/en/product/adult/purchase.html"
+          }
+        ]
+      },
+      "/en/product/light": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://sg.lifree.com/en/product/light/lifree_extra_dry_pad_20cc.html"
+          },
+          {
+            "url": "https://sg.lifree.com/en/product/light/lifree_extra_dry_pad_80cc.html"
+          },
+          {
+            "url": "https://sg.lifree.com/en/product/light/lifree_extra_dry_pad_120cc.html"
+          },
+          {
+            "url": "https://sg.lifree.com/en/product/light/lifree_extra_dry_pad_170cc.html"
+          },
+          {
+            "url": "https://sg.lifree.com/en/product/light/lifree_extra_dry_pad_300cc.html"
+          },
+          {
+            "url": "https://sg.lifree.com/en/product/light/sawayaka_pads_men_light_comfort_protection.html"
+          },
+          {
+            "url": "https://sg.lifree.com/en/product/light/sawayaka_pads_men_leakage_security_comfort_protection.html"
+          }
+        ]
+      },
+      "/en/advice/professional": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://sg.lifree.com/en/advice/professional/01.html"
+          },
+          {
+            "url": "https://sg.lifree.com/en/advice/professional/04.html"
+          },
+          {
+            "url": "https://sg.lifree.com/en/advice/professional/06.html"
+          },
+          {
+            "url": "https://sg.lifree.com/en/advice/professional/02"
+          },
+          {
+            "url": "https://sg.lifree.com/en/advice/professional/03"
+          }
+        ]
+      },
+      "/en/nyoumore": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://sg.lifree.com/en/nyoumore/cause.html"
+          },
+          {
+            "url": "https://sg.lifree.com/en/nyoumore/exclusive.html"
+          },
+          {
+            "url": "https://sg.lifree.com/en/nyoumore/male.html"
+          },
+          {
+            "url": "https://sg.lifree.com/en/nyoumore/training.html"
+          },
+          {
+            "url": "https://sg.lifree.com/en/nyoumore/experience.html"
+          }
+        ]
+      },
+      "/en/advice": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://sg.lifree.com/en/advice/point.html"
+          },
+          {
+            "url": "https://sg.lifree.com/en/advice/usage.html"
+          },
+          {
+            "url": "https://sg.lifree.com/en/advice/adl.html"
+          },
+          {
+            "url": "https://sg.lifree.com/en/advice/professional.html"
+          },
+          {
+            "url": "https://sg.lifree.com/en/advice/qa.html"
+          },
+          {
+            "url": "https://sg.lifree.com/en/advice/rehabilitation.html"
+          }
+        ]
+      },
+      "/en/dementia-prevention": {
+        "confidence": "85%",
+        "urls": [
+          {
+            "url": "https://sg.lifree.com/en/dementia-prevention/symptom.html"
+          },
+          {
+            "url": "https://sg.lifree.com/en/dementia-prevention/type.html"
+          },
+          {
+            "url": "https://sg.lifree.com/en/dementia-prevention/cause.html"
+          },
+          {
+            "url": "https://sg.lifree.com/en/dementia-prevention/diagnosis-treatment.html"
+          }
+        ]
+      },
+      "/en/healthy_life": {
+        "confidence": "85%",
+        "urls": [
+          {
+            "url": "https://sg.lifree.com/en/healthy_life/activity.html"
+          },
+          {
+            "url": "https://sg.lifree.com/en/healthy_life/report01.html"
+          },
+          {
+            "url": "https://sg.lifree.com/en/healthy_life/report02.html"
+          },
+          {
+            "url": "https://sg.lifree.com/en/healthy_life/activity/06.html"
+          }
+        ]
+      },
+      "/en": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://sg.lifree.com/en/home.html"
+          },
+          {
+            "url": "https://sg.lifree.com/en/product.html"
+          },
+          {
+            "url": "https://sg.lifree.com/en/nyoumore.html"
+          },
+          {
+            "url": "https://sg.lifree.com/en/advice.html"
+          },
+          {
+            "url": "https://sg.lifree.com/en/dementia-prevention.html"
+          },
+          {
+            "url": "https://sg.lifree.com/en/healthy_life.html"
+          }
+        ]
+      },
+      "/": {
+        "confidence": "100%",
+        "urls": [
+          {
+            "url": "https://sg.lifree.com/"
+          }
+        ]
+      }
+    }
+  }
+}

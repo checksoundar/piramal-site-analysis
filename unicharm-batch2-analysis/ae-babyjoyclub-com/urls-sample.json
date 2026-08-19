@@ -1,0 +1,64 @@
+{
+  "urls-sample": {
+    "captured": "2026-08-19T11:36:45.113Z",
+    "totalUrls": 18,
+    "createdBy": "create-sample.js",
+    "samplingMethod": "all-urls",
+    "urls": [
+      {
+        "url": "https://ae.babyjoyclub.com/ar/products/search.html"
+      },
+      {
+        "url": "https://ae.babyjoyclub.com/ar/products/bj-compressed-nb-s.html"
+      },
+      {
+        "url": "https://ae.babyjoyclub.com/ar/products/bj-compressed-m-jr.html"
+      },
+      {
+        "url": "https://ae.babyjoyclub.com/ar/products/bj-compressed-jrxxl.html"
+      },
+      {
+        "url": "https://ae.babyjoyclub.com/ar/products/bjc-culotte-m-jrxxl.html"
+      },
+      {
+        "url": "https://ae.babyjoyclub.com/ar/home.html"
+      },
+      {
+        "url": "https://ae.babyjoyclub.com/ar/about.html"
+      },
+      {
+        "url": "https://ae.babyjoyclub.com/ar/products.html"
+      },
+      {
+        "url": "https://ae.babyjoyclub.com/ar/shop.html"
+      },
+      {
+        "url": "https://ae.babyjoyclub.com/ar/video.html"
+      },
+      {
+        "url": "https://ae.babyjoyclub.com/ar/news.html"
+      },
+      {
+        "url": "https://ae.babyjoyclub.com/ar/contact.html"
+      },
+      {
+        "url": "https://ae.babyjoyclub.com/ar/site-map.html"
+      },
+      {
+        "url": "https://ae.babyjoyclub.com/ar/privacy-policy.html"
+      },
+      {
+        "url": "https://ae.babyjoyclub.com/ar/about/who-is-joy.html"
+      },
+      {
+        "url": "https://ae.babyjoyclub.com/ar/news/30062018.html"
+      },
+      {
+        "url": "https://ae.babyjoyclub.com/ar/privacy-policy/cookie.html"
+      },
+      {
+        "url": "https://ae.babyjoyclub.com/"
+      }
+    ]
+  }
+}

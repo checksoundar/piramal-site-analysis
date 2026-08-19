@@ -1,0 +1,166 @@
+{
+  "analysis-urls-all": {
+    "captured": "2026-08-19T11:36:43.149Z",
+    "totalUrls": 50,
+    "totalDocuments": 0,
+    "method": "sitemap",
+    "sitemapURL": "/my/sitemap.xml",
+    "robotsTxtFound": false,
+    "robotsTxtRulesApplied": false,
+    "limitations": "",
+    "confidence": "95%",
+    "urls": [
+      {
+        "url": "https://mm.sofyclub.com/my/home.html"
+      },
+      {
+        "url": "https://mm.sofyclub.com/my/products.html"
+      },
+      {
+        "url": "https://mm.sofyclub.com/my/products/product-type.html"
+      },
+      {
+        "url": "https://mm.sofyclub.com/my/products/activeslim.html"
+      },
+      {
+        "url": "https://mm.sofyclub.com/my/products/activeslim/activeslim.html"
+      },
+      {
+        "url": "https://mm.sofyclub.com/my/products/bodyfit.html"
+      },
+      {
+        "url": "https://mm.sofyclub.com/my/products/bodyfit/night_slim_wing.html"
+      },
+      {
+        "url": "https://mm.sofyclub.com/my/products/bodyfit/night_ultraslim_wing.html"
+      },
+      {
+        "url": "https://mm.sofyclub.com/my/products/bodyfit/night_ultraslim_wing42.html"
+      },
+      {
+        "url": "https://mm.sofyclub.com/my/products/bodyfit/day_slim_wing_23.html"
+      },
+      {
+        "url": "https://mm.sofyclub.com/my/products/bodyfit/day_slim_wing_25.html"
+      },
+      {
+        "url": "https://mm.sofyclub.com/my/products/eva.html"
+      },
+      {
+        "url": "https://mm.sofyclub.com/my/products/eva/comfort.html"
+      },
+      {
+        "url": "https://mm.sofyclub.com/my/products/eva/comfort_non_wing23.html"
+      },
+      {
+        "url": "https://mm.sofyclub.com/my/products/eva/safety_dry.html"
+      },
+      {
+        "url": "https://mm.sofyclub.com/my/products/eva/safety_dry_slim_wing25.html"
+      },
+      {
+        "url": "https://mm.sofyclub.com/my/products/eva/cool_fresh.html"
+      },
+      {
+        "url": "https://mm.sofyclub.com/my/products/eva/comfort_night29.html"
+      },
+      {
+        "url": "https://mm.sofyclub.com/my/products/eva/comfort_night35.html"
+      },
+      {
+        "url": "https://mm.sofyclub.com/my/products/eva/comfort_night42.html"
+      },
+      {
+        "url": "https://mm.sofyclub.com/my/products/eva/soft_dry_wing25.html"
+      },
+      {
+        "url": "https://mm.sofyclub.com/my/products/eva/cool_fresh_wing26.html"
+      },
+      {
+        "url": "https://mm.sofyclub.com/my/products/eva/cool_fresh_night29.html"
+      },
+      {
+        "url": "https://mm.sofyclub.com/my/products/eva/cool_fresh_night35.html"
+      },
+      {
+        "url": "https://mm.sofyclub.com/my/products/sidegathers.html"
+      },
+      {
+        "url": "https://mm.sofyclub.com/my/products/sidegathers/soundly_sleep_allnight_w29.html"
+      },
+      {
+        "url": "https://mm.sofyclub.com/my/products/sidegathers/soundly_sleep_allnight_w35.html"
+      },
+      {
+        "url": "https://mm.sofyclub.com/my/products/eva_pl.html"
+      },
+      {
+        "url": "https://mm.sofyclub.com/my/products/eva_pl/index.html"
+      },
+      {
+        "url": "https://mm.sofyclub.com/my/products/purecare.html"
+      },
+      {
+        "url": "https://mm.sofyclub.com/my/products/purecare/ps_rose.html"
+      },
+      {
+        "url": "https://mm.sofyclub.com/my/products/purecare/ps_fresh_herbal.html"
+      },
+      {
+        "url": "https://mm.sofyclub.com/my/products/purecare/ps_luxury_ylang.html"
+      },
+      {
+        "url": "https://mm.sofyclub.com/my/products/product-new.html"
+      },
+      {
+        "url": "https://mm.sofyclub.com/my/products/coolingfresh.html"
+      },
+      {
+        "url": "https://mm.sofyclub.com/my/products/coolingfresh/cooling_fresh.html"
+      },
+      {
+        "url": "https://mm.sofyclub.com/my/products/coolingfresh/cooling_fresh_night.html"
+      },
+      {
+        "url": "https://mm.sofyclub.com/my/products/coolingfresh_pl.html"
+      },
+      {
+        "url": "https://mm.sofyclub.com/my/products/coolingfresh_pl/cooling_fresh_liner.html"
+      },
+      {
+        "url": "https://mm.sofyclub.com/my/products/nightpants.html"
+      },
+      {
+        "url": "https://mm.sofyclub.com/my/products/nightpants/night_pants.html"
+      },
+      {
+        "url": "https://mm.sofyclub.com/my/products/charcoalfresh.html"
+      },
+      {
+        "url": "https://mm.sofyclub.com/my/products/charcoalfresh/charcoal_fresh_23cm.html"
+      },
+      {
+        "url": "https://mm.sofyclub.com/my/products/charcoalfresh/charcoal_fresh_29cm.html"
+      },
+      {
+        "url": "https://mm.sofyclub.com/my/video.html"
+      },
+      {
+        "url": "https://mm.sofyclub.com/my/brandactivity.html"
+      },
+      {
+        "url": "https://mm.sofyclub.com/my/brandactivity/lucky_draw_campaign.html"
+      },
+      {
+        "url": "https://mm.sofyclub.com/my/about/csr/csr-006.html"
+      },
+      {
+        "url": "https://mm.sofyclub.com/my/site-map.html"
+      },
+      {
+        "url": "https://mm.sofyclub.com/my/global.html"
+      }
+    ],
+    "documents": []
+  }
+}

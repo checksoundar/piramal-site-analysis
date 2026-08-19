@@ -1,0 +1,178 @@
+{
+  "urls-sample": {
+    "captured": "2026-08-19T11:45:12.868Z",
+    "totalUrls": 56,
+    "createdBy": "create-sample.js",
+    "samplingMethod": "all-urls",
+    "urls": [
+      {
+        "url": "https://www.unicharm.vn/vi/company/news/2022/0210-01.html"
+      },
+      {
+        "url": "https://www.unicharm.vn/vi/company/news/2024/0306-24.html"
+      },
+      {
+        "url": "https://www.unicharm.vn/vi/company/news/2024/1706-24.html"
+      },
+      {
+        "url": "https://www.unicharm.vn/vi/company/news/2024/2606-24.html"
+      },
+      {
+        "url": "https://www.unicharm.vn/vi/company/news/2024/1209-24.html"
+      },
+      {
+        "url": "https://www.unicharm.vn/vi/company/news/2024/0110-24.html"
+      },
+      {
+        "url": "https://www.unicharm.vn/vi/company/news/2024/2011-24.html"
+      },
+      {
+        "url": "https://www.unicharm.vn/vi/company/news/2023/1409-23.html"
+      },
+      {
+        "url": "https://www.unicharm.vn/vi/company/news/2023/2410-23.html"
+      },
+      {
+        "url": "https://www.unicharm.vn/vi/company/news/2023/2811-23.html"
+      },
+      {
+        "url": "https://www.unicharm.vn/vi/company/news/2025/0505-25.html"
+      },
+      {
+        "url": "https://www.unicharm.vn/vi/company/news/2025/1405-25.html"
+      },
+      {
+        "url": "https://www.unicharm.vn/vi/company/news/2025/3005-25.html"
+      },
+      {
+        "url": "https://www.unicharm.vn/vi/company/news/2025/1006-25.html"
+      },
+      {
+        "url": "https://www.unicharm.vn/vi/company/news/2025/1606-25.html"
+      },
+      {
+        "url": "https://www.unicharm.vn/vi/company/news/2025/0409-25.html"
+      },
+      {
+        "url": "https://www.unicharm.vn/vi/company/news/2025/0810-25.html"
+      },
+      {
+        "url": "https://www.unicharm.vn/vi/company/news/2025/1410-25.html"
+      },
+      {
+        "url": "https://www.unicharm.vn/vi/company/news/2025/2611-25.html"
+      },
+      {
+        "url": "https://www.unicharm.vn/vi/company/news/2025/2212-25.html"
+      },
+      {
+        "url": "https://www.unicharm.vn/vi/company/news/2025/0806-2026.html"
+      },
+      {
+        "url": "https://www.unicharm.vn/vi/company/news/2026/0806-26.html"
+      },
+      {
+        "url": "https://www.unicharm.vn/vi/company/news/2026/2307-26.html"
+      },
+      {
+        "url": "https://www.unicharm.vn/vi/company/news/2026/0608-26.html"
+      },
+      {
+        "url": "https://www.unicharm.vn/vi/company/news/2022.html"
+      },
+      {
+        "url": "https://www.unicharm.vn/vi/company/news/2024.html"
+      },
+      {
+        "url": "https://www.unicharm.vn/vi/company/news/2023.html"
+      },
+      {
+        "url": "https://www.unicharm.vn/vi/company/news/2025.html"
+      },
+      {
+        "url": "https://www.unicharm.vn/vi/company/news/2026.html"
+      },
+      {
+        "url": "https://www.unicharm.vn/vi/contact-us/qa1.html"
+      },
+      {
+        "url": "https://www.unicharm.vn/vi/contact-us/qa2.html"
+      },
+      {
+        "url": "https://www.unicharm.vn/vi/contact-us/qa3.html"
+      },
+      {
+        "url": "https://www.unicharm.vn/vi/contact-us/qa4.html"
+      },
+      {
+        "url": "https://www.unicharm.vn/vi/company/topmessage.html"
+      },
+      {
+        "url": "https://www.unicharm.vn/vi/company/corporate-philosophy.html"
+      },
+      {
+        "url": "https://www.unicharm.vn/vi/company/corporate-governance.html"
+      },
+      {
+        "url": "https://www.unicharm.vn/vi/company/overview.html"
+      },
+      {
+        "url": "https://www.unicharm.vn/vi/company/business-field.html"
+      },
+      {
+        "url": "https://www.unicharm.vn/vi/company/office.html"
+      },
+      {
+        "url": "https://www.unicharm.vn/vi/company/affiliate.html"
+      },
+      {
+        "url": "https://www.unicharm.vn/vi/company/charmring.html"
+      },
+      {
+        "url": "https://www.unicharm.vn/vi/company/lyp.html"
+      },
+      {
+        "url": "https://www.unicharm.vn/vi/home.html"
+      },
+      {
+        "url": "https://www.unicharm.vn/vi/brand.html"
+      },
+      {
+        "url": "https://www.unicharm.vn/vi/contact-us.html"
+      },
+      {
+        "url": "https://www.unicharm.vn/vi/company.html"
+      },
+      {
+        "url": "https://www.unicharm.vn/vi/csr-eco.html"
+      },
+      {
+        "url": "https://www.unicharm.vn/vi/terms-of-use.html"
+      },
+      {
+        "url": "https://www.unicharm.vn/vi/privacy-policy.html"
+      },
+      {
+        "url": "https://www.unicharm.vn/vi/site-map.html"
+      },
+      {
+        "url": "https://www.unicharm.vn/vi/cm.html"
+      },
+      {
+        "url": "https://www.unicharm.vn/vi/customer-complaint-handling-policy.html"
+      },
+      {
+        "url": "https://www.unicharm.vn/vi/global.html"
+      },
+      {
+        "url": "https://www.unicharm.vn/vi/csr-eco/pefc2002_2020.html"
+      },
+      {
+        "url": "https://www.unicharm.vn/vi/privacy-policy/cookie.html"
+      },
+      {
+        "url": "https://www.unicharm.vn//"
+      }
+    ]
+  }
+}

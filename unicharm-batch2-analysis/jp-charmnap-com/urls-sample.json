@@ -1,0 +1,694 @@
+{
+  "urls-sample": {
+    "captured": "2026-08-19T11:36:48.270Z",
+    "totalUrls": 228,
+    "createdBy": "create-sample.js",
+    "samplingMethod": "all-urls",
+    "urls": [
+      {
+        "url": "https://jp.charmnap.com/ja/products/liner/compact_rose_3.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/products/liner/compact_unscented_3.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/products/liner/unscented_3.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/products/liner/unscented_5.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/products/liner/unscented_10.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/products/liner/puresoap_10.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/products/napkin/powder_15.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/products/napkin/powder_30.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/products/napkin/powder_50.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/products/napkin/powder_70.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/products/napkin/powder_100.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/products/napkin/powder_150.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/products/napkin/powder_170.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/products/napkin/powder_200.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/products/funwarihada/unscented_3.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/products/funwarihada/unscented_5.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/products/funwarihada/unscented_15.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/products/funwarihada/unscented_50.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/products/organic/unscented_3.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/products/organic/unscented_5.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/products/organic/unscented_10.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/products/organic/unscented_15.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/products/organic/unscented_30.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/products/organic/unscented_50.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/products/guards/powder_25.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/products/guards/powder_60.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/products/deodorant/deodorant_3.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/products/deodorant/deodorant_5.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/products/deodorant/deodorant_10.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/products/deodorant/deodorant_15.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/products/deodorant/deodorant_30.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/products/deodorant/deodorant_50.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/products/deodorant/deodorant_70.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/products/deodorant/deodorant_100.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/products/deodorant/deodorant_150.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/basic/pelvis/answer01.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/basic/pelvis/answer02.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/basic/pelvis/answer03.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/basic/pelvis/answer04.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/basic/padtest/result01.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/basic/padtest/result02.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/basic/padtest/result03.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/basic/padtest/result04.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/grownwoman_faq/001.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/grownwoman_faq/002.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/grownwoman_faq/003.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/grownwoman_faq/004.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/grownwoman_faq/005.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/grownwoman_faq/006.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/grownwoman_faq/007.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/grownwoman_faq/008.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/grownwoman_faq/009.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/grownwoman_faq/010.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/grownwoman_faq/011.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/grownwoman_faq/012.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/grownwoman_faq/013.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/grownwoman_faq/014.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/grownwoman_faq/015.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/grownwoman_faq/016.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/grownwoman_faq/017.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/grownwoman_faq/018.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/grownwoman_faq/019.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/grownwoman_faq/020.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/grownwoman_faq/021.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/grownwoman_faq/022.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/grownwoman_faq/023.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/grownwoman_faq/024.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/grownwoman_faq/025.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/grownwoman_faq/026.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/grownwoman_faq/027.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/grownwoman_faq/028.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/grownwoman_faq/029.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/grownwoman_faq/030.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/grownwoman_faq/031.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/grownwoman_faq/032.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/grownwoman_faq/033.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/grownwoman_faq/034.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/grownwoman_faq/035.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/grownwoman_faq/036.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/pregnancy_faq/001.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/pregnancy_faq/002.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/pregnancy_faq/003.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/pregnancy_faq/004.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/pregnancy_faq/005.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/pregnancy_faq/006.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/pregnancy_faq/007.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/pregnancy_faq/008.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/pregnancy_faq/009.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/pregnancy_faq/010.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/pregnancy_faq/011.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/pregnancy_faq/012.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/pregnancy_faq/013.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/pregnancy_faq/014.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/pregnancy_faq/015.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/pregnancy_faq/016.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/pregnancy_faq/017.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/pregnancy_faq/018.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/pregnancy_faq/019.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/pregnancy_faq/020.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/pregnancy_faq/021.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/pregnancy_faq/022.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/pregnancy_faq/023.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/pregnancy_faq/024.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/pregnancy_faq/025.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/pregnancy_faq/026.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/pregnancy_faq/027.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/pregnancy_faq/028.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/pregnancy_faq/029.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/pregnancy_faq/030.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/pregnancy_faq/031.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/pregnancy_faq/032.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/pregnancy_faq/033.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/pregnancy_faq/034.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/pregnancy_faq/035.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/pregnancy_faq/036.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/young_faq/001.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/young_faq/002.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/young_faq/003.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/young_faq/004.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/young_faq/005.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/young_faq/006.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/young_faq/007.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/young_faq/008.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/young_faq/009.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/young_faq/010.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/young_faq/011.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/young_faq/012.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/young_faq/013.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/young_faq/014.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/young_faq/037.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/young_faq/038.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/young_faq/039.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/young_faq/040.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/young_faq/041.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/young_faq/042.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/young_faq/043.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/young_faq/044.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/young_faq/045.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/medical/001.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/medical/002.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/medical/003.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/medical/004.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/medical/005.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/medical/006.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/medical/007.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/medical/008.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/medical/009.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/medical/010.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/medical/011.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/medical/012.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/medical/013.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/medical/014.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/medical/015.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/medical/016.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/medical/017.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/medical/018.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/medical/019.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/medical/020.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/medical/021.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/medical/022.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/medical/023.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/medical/024.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/medical/025.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/medical/026.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/medical/027.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/medical/028.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/medical/029.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/medical/030.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/medical/031.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/basic/pelvis.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/basic/a01.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/basic/a02.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/basic/a03.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/basic/a04.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/basic/a05.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/basic/b01.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/basic/b02.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/basic/b03.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/basic/b04.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/basic/b05.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/basic/b06.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/basic/case.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/basic/faq3.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/basic/padtest.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/training/trend.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/training/video.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/training/room.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/training/walking.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/training/perinee.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/training/tr01.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/training/tr02.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/go_hospital/talk.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/go_hospital/001.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/go_hospital/002.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/go_hospital/003.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/go_hospital/004.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/go_hospital/005.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/go_hospital/006.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/go_hospital/007.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/go_hospital/008.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/go_hospital/009.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/campaign/a_kayu.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/campaign/b_beta.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/campaign/c_try.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/urine-leakage-doctor-article/01.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/urine-leakage-doctor-article/02.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/urine-leakage-doctor-article/03.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/urine-leakage-doctor-article/04.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/urine-leakage-doctor-article/05.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/urine-leakage-doctor-article/06.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/mycheck.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/products.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/home.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/concept.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/grownwoman_faq.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/pregnancy_faq.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/young_faq.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/medical.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/basic.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/training.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/go_hospital.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/tvcm.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/feature.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/urine-leakage-doctor-article.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/sitemap.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/character.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/ja/feature/voice.html"
+      },
+      {
+        "url": "https://jp.charmnap.com/"
+      }
+    ]
+  }
+}

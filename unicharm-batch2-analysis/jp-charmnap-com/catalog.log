@@ -1,0 +1,37 @@
+2026-08-19 11:36:44 | INFO | Redirect (301) → https://jp.charmnap.com/ja/home.html
+2026-08-19 11:36:45 | INFO | Checking root page for sitemap-like links...
+2026-08-19 11:36:45 | INFO | Redirect (301) → https://jp.charmnap.com/ja/home.html
+2026-08-19 11:36:45 | INFO | Trying sitemap candidates...
+2026-08-19 11:36:45 | INFO | Trying sitemap candidate: https://jp.charmnap.com/sitemap.xml
+2026-08-19 11:36:45 | WARNING | HTTP status: 404
+2026-08-19 11:36:45 | INFO | Trying sitemap candidate: https://jp.charmnap.com/sitemap.xml.gz
+2026-08-19 11:36:46 | WARNING | HTTP status: 404
+2026-08-19 11:36:46 | INFO | Trying sitemap candidate: https://jp.charmnap.com/sitemap_index.xml
+2026-08-19 11:36:46 | WARNING | HTTP status: 404
+2026-08-19 11:36:46 | INFO | Trying sitemap candidate: https://jp.charmnap.com/sitemap-index.xml
+2026-08-19 11:36:46 | WARNING | HTTP status: 404
+2026-08-19 11:36:46 | INFO | Trying sitemap candidate: https://jp.charmnap.com/sitemap.txt
+2026-08-19 11:36:46 | WARNING | HTTP status: 404
+2026-08-19 11:36:46 | INFO | Checking robots.txt for sitemap references...
+2026-08-19 11:36:47 | INFO | Found 1 sitemap(s) in robots.txt
+2026-08-19 11:36:47 | INFO | Processing 1 unique sitemap(s) from robots.txt...
+2026-08-19 11:36:47 | INFO | [1/1] Fetching sitemap: https://jp.charmnap.com/ja/sitemap.xml
+2026-08-19 11:36:47 | INFO | Fetched sitemap successfully (urlset)
+2026-08-19 11:36:47 | INFO | Successfully fetched 1 sitemap(s)
+2026-08-19 11:36:47 | INFO | Fetching sitemap for site root: https://jp.charmnap.com
+2026-08-19 11:36:47 | INFO | Processing 1 sitemap(s)...
+2026-08-19 11:36:47 | INFO | [1/1] Processing sitemap: https://jp.charmnap.com/ja/sitemap.xml
+2026-08-19 11:36:47 | INFO | Sitemap type: urlset
+2026-08-19 11:36:47 | INFO | Extracted 227 URLs
+2026-08-19 11:36:47 | INFO | Sitemap fetch complete
+2026-08-19 11:36:47 | INFO | Total sitemaps processed: 1
+2026-08-19 11:36:47 | INFO | Total URLs discovered: 227
+2026-08-19 11:36:47 | INFO | Sitemap location 1: https://jp.charmnap.com/ja/sitemap.xml
+2026-08-19 11:36:48 | INFO | Creating sample URLs...
+2026-08-19 11:36:48 | INFO | Total URLs in grouped data: 228
+2026-08-19 11:36:48 | INFO | Total URLs (228) <= 1000, using ALL URLs
+2026-08-19 11:36:48 | INFO | Created urls-sample.json with 228 URLs
+2026-08-19 11:36:48 | INFO | Validating urls-sample.json against schema...
+✅ VALIDATION PASSED: urls-sample.json matches schema
+2026-08-19 11:36:48 | INFO | Schema validation passed
+2026-08-19 11:36:48 | INFO | Sample creation complete - urls-sample.json with 228 URLs

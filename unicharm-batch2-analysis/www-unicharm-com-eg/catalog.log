@@ -1,0 +1,51 @@
+2026-08-19 11:39:11 | INFO | Redirect (301) → https://www.unicharm.com.eg/ar/home.html
+2026-08-19 11:39:12 | INFO | Checking root page for sitemap-like links...
+2026-08-19 11:39:12 | INFO | Redirect (301) → https://www.unicharm.com.eg/ar/home.html
+2026-08-19 11:39:12 | INFO | Found 1 sitemap-like candidate(s) on the root page
+2026-08-19 11:39:12 | INFO | Trying sitemap candidates...
+2026-08-19 11:39:12 | INFO | Trying sitemap candidate: https://www.unicharm.com.eg/sitemap.xml
+2026-08-19 11:39:12 | INFO | Redirect (301) → https://www.unicharm.com.eg/ar/home.html
+2026-08-19 11:39:12 | WARNING | Got 200 but not a valid sitemap. Preview: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"> <html lang="ar" dir="rtl" > <head prefix="og: http://ogp.me/ns#"> <meta http-equiv="Co...
+2026-08-19 11:39:12 | INFO | Trying sitemap candidate: https://www.unicharm.com.eg/sitemap.xml.gz
+2026-08-19 11:39:12 | INFO | Redirect (301) → https://www.unicharm.com.eg/ar/home.html
+2026-08-19 11:39:12 | WARNING | Got 200 but not a valid sitemap. Preview: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"> <html lang="ar" dir="rtl" > <head prefix="og: http://ogp.me/ns#"> <meta http-equiv="Co...
+2026-08-19 11:39:12 | INFO | Trying sitemap candidate: https://www.unicharm.com.eg/sitemap_index.xml
+2026-08-19 11:39:13 | INFO | Redirect (301) → https://www.unicharm.com.eg/ar/home.html
+2026-08-19 11:39:13 | WARNING | Got 200 but not a valid sitemap. Preview: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"> <html lang="ar" dir="rtl" > <head prefix="og: http://ogp.me/ns#"> <meta http-equiv="Co...
+2026-08-19 11:39:13 | INFO | Trying sitemap candidate: https://www.unicharm.com.eg/sitemap-index.xml
+2026-08-19 11:39:13 | INFO | Redirect (301) → https://www.unicharm.com.eg/ar/home.html
+2026-08-19 11:39:13 | WARNING | Got 200 but not a valid sitemap. Preview: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"> <html lang="ar" dir="rtl" > <head prefix="og: http://ogp.me/ns#"> <meta http-equiv="Co...
+2026-08-19 11:39:13 | INFO | Trying sitemap candidate: https://www.unicharm.com.eg/sitemap.txt
+2026-08-19 11:39:13 | INFO | Redirect (301) → https://www.unicharm.com.eg/ar/home.html
+2026-08-19 11:39:13 | WARNING | Got 200 but not a valid sitemap. Preview: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"> <html lang="ar" dir="rtl" > <head prefix="og: http://ogp.me/ns#"> <meta http-equiv="Co...
+2026-08-19 11:39:13 | INFO | Trying sitemap candidate: https://www.unicharm.com.eg/ar/site-map.html
+2026-08-19 11:39:13 | WARNING | Got 200 but not a valid sitemap. Preview: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"> <html lang="ar" dir="rtl" > <head prefix="og: http://ogp.me/ns#"> <meta http-equiv="Co...
+2026-08-19 11:39:13 | INFO | Checking robots.txt for sitemap references...
+2026-08-19 11:39:13 | INFO | Found 2 sitemap(s) in robots.txt
+2026-08-19 11:39:13 | INFO | Processing 2 unique sitemap(s) from robots.txt...
+2026-08-19 11:39:13 | INFO | [1/2] Fetching sitemap: https://www.unicharm.com.eg/ar/sitemap.xml
+2026-08-19 11:39:14 | INFO | Fetched sitemap successfully (urlset)
+2026-08-19 11:39:14 | INFO | [2/2] Fetching sitemap: https://www.unicharm.com.eg/en/sitemap.xml
+2026-08-19 11:39:14 | INFO | Fetched sitemap successfully (urlset)
+2026-08-19 11:39:14 | INFO | Successfully fetched 2 sitemap(s)
+2026-08-19 11:39:14 | INFO | Fetching sitemap for site root: https://www.unicharm.com.eg
+2026-08-19 11:39:14 | INFO | Processing 2 sitemap(s)...
+2026-08-19 11:39:14 | INFO | [1/2] Processing sitemap: https://www.unicharm.com.eg/ar/sitemap.xml
+2026-08-19 11:39:14 | INFO | Sitemap type: urlset
+2026-08-19 11:39:14 | INFO | Extracted 21 URLs
+2026-08-19 11:39:14 | INFO | [2/2] Processing sitemap: https://www.unicharm.com.eg/en/sitemap.xml
+2026-08-19 11:39:14 | INFO | Sitemap type: urlset
+2026-08-19 11:39:14 | INFO | Extracted 23 URLs
+2026-08-19 11:39:14 | INFO | Sitemap fetch complete
+2026-08-19 11:39:14 | INFO | Total sitemaps processed: 2
+2026-08-19 11:39:14 | INFO | Total URLs discovered: 44
+2026-08-19 11:39:14 | INFO | Sitemap location 1: https://www.unicharm.com.eg/ar/sitemap.xml
+2026-08-19 11:39:14 | INFO | Sitemap location 2: https://www.unicharm.com.eg/en/sitemap.xml
+2026-08-19 11:39:15 | INFO | Creating sample URLs...
+2026-08-19 11:39:15 | INFO | Total URLs in grouped data: 45
+2026-08-19 11:39:15 | INFO | Total URLs (45) <= 1000, using ALL URLs
+2026-08-19 11:39:15 | INFO | Created urls-sample.json with 45 URLs
+2026-08-19 11:39:15 | INFO | Validating urls-sample.json against schema...
+✅ VALIDATION PASSED: urls-sample.json matches schema
+2026-08-19 11:39:15 | INFO | Schema validation passed
+2026-08-19 11:39:15 | INFO | Sample creation complete - urls-sample.json with 45 URLs

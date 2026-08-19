@@ -1,0 +1,456 @@
+{
+  "analysis-urls-grouped": {
+    "captured": "2026-08-19T11:38:46.567Z",
+    "urlGroupings": 10,
+    "locales": {
+      "pt": 84,
+      "en": 45,
+      "unknown": 2
+    },
+    "groups": {
+      "/pt/company/news": {
+        "confidence": "85%",
+        "urls": [
+          {
+            "url": "https://www.unicharm.com.br/pt/company/news/2022"
+          },
+          {
+            "url": "http://www.unicharm.com.br/pt/company/news/2022"
+          }
+        ]
+      },
+      "/pt/contact-us": {
+        "confidence": "85%",
+        "urls": [
+          {
+            "url": "https://www.unicharm.com.br/pt/contact-us/qa1.html"
+          },
+          {
+            "url": "http://www.unicharm.com.br/pt/contact-us/qa1.html"
+          }
+        ]
+      },
+      "/pt/company": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://www.unicharm.com.br/pt/company/topmessage.html"
+          },
+          {
+            "url": "https://www.unicharm.com.br/pt/company/corporate-philosophy.html"
+          },
+          {
+            "url": "https://www.unicharm.com.br/pt/company/corporate-governance.html"
+          },
+          {
+            "url": "https://www.unicharm.com.br/pt/company/overview.html"
+          },
+          {
+            "url": "https://www.unicharm.com.br/pt/company/business-field.html"
+          },
+          {
+            "url": "https://www.unicharm.com.br/pt/company/office.html"
+          },
+          {
+            "url": "https://www.unicharm.com.br/pt/company/affiliate.html"
+          },
+          {
+            "url": "https://www.unicharm.com.br/pt/company/charmring.html"
+          },
+          {
+            "url": "https://www.unicharm.com.br/pt/company/lyp.html"
+          },
+          {
+            "url": "https://www.unicharm.com.br/pt/company/.html?anchor_link=anchor01"
+          },
+          {
+            "url": "https://www.unicharm.com.br/pt/company/.html?anchor_link=anchor02"
+          },
+          {
+            "url": "https://www.unicharm.com.br/pt/company/.html?anchor_link=anchor03"
+          },
+          {
+            "url": "https://www.unicharm.com.br/pt/company/.html?anchor_link=anchor04"
+          },
+          {
+            "url": "https://www.unicharm.com.br/pt/company/.html?anchor_link=anchor05"
+          },
+          {
+            "url": "https://www.unicharm.com.br/pt/company/.html?anchor_link=anchor06"
+          },
+          {
+            "url": "https://www.unicharm.com.br/pt/company/.html?anchor_link=anchor07"
+          },
+          {
+            "url": "https://www.unicharm.com.br/pt/company/.html?anchor_link=overview01"
+          },
+          {
+            "url": "https://www.unicharm.com.br/pt/company/.html?anchor_link=overview02"
+          },
+          {
+            "url": "https://www.unicharm.com.br/pt/company/.html?anchor_link=01"
+          },
+          {
+            "url": "https://www.unicharm.com.br/pt/company/.html?anchor_link=02"
+          },
+          {
+            "url": "https://www.unicharm.com.br/pt/company/.html?anchor_link=03"
+          },
+          {
+            "url": "https://www.unicharm.com.br/pt/company/.html?anchor_link=04"
+          },
+          {
+            "url": "https://www.unicharm.com.br/pt/company/.html?anchor_link=affiliate01"
+          },
+          {
+            "url": "https://www.unicharm.com.br/pt/company/.html?anchor_link=affiliate02"
+          },
+          {
+            "url": "https://www.unicharm.com.br/pt/company/.html?anchor_link=affiliate03"
+          },
+          {
+            "url": "https://www.unicharm.com.br/pt/company/safety.html"
+          },
+          {
+            "url": "http://www.unicharm.com.br/pt/company/topmessage.html"
+          },
+          {
+            "url": "http://www.unicharm.com.br/pt/company/corporate-philosophy.html"
+          },
+          {
+            "url": "http://www.unicharm.com.br/pt/company/corporate-governance.html"
+          },
+          {
+            "url": "http://www.unicharm.com.br/pt/company/overview.html"
+          },
+          {
+            "url": "http://www.unicharm.com.br/pt/company/business-field.html"
+          },
+          {
+            "url": "http://www.unicharm.com.br/pt/company/office.html"
+          },
+          {
+            "url": "http://www.unicharm.com.br/pt/company/affiliate.html"
+          },
+          {
+            "url": "http://www.unicharm.com.br/pt/company/charmring.html"
+          },
+          {
+            "url": "http://www.unicharm.com.br/pt/company/lyp.html"
+          },
+          {
+            "url": "http://www.unicharm.com.br/pt/company/.html?anchor_link=anchor01"
+          },
+          {
+            "url": "http://www.unicharm.com.br/pt/company/.html?anchor_link=anchor02"
+          },
+          {
+            "url": "http://www.unicharm.com.br/pt/company/.html?anchor_link=anchor03"
+          },
+          {
+            "url": "http://www.unicharm.com.br/pt/company/.html?anchor_link=anchor04"
+          },
+          {
+            "url": "http://www.unicharm.com.br/pt/company/.html?anchor_link=anchor05"
+          },
+          {
+            "url": "http://www.unicharm.com.br/pt/company/.html?anchor_link=anchor06"
+          },
+          {
+            "url": "http://www.unicharm.com.br/pt/company/.html?anchor_link=anchor07"
+          },
+          {
+            "url": "http://www.unicharm.com.br/pt/company/.html?anchor_link=overview01"
+          },
+          {
+            "url": "http://www.unicharm.com.br/pt/company/.html?anchor_link=overview02"
+          },
+          {
+            "url": "http://www.unicharm.com.br/pt/company/.html?anchor_link=01"
+          },
+          {
+            "url": "http://www.unicharm.com.br/pt/company/.html?anchor_link=02"
+          },
+          {
+            "url": "http://www.unicharm.com.br/pt/company/.html?anchor_link=03"
+          },
+          {
+            "url": "http://www.unicharm.com.br/pt/company/.html?anchor_link=04"
+          },
+          {
+            "url": "http://www.unicharm.com.br/pt/company/.html?anchor_link=affiliate01"
+          },
+          {
+            "url": "http://www.unicharm.com.br/pt/company/.html?anchor_link=affiliate02"
+          },
+          {
+            "url": "http://www.unicharm.com.br/pt/company/.html?anchor_link=affiliate03"
+          },
+          {
+            "url": "http://www.unicharm.com.br/pt/company/safety.html"
+          }
+        ]
+      },
+      "/pt/csr-eco": {
+        "confidence": "85%",
+        "urls": [
+          {
+            "url": "https://www.unicharm.com.br/pt/csr-eco/report.html"
+          },
+          {
+            "url": "https://www.unicharm.com.br/pt/csr-eco/education"
+          },
+          {
+            "url": "http://www.unicharm.com.br/pt/csr-eco/report.html"
+          },
+          {
+            "url": "http://www.unicharm.com.br/pt/csr-eco/education"
+          }
+        ]
+      },
+      "/pt/privacy-policy": {
+        "confidence": "85%",
+        "urls": [
+          {
+            "url": "https://www.unicharm.com.br/pt/privacy-policy/cookie.html"
+          },
+          {
+            "url": "http://www.unicharm.com.br/pt/privacy-policy/cookie.html"
+          }
+        ]
+      },
+      "/en/contact-us": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://www.unicharm.com.br/en/contact-us/qa1.html"
+          },
+          {
+            "url": "https://www.unicharm.com.br/en/contact-us/qa2.html"
+          },
+          {
+            "url": "https://www.unicharm.com.br/en/contact-us/qa3.html"
+          },
+          {
+            "url": "http://www.unicharm.com.br/en/contact-us/qa1.html"
+          },
+          {
+            "url": "http://www.unicharm.com.br/en/contact-us/qa2.html"
+          },
+          {
+            "url": "http://www.unicharm.com.br/en/contact-us/qa3.html"
+          }
+        ]
+      },
+      "/en/company": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://www.unicharm.com.br/en/company/topmessage.html"
+          },
+          {
+            "url": "https://www.unicharm.com.br/en/company/corporate-philosophy.html"
+          },
+          {
+            "url": "https://www.unicharm.com.br/en/company/corporate-governance.html"
+          },
+          {
+            "url": "https://www.unicharm.com.br/en/company/overview.html"
+          },
+          {
+            "url": "https://www.unicharm.com.br/en/company/business-field.html"
+          },
+          {
+            "url": "https://www.unicharm.com.br/en/company/office.html"
+          },
+          {
+            "url": "https://www.unicharm.com.br/en/company/affiliate.html"
+          },
+          {
+            "url": "https://www.unicharm.com.br/en/company/charmring.html"
+          },
+          {
+            "url": "https://www.unicharm.com.br/en/company/lyp.html"
+          },
+          {
+            "url": "http://www.unicharm.com.br/en/company/topmessage.html"
+          },
+          {
+            "url": "http://www.unicharm.com.br/en/company/corporate-philosophy.html"
+          },
+          {
+            "url": "http://www.unicharm.com.br/en/company/corporate-governance.html"
+          },
+          {
+            "url": "http://www.unicharm.com.br/en/company/overview.html"
+          },
+          {
+            "url": "http://www.unicharm.com.br/en/company/business-field.html"
+          },
+          {
+            "url": "http://www.unicharm.com.br/en/company/office.html"
+          },
+          {
+            "url": "http://www.unicharm.com.br/en/company/affiliate.html"
+          },
+          {
+            "url": "http://www.unicharm.com.br/en/company/charmring.html"
+          },
+          {
+            "url": "http://www.unicharm.com.br/en/company/lyp.html"
+          }
+        ]
+      },
+      "/pt": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://www.unicharm.com.br/pt/home.html"
+          },
+          {
+            "url": "https://www.unicharm.com.br/pt/global.html"
+          },
+          {
+            "url": "https://www.unicharm.com.br/pt/brand.html"
+          },
+          {
+            "url": "https://www.unicharm.com.br/pt/cm.html"
+          },
+          {
+            "url": "https://www.unicharm.com.br/pt/contact-us.html"
+          },
+          {
+            "url": "https://www.unicharm.com.br/pt/company.html"
+          },
+          {
+            "url": "https://www.unicharm.com.br/pt/csr-eco.html"
+          },
+          {
+            "url": "https://www.unicharm.com.br/pt/terms-of-use.html"
+          },
+          {
+            "url": "https://www.unicharm.com.br/pt/privacy-policy.html"
+          },
+          {
+            "url": "https://www.unicharm.com.br/pt/site-map.html"
+          },
+          {
+            "url": "https://www.unicharm.com.br/pt/responsibility.html"
+          },
+          {
+            "url": "http://www.unicharm.com.br/pt/home.html"
+          },
+          {
+            "url": "http://www.unicharm.com.br/pt/global.html"
+          },
+          {
+            "url": "http://www.unicharm.com.br/pt/brand.html"
+          },
+          {
+            "url": "http://www.unicharm.com.br/pt/cm.html"
+          },
+          {
+            "url": "http://www.unicharm.com.br/pt/contact-us.html"
+          },
+          {
+            "url": "http://www.unicharm.com.br/pt/company.html"
+          },
+          {
+            "url": "http://www.unicharm.com.br/pt/csr-eco.html"
+          },
+          {
+            "url": "http://www.unicharm.com.br/pt/terms-of-use.html"
+          },
+          {
+            "url": "http://www.unicharm.com.br/pt/privacy-policy.html"
+          },
+          {
+            "url": "http://www.unicharm.com.br/pt/site-map.html"
+          },
+          {
+            "url": "http://www.unicharm.com.br/pt/responsibility.html"
+          }
+        ]
+      },
+      "/en": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://www.unicharm.com.br/en/home.html"
+          },
+          {
+            "url": "https://www.unicharm.com.br/en/global.html"
+          },
+          {
+            "url": "https://www.unicharm.com.br/en/brand.html"
+          },
+          {
+            "url": "https://www.unicharm.com.br/en/contact-us.html"
+          },
+          {
+            "url": "https://www.unicharm.com.br/en/company.html"
+          },
+          {
+            "url": "https://www.unicharm.com.br/en/csr-eco.html"
+          },
+          {
+            "url": "https://www.unicharm.com.br/en/recruit.html"
+          },
+          {
+            "url": "https://www.unicharm.com.br/en/terms-of-use.html"
+          },
+          {
+            "url": "https://www.unicharm.com.br/en/privacy-policy.html"
+          },
+          {
+            "url": "https://www.unicharm.com.br/en/site-map.html"
+          },
+          {
+            "url": "http://www.unicharm.com.br/en/home.html"
+          },
+          {
+            "url": "http://www.unicharm.com.br/en/global.html"
+          },
+          {
+            "url": "http://www.unicharm.com.br/en/brand.html"
+          },
+          {
+            "url": "http://www.unicharm.com.br/en/contact-us.html"
+          },
+          {
+            "url": "http://www.unicharm.com.br/en/company.html"
+          },
+          {
+            "url": "http://www.unicharm.com.br/en/csr-eco.html"
+          },
+          {
+            "url": "http://www.unicharm.com.br/en/recruit.html"
+          },
+          {
+            "url": "http://www.unicharm.com.br/en/terms-of-use.html"
+          },
+          {
+            "url": "http://www.unicharm.com.br/en/privacy-policy.html"
+          },
+          {
+            "url": "http://www.unicharm.com.br/en/site-map.html"
+          },
+          {
+            "url": "https://www.unicharm.com.br/en/privacy-policy/cookie.html"
+          }
+        ]
+      },
+      "/": {
+        "confidence": "85%",
+        "urls": [
+          {
+            "url": "https://www.unicharm.com.br/"
+          },
+          {
+            "url": "http://www.unicharm.com.br/"
+          }
+        ]
+      }
+    }
+  }
+}

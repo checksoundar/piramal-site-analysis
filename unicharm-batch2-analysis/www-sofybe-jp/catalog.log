@@ -1,0 +1,43 @@
+2026-08-19 11:39:03 | INFO | Redirect (301) → https://www.sofybe.jp/ja/home.html
+2026-08-19 11:39:04 | INFO | Checking root page for sitemap-like links...
+2026-08-19 11:39:04 | INFO | Redirect (301) → https://www.sofybe.jp/ja/home.html
+2026-08-19 11:39:04 | INFO | Trying sitemap candidates...
+2026-08-19 11:39:04 | INFO | Trying sitemap candidate: https://www.sofybe.jp/sitemap.xml
+2026-08-19 11:39:04 | WARNING | HTTP status: 404
+2026-08-19 11:39:04 | INFO | Trying sitemap candidate: https://www.sofybe.jp/sitemap.xml.gz
+2026-08-19 11:39:04 | WARNING | HTTP status: 404
+2026-08-19 11:39:04 | INFO | Trying sitemap candidate: https://www.sofybe.jp/sitemap_index.xml
+2026-08-19 11:39:05 | WARNING | HTTP status: 404
+2026-08-19 11:39:05 | INFO | Trying sitemap candidate: https://www.sofybe.jp/sitemap-index.xml
+2026-08-19 11:39:05 | WARNING | HTTP status: 404
+2026-08-19 11:39:05 | INFO | Trying sitemap candidate: https://www.sofybe.jp/sitemap.txt
+2026-08-19 11:39:05 | WARNING | HTTP status: 404
+2026-08-19 11:39:05 | INFO | Checking robots.txt for sitemap references...
+2026-08-19 11:39:06 | INFO | Found 2 sitemap(s) in robots.txt
+2026-08-19 11:39:06 | INFO | Processing 2 unique sitemap(s) from robots.txt...
+2026-08-19 11:39:06 | INFO | [1/2] Fetching sitemap: https://www.sofybe.jp/ja/sitemap.xml
+2026-08-19 11:39:06 | INFO | Fetched sitemap successfully (urlset)
+2026-08-19 11:39:06 | INFO | [2/2] Fetching sitemap: https://www.sofybe.jp/en/sitemap.xml
+2026-08-19 11:39:06 | INFO | Fetched sitemap successfully (urlset)
+2026-08-19 11:39:06 | INFO | Successfully fetched 2 sitemap(s)
+2026-08-19 11:39:06 | INFO | Fetching sitemap for site root: https://www.sofybe.jp
+2026-08-19 11:39:06 | INFO | Processing 2 sitemap(s)...
+2026-08-19 11:39:06 | INFO | [1/2] Processing sitemap: https://www.sofybe.jp/ja/sitemap.xml
+2026-08-19 11:39:06 | INFO | Sitemap type: urlset
+2026-08-19 11:39:06 | INFO | Extracted 4 URLs
+2026-08-19 11:39:06 | INFO | [2/2] Processing sitemap: https://www.sofybe.jp/en/sitemap.xml
+2026-08-19 11:39:06 | INFO | Sitemap type: urlset
+2026-08-19 11:39:06 | INFO | Extracted 0 URLs
+2026-08-19 11:39:06 | INFO | Sitemap fetch complete
+2026-08-19 11:39:06 | INFO | Total sitemaps processed: 2
+2026-08-19 11:39:06 | INFO | Total URLs discovered: 4
+2026-08-19 11:39:06 | INFO | Sitemap location 1: https://www.sofybe.jp/ja/sitemap.xml
+2026-08-19 11:39:06 | INFO | Sitemap location 2: https://www.sofybe.jp/en/sitemap.xml
+2026-08-19 11:39:07 | INFO | Creating sample URLs...
+2026-08-19 11:39:07 | INFO | Total URLs in grouped data: 5
+2026-08-19 11:39:07 | INFO | Total URLs (5) <= 1000, using ALL URLs
+2026-08-19 11:39:07 | INFO | Created urls-sample.json with 5 URLs
+2026-08-19 11:39:07 | INFO | Validating urls-sample.json against schema...
+✅ VALIDATION PASSED: urls-sample.json matches schema
+2026-08-19 11:39:07 | INFO | Schema validation passed
+2026-08-19 11:39:07 | INFO | Sample creation complete - urls-sample.json with 5 URLs

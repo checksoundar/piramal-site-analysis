@@ -1,0 +1,46 @@
+2026-08-19 11:45:13 | INFO | Redirect (301) → https://www.torepanman.jp/ja/home.html
+2026-08-19 11:45:14 | INFO | Checking root page for sitemap-like links...
+2026-08-19 11:45:14 | INFO | Redirect (301) → https://www.torepanman.jp/ja/home.html
+2026-08-19 11:45:14 | INFO | Found 1 sitemap-like candidate(s) on the root page
+2026-08-19 11:45:14 | INFO | Trying sitemap candidates...
+2026-08-19 11:45:14 | INFO | Trying sitemap candidate: https://www.torepanman.jp/sitemap.xml
+2026-08-19 11:45:14 | WARNING | HTTP status: 404
+2026-08-19 11:45:14 | INFO | Trying sitemap candidate: https://www.torepanman.jp/sitemap.xml.gz
+2026-08-19 11:45:15 | WARNING | HTTP status: 404
+2026-08-19 11:45:15 | INFO | Trying sitemap candidate: https://www.torepanman.jp/sitemap_index.xml
+2026-08-19 11:45:15 | WARNING | HTTP status: 404
+2026-08-19 11:45:15 | INFO | Trying sitemap candidate: https://www.torepanman.jp/sitemap-index.xml
+2026-08-19 11:45:15 | WARNING | HTTP status: 404
+2026-08-19 11:45:15 | INFO | Trying sitemap candidate: https://www.torepanman.jp/sitemap.txt
+2026-08-19 11:45:15 | WARNING | HTTP status: 404
+2026-08-19 11:45:15 | INFO | Trying sitemap candidate: https://www.torepanman.jp/ja/site-map.html
+2026-08-19 11:45:15 | WARNING | Got 200 but not a valid sitemap. Preview: <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"> <html lang="ja" > <head prefix="og: http://ogp.me/ns#"> <meta http-equiv="Content-Type...
+2026-08-19 11:45:15 | INFO | Checking robots.txt for sitemap references...
+2026-08-19 11:45:16 | INFO | Found 2 sitemap(s) in robots.txt
+2026-08-19 11:45:16 | INFO | Processing 2 unique sitemap(s) from robots.txt...
+2026-08-19 11:45:16 | INFO | [1/2] Fetching sitemap: https://www.torepanman.jp/ja/sitemap.xml
+2026-08-19 11:45:16 | INFO | Fetched sitemap successfully (urlset)
+2026-08-19 11:45:16 | INFO | [2/2] Fetching sitemap: https://www.torepanman.jp/en/sitemap.xml
+2026-08-19 11:45:16 | INFO | Fetched sitemap successfully (urlset)
+2026-08-19 11:45:16 | INFO | Successfully fetched 2 sitemap(s)
+2026-08-19 11:45:16 | INFO | Fetching sitemap for site root: https://www.torepanman.jp
+2026-08-19 11:45:16 | INFO | Processing 2 sitemap(s)...
+2026-08-19 11:45:16 | INFO | [1/2] Processing sitemap: https://www.torepanman.jp/ja/sitemap.xml
+2026-08-19 11:45:16 | INFO | Sitemap type: urlset
+2026-08-19 11:45:16 | INFO | Extracted 22 URLs
+2026-08-19 11:45:16 | INFO | [2/2] Processing sitemap: https://www.torepanman.jp/en/sitemap.xml
+2026-08-19 11:45:16 | INFO | Sitemap type: urlset
+2026-08-19 11:45:16 | INFO | Extracted 2 URLs
+2026-08-19 11:45:16 | INFO | Sitemap fetch complete
+2026-08-19 11:45:16 | INFO | Total sitemaps processed: 2
+2026-08-19 11:45:16 | INFO | Total URLs discovered: 24
+2026-08-19 11:45:16 | INFO | Sitemap location 1: https://www.torepanman.jp/ja/sitemap.xml
+2026-08-19 11:45:16 | INFO | Sitemap location 2: https://www.torepanman.jp/en/sitemap.xml
+2026-08-19 11:45:17 | INFO | Creating sample URLs...
+2026-08-19 11:45:17 | INFO | Total URLs in grouped data: 25
+2026-08-19 11:45:17 | INFO | Total URLs (25) <= 1000, using ALL URLs
+2026-08-19 11:45:17 | INFO | Created urls-sample.json with 25 URLs
+2026-08-19 11:45:17 | INFO | Validating urls-sample.json against schema...
+✅ VALIDATION PASSED: urls-sample.json matches schema
+2026-08-19 11:45:17 | INFO | Schema validation passed
+2026-08-19 11:45:17 | INFO | Sample creation complete - urls-sample.json with 25 URLs

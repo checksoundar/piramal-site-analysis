@@ -1,0 +1,47 @@
+{
+  "queue": [],
+  "visited": [
+    "https://my.unicharmpet.com/",
+    "https://my.unicharmpet.com/en/home",
+    "https://my.unicharmpet.com/en/deotoilet/home.html",
+    "https://my.unicharmpet.com/en/global.html",
+    "https://my.unicharmpet.com/en/home.html"
+  ],
+  "urls": [
+    {
+      "url": "https://my.unicharmpet.com/",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://my.unicharmpet.com/en/home.html"
+    },
+    {
+      "url": "https://my.unicharmpet.com/en/home",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://my.unicharmpet.com/en/home.html"
+    },
+    {
+      "url": "https://my.unicharmpet.com/en/deotoilet/home.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://my.unicharmpet.com/en/deotoilet/home.html"
+    },
+    {
+      "url": "https://my.unicharmpet.com/en/global.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://my.unicharmpet.com/en/global.html"
+    },
+    {
+      "url": "https://my.unicharmpet.com/en/home.html",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://my.unicharmpet.com/en/home.html"
+    }
+  ]
+}

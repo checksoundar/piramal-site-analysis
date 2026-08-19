@@ -1,0 +1,697 @@
+{
+  "analysis-urls-all": {
+    "captured": "2026-08-19T11:36:55.941Z",
+    "totalUrls": 227,
+    "totalDocuments": 0,
+    "method": "sitemap",
+    "sitemapURL": "/zh-tw/sitemap.xml",
+    "robotsTxtFound": false,
+    "robotsTxtRulesApplied": false,
+    "limitations": "",
+    "confidence": "95%",
+    "urls": [
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/home.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/product-new.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/product-type.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/product-keyword.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/super-night.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/super-night/night_general_type_28.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/super-night/night_general_type_35.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/super-night/night_general_type_41_5.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/super-night/night_general_type_42.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/super-night-slim.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/super-night-slim/night_slim_28.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/super-night-slim/night_slim_35.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/super-night-slim/night_slim_41_5.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/super-night-soft.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/bf.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/bf/bf_slim_17-5.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/bf/bf_slim_23.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/bf/bf_slim_night_28.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/bf/bf_ant_23.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/bf/bf_ant_night_28.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/bf/bf_verythin_23.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/bf/bf_ordinary_23.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/bf/bf_slim_sg.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/bf/bf_slim_26.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/wk.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/wk/wk_less_amount.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/wk/wk_slim.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/wk/wk_slim_lengthen.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/wk/wk_slim_night_29.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/wk/wk_slim_0_1_23.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/gf.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/gf/gf_daytime_25.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/gf/gf_night_29.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/np.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/np/np_23.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/np/np_29.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/np/np_35.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/np/np_cuke_23.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/np/np_cuke_25.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/np/np_cuke_29.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/np/np_cham_23.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/np/np_25.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/np/np_cuke_35.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/np/np_EXcool_25.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/np/np_EXcool_23.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/airfit.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/airfit/airfit_notfragrant_25.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/airfit/airfit_notfragrant_30.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/gf_liner.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/gf_liner/gf_liner_15_5.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/gf_liner/gf_liner_17_5.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/aroma_liner.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/aroma_liner/aroma_fresh.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/aroma_liner/aroma_rose.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/aroma_liner/aroma_elegant.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/aroma_liner/aroma_floral.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/aroma_liner/aroma_story.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/aroma_liner/aroma_quiet.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/np_liner.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/np_liner/np_liner_14.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/np_liner/np_liner_cuke_14.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/np_liner/np_liner_17_5.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/np_liner/np_liner_cuke_17_5.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/gentle_liner.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/gentle_liner/gentle_liner_notfragrant.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/bf_liner.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/bf_liner/bf_liner_wing_17_5.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/bf_liner/bf_liner_nowing_17_5.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/bf_liner/bf_liner_nowing_15_5.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/bf_liner/bf_liner_ant_17_5.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/melody_liner.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/melody_liner/melody_liner_15_5.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/melody_liner/melody_liner_14.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/super-night-underpants.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/super-night-underpants/night_underpants_m.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/super-night-underpants/night_underpants_l.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/super-night-underpants/night_underpants_xl.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/super-night-underpants/night_underpants_sheabutter_m.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/super-night-underpants/night_underpants_sheabutter_l.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/super-night-underpants/night_underpants_herb_m.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/super-night-underpants/night_underpants_herb_l.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/super-night-underpants/night_underpants_herb_xl.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/super-night-underpants/night_underpants_cold_l.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/super-night-underpants/night_underpants_cold_xl.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/sliver.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/sliver/tss.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/sliver/guide.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/sliver/precautions.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/sliver/sliver_catheter_general.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/sliver/sliver_catheter_less.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/sliver/sliver_catheter_numerous.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/sliver/sliver_catheter_glut.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/sliver/sliver_catheter_deft_general.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/sliver/sliver_catheter_deft_numerous.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/sliver/sliver_cotton_01.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/sliver/sliver_cotton_02.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/sliver/sliver_cotton_03.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/super-night-herb.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/super-night-herb/night_herb_28.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/super-night-herb/night_herb_35.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/super-night-herb/night_herb_slim_28.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/super-night-herb/night_herb_slim_35.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/wk_gf.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/wk_gf/wk_herb_23.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/wk_gf/wk_herb_29.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/wk_gf/wk_gaia.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/wk_gf/wk_herb_26.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/wk_oc.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/wk_oc/wk_oc_23.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/wk_oc/wk_oc_26.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/wk_liner.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/wk_liner/wk_liner_14.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/wk_liner/wk_liner_17_5.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/super-daytime.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/super-daytime/daytime_m.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/super-daytime/daytime_l.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/super-daytime/daytime_xl.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/wk_caia.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/wk_caia/wk_caia_23.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/wk_caia/wk_caia_26.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/super-night-collection.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/super-night-PlayColor.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/super-night-PlayColor/night_PlayColor_m.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/super-night-PlayColor/night_PlayColor_l.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/products/super-night-PlayColor/night_PlayColor_xl.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/video.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/brandactivity.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/brandactivity/cable_like.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/brandactivity/active_260529.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/about.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/about/history.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/about/csr.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/about/csr/csr-001.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/about/csr/csr-002.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/about/csr/csr-003.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/about/csr/csr-004.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/about/csr/csr-005.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/about/csr/csr-006.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/about/about_rabbit.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/about/about_rabbit/download_01.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/about/about_rabbit/download_02.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/about/about_rabbit/download_03.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/about/about_rabbit/download_04.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/about/about_rabbit/download_05.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/about/about_rabbit/download_06.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/about/about_rabbit/download_07.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/about/about_rabbit/download_08.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/about/about_rabbit/download_09.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/about/about_rabbit/download_10.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/advice.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/advice/keyword-result.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/advice/pre-period.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/advice/pre-period/04.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/advice/pre-period/03.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/advice/pre-period/01.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/advice/pre-period/02.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/advice/pre-period/05.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/advice/during-period.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/advice/during-period/17.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/advice/during-period/06.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/advice/during-period/07.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/advice/during-period/09.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/advice/during-period/08.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/advice/during-period/01.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/advice/during-period/02.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/advice/during-period/03.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/advice/during-period/04.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/advice/during-period/05.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/advice/during-period/14.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/advice/during-period/26.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/advice/during-period/28.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/advice/during-period/29.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/advice/during-period/30.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/advice/during-period/31.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/advice/during-period/33.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/advice/during-period/25.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/advice/during-period/39.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/advice/during-period/40.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/advice/during-period/41.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/advice/during-period/42.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/advice/during-period/43.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/advice/during-period/44.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/advice/womens-diseases.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/advice/womens-diseases/09.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/advice/womens-diseases/12.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/advice/womens-diseases/05.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/advice/womens-diseases/06.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/advice/womens-diseases/07.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/advice/womens-diseases/08.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/advice/womens-diseases/01.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/advice/womens-diseases/02.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/advice/womens-diseases/03.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/advice/womens-diseases/10.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/advice/womens-diseases/04.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/advice/womens-diseases/11.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/advice/womens-diseases/13.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/advice/period-changes.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/advice/period-changes/11.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/advice/period-changes/04.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/advice/period-changes/09.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/advice/period-changes/02.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/advice/period-changes/03.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/advice/10s.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/calendar.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/sofyaile.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/sofyaile/product/aile_cn_10cc.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/sofyaile/product/aile_cn_3cc.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/sofyaile/product/aile_cn_15cc.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/sofyaile/product/aile_cn_50cc.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/sofyaile/product/aile_cn_70cc.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/sofyaile/product/aile_cn_150cc.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/sofyaile/product/aile_cn_30cc.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/sofyaile/column/column_01.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/sofyaile/column/column_01/column_01_female-incontinence.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/sofyaile/column/column_02.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/sofyaile/column/column_03.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/sofyaile/column/column_03/column_03_situation.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/sofyaile/column/column_03/column_03_knowledge.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/sofyaile/column/column_03/column_03_PPI.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/sofyaile/column/column_04.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/sofyaile/column/column_04/column_04_ICpads.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/sofyaile/column/column_04/column_04_experience.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/sofyaile/column/column_05.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/sofyaile/column/column_05/column_05_kegel.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/sofyaile/about.html"
+      },
+      {
+        "url": "https://www.sofy.com.tw/zh-tw/global.html"
+      }
+    ],
+    "documents": []
+  }
+}

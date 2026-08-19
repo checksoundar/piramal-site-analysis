@@ -1,0 +1,40 @@
+{
+  "urls-sample": {
+    "captured": "2026-08-19T11:39:02.972Z",
+    "totalUrls": 10,
+    "createdBy": "create-sample.js",
+    "samplingMethod": "all-urls",
+    "urls": [
+      {
+        "url": "https://vn.mamypoko.com/vi/products/mpp-l-xxxl.html"
+      },
+      {
+        "url": "https://vn.mamypoko.com/vi/products/search.html"
+      },
+      {
+        "url": "https://vn.mamypoko.com/vi/home.html"
+      },
+      {
+        "url": "https://vn.mamypoko.com/vi/about.html"
+      },
+      {
+        "url": "https://vn.mamypoko.com/vi/products.html"
+      },
+      {
+        "url": "https://vn.mamypoko.com/vi/news.html"
+      },
+      {
+        "url": "https://vn.mamypoko.com/vi/contact.html"
+      },
+      {
+        "url": "https://vn.mamypoko.com/vi/site-map.html"
+      },
+      {
+        "url": "https://vn.mamypoko.com/vi/news/03102017.html"
+      },
+      {
+        "url": "https://vn.mamypoko.com/"
+      }
+    ]
+  }
+}

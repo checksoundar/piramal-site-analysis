@@ -1,0 +1,265 @@
+{
+  "analysis-urls-all": {
+    "captured": "2026-08-19T11:40:24.745Z",
+    "totalUrls": 83,
+    "totalDocuments": 0,
+    "method": "sitemap",
+    "sitemapURL": "/id/sitemap.xml",
+    "robotsTxtFound": false,
+    "robotsTxtRulesApplied": false,
+    "limitations": "",
+    "confidence": "95%",
+    "urls": [
+      {
+        "url": "https://www.charm.co.id/id/home.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/products.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/products/type.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/products/extracomfort.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/products/extracomfort/1206145_12864.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/products/extracomfort/1206140_12864.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/products/extracomfort/d23_wing.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/products/extracomfort/d23_non_wing.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/products/safenight.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/products/safenight/n35_pelindung.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/products/safenight/n42_pelindung.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/products/safenight/n35_wing.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/products/safenight/n29_wing.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/products/bodyfit.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/products/bodyfit/d23_maxi_wing.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/products/bodyfit/d23_maxi_non_wing.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/products/extradry.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/products/extradry/d23_wing_dry.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/products/extradry/d25_wing_dry.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/products/extradry/n29_wing_dry.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/products/longwide.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/products/longwide/lw_Abfit_brea_perfu.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/products/longwide/lw_Abfit_brea_non_perfu.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/products/product-new.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/products/slimprotect.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/products/slimprotect/d23_slim_wing.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/products/slimprotect/d26_slim_wing.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/products/coolingfresh.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/products/coolingfresh/d23_wing_cool.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/products/coolingfresh/d23_sejuk_cool.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/products/coolingfresh/d23_non_wing_cool.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/products/coolingfresh/d26_wing_cool.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/products/coolingfresh/d26_sejuk_cool.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/products/coolingfresh/n29_wing_cool.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/products/coolingfresh/n35_wing_cool.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/products/coolingfresh/n42_wing_cool.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/products/pantylinercoolingfresh.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/products/pantylinercoolingfresh/pantyliner_slim.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/products/pantylinercoolingfresh/pantyliner_LW.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/products/sleepprotect.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/products/sleepprotect/panties.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/products/activefresh.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/products/quickfresh.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/products/quickfresh/qf_non_perfu.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/products/daunsirihplusherbal.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/products/pantylinerdaunsirih.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/brandactivity.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/brandactivity/charm_safe_night.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/brandactivity/CHARM_EXTRA_MAXI_WING_versi_SEPAK_BOLA_60_S.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/brandactivity/CHARM_EXTRA_MAXI_WING_versi_KICKBOXING_60_S.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/brandactivity/Charm_EXTRA_MAXI_WING_versi_Asian_Para_Games_2018_60_second.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/brandactivity/Charm_Safe_Night-Ada_Apa_Dengan_Chelsea.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/brandactivity/peduli_kanker_payudara_bersama_charm.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/brandactivity/charm_mengajak_peduli_kanker_payudara.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/brandactivity/testimonial_charm_sleep_protect_panties.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/brandactivity/charm_daun_sirih_plus_herbal_bio_material.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/brandactivity/charm_dukung_perempuan_indonesia_ekspresikan_diri_tanpa_henti.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/brandactivity/mari_lakukan_kebaikan_kecil_bersama_charm_2025.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/brandactivity/mari_lakukan_kebaikan_kecil_bersama_charm_2024.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/brandactivity/charm_dukung_ayo_sadari_setelah_menstruasi.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/video.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/advice.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/advice/period/01.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/advice/period/02.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/advice/period/03.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/advice/period/04.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/advice/period/05.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/advice/period/06.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/advice/period/07.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/advice/period/08.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/advice/period/09.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/advice/reproduction/01.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/advice/reproduction/02.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/advice/reproduction/03.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/advice/activities/01.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/advice/activities/02.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/advice/activities/03.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/advice/10s-20s.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/advice/30s-40s.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/advice/keyword-result.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/advice/mei_yoshikawa.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/site-map.html"
+      },
+      {
+        "url": "https://www.charm.co.id/id/global.html"
+      }
+    ],
+    "documents": []
+  }
+}

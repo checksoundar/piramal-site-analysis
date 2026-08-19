@@ -1,0 +1,195 @@
+{
+  "analysis-urls-grouped": {
+    "captured": "2026-08-19T11:38:53.809Z",
+    "urlGroupings": 9,
+    "locales": {
+      "vi": 45,
+      "unknown": 1
+    },
+    "groups": {
+      "/vi/products/ta-quan": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://vn.moony.com/vi/products/ta-quan/ta-quan-moony-mizuasobi.html"
+          },
+          {
+            "url": "https://vn.moony.com/vi/products/ta-quan/ta-quan-moony-size-m-bim-quan-moony-size-m.html"
+          },
+          {
+            "url": "https://vn.moony.com/vi/products/ta-quan/ta-quan-moony-size-l-bim-quan-moony-size-l.html"
+          },
+          {
+            "url": "https://vn.moony.com/vi/products/ta-quan/ta-quan-moony-size-xl-bim-quan-moony-size-xl.html"
+          },
+          {
+            "url": "https://vn.moony.com/vi/products/ta-quan/ta-quan-moony-size-xxl-bim-quan-moony-size-xxl.html"
+          },
+          {
+            "url": "https://vn.moony.com/vi/products/ta-quan/ta-quan-moony-size-xxxl-bim-quan-moony-size-xxxl.html"
+          }
+        ]
+      },
+      "/vi/products/ta-natural": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://vn.moony.com/vi/products/ta-natural/ta-dan-natural-cho-tre-so-sinh.html"
+          },
+          {
+            "url": "https://vn.moony.com/vi/products/ta-natural/ta-dan-natural-size-s-bim-dan-natural-size-s.html"
+          },
+          {
+            "url": "https://vn.moony.com/vi/products/ta-natural/ta-dan-natural-size-m-bim-dan-natural-size-m.html"
+          },
+          {
+            "url": "https://vn.moony.com/vi/products/ta-natural/ta-dan-natural-size-l-bim-dan-natural-size-l.html"
+          },
+          {
+            "url": "https://vn.moony.com/vi/products/ta-natural/ta-quan-natural-size-m-bim-quan-natural-size-m.html"
+          }
+        ]
+      },
+      "/vi/products/ta-dan": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://vn.moony.com/vi/products/ta-dan/ta-dan-moony-size-3s-bim-dan-moony-size-3s.html"
+          },
+          {
+            "url": "https://vn.moony.com/vi/products/ta-dan/ta-dan-cho-tre-so-sinh.html"
+          },
+          {
+            "url": "https://vn.moony.com/vi/products/ta-dan/ta-dan-moony-size-s-bim-dan-moony-size-s.html"
+          },
+          {
+            "url": "https://vn.moony.com/vi/products/ta-dan/ta-dan-moony-size-m-bim-dan-moony-size-m.html"
+          },
+          {
+            "url": "https://vn.moony.com/vi/products/ta-dan/ta-dan-moony-size-l-bim-dan-moony-size-l.html"
+          }
+        ]
+      },
+      "/vi/products/ta-diu-nhe": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://vn.moony.com/vi/products/ta-diu-nhe/ta-dan-natural-cho-tre-so-sinh.html"
+          },
+          {
+            "url": "https://vn.moony.com/vi/products/ta-diu-nhe/ta-dan-natural-size-s-bim-dan-natural-size-s.html"
+          },
+          {
+            "url": "https://vn.moony.com/vi/products/ta-diu-nhe/ta-dan-natural-size-m-bim-dan-natural-size-m.html"
+          },
+          {
+            "url": "https://vn.moony.com/vi/products/ta-diu-nhe/ta-dan-natural-size-l-bim-dan-natural-size-l.html"
+          },
+          {
+            "url": "https://vn.moony.com/vi/products/ta-diu-nhe/ta-quan-natural-size-m-bim-quan-natural-size-m.html"
+          },
+          {
+            "url": "https://vn.moony.com/vi/products/ta-diu-nhe/ta-quan-natural-size-l-bim-quan-natural-size-l.html"
+          },
+          {
+            "url": "https://vn.moony.com/vi/products/ta-diu-nhe/ta-quan-natural-size-xl-bim-quan-natural-size-xl.html"
+          }
+        ]
+      },
+      "/vi/products": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://vn.moony.com/vi/products/ta-diu-nhe.html"
+          },
+          {
+            "url": "https://vn.moony.com/vi/products/ta-dan.html"
+          },
+          {
+            "url": "https://vn.moony.com/vi/products/ta-quan.html"
+          },
+          {
+            "url": "https://vn.moony.com/vi/products/san-pham-cham-soc-cho-me.html"
+          },
+          {
+            "url": "https://vn.moony.com/vi/products/tim-kiem-cac-loai-ta-bim-to-cho-be-tre-so-sinh.html"
+          },
+          {
+            "url": "https://vn.moony.com/vi/products/san-pham-cham-soc-cho-me/mieng-lot-tham-sua.html"
+          }
+        ]
+      },
+      "/vi/brand": {
+        "confidence": "85%",
+        "urls": [
+          {
+            "url": "https://vn.moony.com/vi/brand/nhung-cong-hien-tu-nhan-hang-moony.html"
+          },
+          {
+            "url": "https://vn.moony.com/vi/brand/lich-su-moony.html"
+          }
+        ]
+      },
+      "/vi/diapers": {
+        "confidence": "85%",
+        "urls": [
+          {
+            "url": "https://vn.moony.com/vi/diapers/bim-nhat-moony-thiet-ke-em-dem-vua-van.html"
+          },
+          {
+            "url": "https://vn.moony.com/vi/diapers/ta-em-be-voi-thiet-ke-thoang-khi.html"
+          },
+          {
+            "url": "https://vn.moony.com/vi/diapers/sakaguchi-nguoi-phat-trien-san-pham-ta-moony.html"
+          },
+          {
+            "url": "https://vn.moony.com/vi/diapers/hasimoto-nguoi-phat-trien-san-pham-ta-moony.html"
+          }
+        ]
+      },
+      "/vi": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://vn.moony.com/vi/home.html"
+          },
+          {
+            "url": "https://vn.moony.com/vi/shop.html"
+          },
+          {
+            "url": "https://vn.moony.com/vi/products.html"
+          },
+          {
+            "url": "https://vn.moony.com/vi/diapers.html"
+          },
+          {
+            "url": "https://vn.moony.com/vi/brand.html"
+          },
+          {
+            "url": "https://vn.moony.com/vi/cm.html"
+          },
+          {
+            "url": "https://vn.moony.com/vi/site-map.html"
+          },
+          {
+            "url": "https://vn.moony.com/vi/global.html"
+          },
+          {
+            "url": "https://vn.moony.com/vi/home.html?utm_source=uc&utm_medium=lp&utm_campaign=global"
+          },
+          {
+            "url": "https://vn.moony.com/vi/tips/taiken45-01"
+          }
+        ]
+      },
+      "/": {
+        "confidence": "100%",
+        "urls": [
+          {
+            "url": "https://vn.moony.com/"
+          }
+        ]
+      }
+    }
+  }
+}

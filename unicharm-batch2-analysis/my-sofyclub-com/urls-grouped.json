@@ -1,0 +1,372 @@
+{
+  "analysis-urls-grouped": {
+    "captured": "2026-08-19T11:36:42.420Z",
+    "urlGroupings": 18,
+    "locales": {
+      "en": 89,
+      "unknown": 1
+    },
+    "groups": {
+      "/en/products/bodyfitcn": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://my.sofyclub.com/en/products/bodyfitcn/1193580_5228.html"
+          },
+          {
+            "url": "https://my.sofyclub.com/en/products/bodyfitcn/1193581_5228.html"
+          },
+          {
+            "url": "https://my.sofyclub.com/en/products/bodyfitcn/1193582_5228.html"
+          },
+          {
+            "url": "https://my.sofyclub.com/en/products/bodyfitcn/1200126_5228.html"
+          },
+          {
+            "url": "https://my.sofyclub.com/en/products/bodyfitcn/1200125_5228.html"
+          },
+          {
+            "url": "https://my.sofyclub.com/en/products/bodyfitcn/1200124_5228.html"
+          },
+          {
+            "url": "https://my.sofyclub.com/en/products/bodyfitcn/antibac_35.html"
+          },
+          {
+            "url": "https://my.sofyclub.com/en/products/bodyfitcn/antibac_42.html"
+          },
+          {
+            "url": "https://my.sofyclub.com/en/products/bodyfitcn/1193583_5228.html"
+          }
+        ]
+      },
+      "/en/products/extradry": {
+        "confidence": "85%",
+        "urls": [
+          {
+            "url": "https://my.sofyclub.com/en/products/extradry/1196806_5179.html"
+          },
+          {
+            "url": "https://my.sofyclub.com/en/products/extradry/1196807_5179.html"
+          },
+          {
+            "url": "https://my.sofyclub.com/en/products/extradry/1196808_5179.html"
+          }
+        ]
+      },
+      "/en/products/bodyfit": {
+        "confidence": "85%",
+        "urls": [
+          {
+            "url": "https://my.sofyclub.com/en/products/bodyfit/1193575_5181.html"
+          },
+          {
+            "url": "https://my.sofyclub.com/en/products/bodyfit/1193576_5181.html"
+          },
+          {
+            "url": "https://my.sofyclub.com/en/products/bodyfit/1193579_5181.html"
+          },
+          {
+            "url": "https://my.sofyclub.com/en/products/bodyfit/1193580_5181.html"
+          }
+        ]
+      },
+      "/en/products/bfslim": {
+        "confidence": "85%",
+        "urls": [
+          {
+            "url": "https://my.sofyclub.com/en/products/bfslim/1200143_10061.html"
+          },
+          {
+            "url": "https://my.sofyclub.com/en/products/bfslim/1200144_10061.html"
+          },
+          {
+            "url": "https://my.sofyclub.com/en/products/bfslim/1200145_10061.html"
+          },
+          {
+            "url": "https://my.sofyclub.com/en/products/bfslim/1200146_10061.html"
+          }
+        ]
+      },
+      "/en/products/hadaomoi": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://my.sofyclub.com/en/products/hadaomoi/day23_wing.html"
+          },
+          {
+            "url": "https://my.sofyclub.com/en/products/hadaomoi/night29_wing.html"
+          },
+          {
+            "url": "https://my.sofyclub.com/en/products/hadaomoi/day26_wing.html"
+          },
+          {
+            "url": "https://my.sofyclub.com/en/products/hadaomoi/day26_us_wing.html"
+          },
+          {
+            "url": "https://my.sofyclub.com/en/products/hadaomoi/night36_us_wing.html"
+          }
+        ]
+      },
+      "/en/products/longwide": {
+        "confidence": "85%",
+        "urls": [
+          {
+            "url": "https://my.sofyclub.com/en/products/longwide/1193590_5232.html"
+          },
+          {
+            "url": "https://my.sofyclub.com/en/products/longwide/1193591_5232.html"
+          }
+        ]
+      },
+      "/en/products/purecare": {
+        "confidence": "85%",
+        "urls": [
+          {
+            "url": "https://my.sofyclub.com/en/products/purecare/1193594_8533.html"
+          },
+          {
+            "url": "https://my.sofyclub.com/en/products/purecare/1193595_8533.html"
+          },
+          {
+            "url": "https://my.sofyclub.com/en/products/purecare/1193596_8533.html"
+          },
+          {
+            "url": "https://my.sofyclub.com/en/products/purecare/1193597_8533.html"
+          }
+        ]
+      },
+      "/en/products/hadaomoi_liner": {
+        "confidence": "85%",
+        "urls": [
+          {
+            "url": "https://my.sofyclub.com/en/products/hadaomoi_liner/p_nofrag.html"
+          },
+          {
+            "url": "https://my.sofyclub.com/en/products/hadaomoi_liner/p_cotton.html"
+          },
+          {
+            "url": "https://my.sofyclub.com/en/products/hadaomoi_liner/antibac_62s.html"
+          }
+        ]
+      },
+      "/en/products/coolingfresh": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://my.sofyclub.com/en/products/coolingfresh/day_maxi_26.html"
+          },
+          {
+            "url": "https://my.sofyclub.com/en/products/coolingfresh/day_us_23.html"
+          },
+          {
+            "url": "https://my.sofyclub.com/en/products/coolingfresh/day_us_25.html"
+          },
+          {
+            "url": "https://my.sofyclub.com/en/products/coolingfresh/night_35.html"
+          },
+          {
+            "url": "https://my.sofyclub.com/en/products/coolingfresh/night_42.html"
+          },
+          {
+            "url": "https://my.sofyclub.com/en/products/coolingfresh/cucumber_day_us_25.html"
+          },
+          {
+            "url": "https://my.sofyclub.com/en/products/coolingfresh/cucumber_night_35.html"
+          }
+        ]
+      },
+      "/en/products/comfortnite360panty": {
+        "confidence": "85%",
+        "urls": [
+          {
+            "url": "https://my.sofyclub.com/en/products/comfortnite360panty/comfortnite360.html"
+          },
+          {
+            "url": "https://my.sofyclub.com/en/products/comfortnite360panty/comfortnite360_sm.html"
+          }
+        ]
+      },
+      "/en/advice/basic": {
+        "confidence": "85%",
+        "urls": [
+          {
+            "url": "https://my.sofyclub.com/en/advice/basic/faq-how-does-menstruation-work.html"
+          },
+          {
+            "url": "https://my.sofyclub.com/en/advice/basic/period-101.html"
+          },
+          {
+            "url": "https://my.sofyclub.com/en/advice/basic/feel-good.html"
+          }
+        ]
+      },
+      "/en/advice/girls": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://my.sofyclub.com/en/advice/girls/beauty.html"
+          },
+          {
+            "url": "https://my.sofyclub.com/en/advice/girls/fashion_style.html"
+          },
+          {
+            "url": "https://my.sofyclub.com/en/advice/girls/education_career.html"
+          },
+          {
+            "url": "https://my.sofyclub.com/en/advice/girls/travel.html"
+          },
+          {
+            "url": "https://my.sofyclub.com/en/advice/girls/fitness_health.html"
+          }
+        ]
+      },
+      "/en/about/csr": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://my.sofyclub.com/en/about/csr/csr-001.html"
+          },
+          {
+            "url": "https://my.sofyclub.com/en/about/csr/csr-002.html"
+          },
+          {
+            "url": "https://my.sofyclub.com/en/about/csr/csr-003.html"
+          },
+          {
+            "url": "https://my.sofyclub.com/en/about/csr/csr-004.html"
+          },
+          {
+            "url": "https://my.sofyclub.com/en/about/csr/csr-005.html"
+          },
+          {
+            "url": "https://my.sofyclub.com/en/about/csr/csr-006.html"
+          }
+        ]
+      },
+      "/en/products": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://my.sofyclub.com/en/products/product-new.html"
+          },
+          {
+            "url": "https://my.sofyclub.com/en/products/type.html"
+          },
+          {
+            "url": "https://my.sofyclub.com/en/products/bodyfitcn.html"
+          },
+          {
+            "url": "https://my.sofyclub.com/en/products/extradry.html"
+          },
+          {
+            "url": "https://my.sofyclub.com/en/products/bodyfit.html"
+          },
+          {
+            "url": "https://my.sofyclub.com/en/products/bfslim.html"
+          },
+          {
+            "url": "https://my.sofyclub.com/en/products/hadaomoi.html"
+          },
+          {
+            "url": "https://my.sofyclub.com/en/products/extradry_liner.html"
+          },
+          {
+            "url": "https://my.sofyclub.com/en/products/longwide.html"
+          },
+          {
+            "url": "https://my.sofyclub.com/en/products/purecare.html"
+          },
+          {
+            "url": "https://my.sofyclub.com/en/products/hadaomoi_liner.html"
+          },
+          {
+            "url": "https://my.sofyclub.com/en/products/coolingfresh.html"
+          },
+          {
+            "url": "https://my.sofyclub.com/en/products/coolingfresh_liner.html"
+          },
+          {
+            "url": "https://my.sofyclub.com/en/products/comfortnite360panty.html"
+          },
+          {
+            "url": "https://my.sofyclub.com/en/products/extradry_liner/light_flow_175.html"
+          },
+          {
+            "url": "https://my.sofyclub.com/en/products/coolingfresh_liner/regular_155.html"
+          }
+        ]
+      },
+      "/en/advice": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://my.sofyclub.com/en/advice/keyword-result.html"
+          },
+          {
+            "url": "https://my.sofyclub.com/en/advice/basic.html"
+          },
+          {
+            "url": "https://my.sofyclub.com/en/advice/howto.html"
+          },
+          {
+            "url": "https://my.sofyclub.com/en/advice/kind.html"
+          },
+          {
+            "url": "https://my.sofyclub.com/en/advice/girls.html"
+          }
+        ]
+      },
+      "/en/about": {
+        "confidence": "85%",
+        "urls": [
+          {
+            "url": "https://my.sofyclub.com/en/about/message.html"
+          },
+          {
+            "url": "https://my.sofyclub.com/en/about/history.html"
+          },
+          {
+            "url": "https://my.sofyclub.com/en/about/csr.html"
+          }
+        ]
+      },
+      "/en": {
+        "confidence": "95%",
+        "urls": [
+          {
+            "url": "https://my.sofyclub.com/en/home.html"
+          },
+          {
+            "url": "https://my.sofyclub.com/en/products.html"
+          },
+          {
+            "url": "https://my.sofyclub.com/en/campaign.html"
+          },
+          {
+            "url": "https://my.sofyclub.com/en/video.html"
+          },
+          {
+            "url": "https://my.sofyclub.com/en/advice.html"
+          },
+          {
+            "url": "https://my.sofyclub.com/en/about.html"
+          },
+          {
+            "url": "https://my.sofyclub.com/en/site-map.html"
+          },
+          {
+            "url": "https://my.sofyclub.com/en/global.html"
+          }
+        ]
+      },
+      "/": {
+        "confidence": "100%",
+        "urls": [
+          {
+            "url": "https://my.sofyclub.com/"
+          }
+        ]
+      }
+    }
+  }
+}

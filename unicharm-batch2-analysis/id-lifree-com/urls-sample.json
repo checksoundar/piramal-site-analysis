@@ -1,0 +1,112 @@
+{
+  "urls-sample": {
+    "captured": "2026-08-19T11:45:56.018Z",
+    "totalUrls": 34,
+    "createdBy": "create-sample.js",
+    "samplingMethod": "all-urls",
+    "urls": [
+      {
+        "url": "https://id.lifree.com/id/product/light/choose/experience.html"
+      },
+      {
+        "url": "https://id.lifree.com/id/product/light/choose/data.html"
+      },
+      {
+        "url": "https://id.lifree.com/id/product/adult/choose/index.html"
+      },
+      {
+        "url": "https://id.lifree.com/id/product/adult/choose/advice.html"
+      },
+      {
+        "url": "https://id.lifree.com/id/product/adult/choose/point.html"
+      },
+      {
+        "url": "https://id.lifree.com/id/product/adult/choose/experience.html"
+      },
+      {
+        "url": "https://id.lifree.com/id/product/adult/choose/diagnosis"
+      },
+      {
+        "url": "https://id.lifree.com/id/product/adult/choose/data.html"
+      },
+      {
+        "url": "https://id.lifree.com/id/product/adult/purchase/experience.html"
+      },
+      {
+        "url": "https://id.lifree.com/id/product/adult/purchase/data.html"
+      },
+      {
+        "url": "https://id.lifree.com/id/product/adult/pants/experience.html"
+      },
+      {
+        "url": "https://id.lifree.com/id/product/adult/pants/data.html"
+      },
+      {
+        "url": "https://id.lifree.com/en/product/adult/choose/advice.html"
+      },
+      {
+        "url": "https://id.lifree.com/en/product/adult/choose/point.html"
+      },
+      {
+        "url": "https://id.lifree.com/id/product/adult/popok_celana_tipis.html"
+      },
+      {
+        "url": "https://id.lifree.com/id/product/adult/popok_celana_extra.html"
+      },
+      {
+        "url": "https://id.lifree.com/id/product/adult/popok_perekat_tape.html"
+      },
+      {
+        "url": "https://id.lifree.com/id/product/adult/lapisan_penyerap.html"
+      },
+      {
+        "url": "https://id.lifree.com/id/product/adult/popok_perekat_tape_daun_sirih.html"
+      },
+      {
+        "url": "https://id.lifree.com/id/product/adult/choose.html"
+      },
+      {
+        "url": "https://id.lifree.com/id/product/adult/purchase.html"
+      },
+      {
+        "url": "https://id.lifree.com/id/product/adult/pants.html"
+      },
+      {
+        "url": "https://id.lifree.com/en/nyoumore/cause.html"
+      },
+      {
+        "url": "https://id.lifree.com/en/nyoumore/training.html"
+      },
+      {
+        "url": "https://id.lifree.com/id/advice/usage"
+      },
+      {
+        "url": "https://id.lifree.com/id/advice/rehabilitation"
+      },
+      {
+        "url": "https://id.lifree.com/id/home.html"
+      },
+      {
+        "url": "https://id.lifree.com/id/product.html"
+      },
+      {
+        "url": "https://id.lifree.com/id/cm.html"
+      },
+      {
+        "url": "https://id.lifree.com/"
+      },
+      {
+        "url": "https://id.lifree.com/en/product/adult/lifree_ultra_slim_pants.html"
+      },
+      {
+        "url": "https://id.lifree.com/en/product/light/lifree_extra_dry_pad_20cc.html"
+      },
+      {
+        "url": "https://id.lifree.com/en/advice/usage.html"
+      },
+      {
+        "url": "https://id.lifree.com/en/home.html"
+      }
+    ]
+  }
+}

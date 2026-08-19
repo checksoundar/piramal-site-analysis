@@ -1,0 +1,382 @@
+{
+  "urls-sample": {
+    "captured": "2026-08-19T11:40:30.394Z",
+    "totalUrls": 124,
+    "createdBy": "create-sample.js",
+    "samplingMethod": "all-urls",
+    "urls": [
+      {
+        "url": "https://www.unicharm.co.id/id/brand/petcare/01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/id/brand/petcare/02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/id/brand/petcare/03.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/id/brand/silcot/01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/id/brand/silcot/02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/id/company/office/01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/id/company/office/02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/id/company/office/03.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/id/company/office/04.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/id/company/office/05.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/id/company/office/06.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/id/company/office/07.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/id/company/office/08.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/id/company/office/09.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/id/company/office/10.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/id/company/news/2022.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/id/company/news/2023.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/id/company/news/2024.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/id/company/news/2025.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/id/company/news/2026.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/id/ir/3minutes/step1.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/id/ir/3minutes/step2.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/id/ir/news/2022.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/id/ir/news/2023.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/id/ir/news/2024.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/id/ir/news/2025.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/id/ir/news/2026.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/en/company/office/01.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/en/company/office/02.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/en/company/office/03.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/en/company/office/04.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/en/company/office/05.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/en/company/office/06.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/en/company/office/07.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/en/company/office/08.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/en/company/office/09.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/en/company/office/10.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/en/company/news/2022.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/en/company/news/2023.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/en/company/news/2024.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/en/ir/3minutes/step1.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/en/ir/3minutes/step2.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/en/ir/news/2022.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/en/ir/news/2023.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/en/ir/news/2024.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/id/brand/fitti.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/id/brand/petcare.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/id/brand/certainty.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/id/brand/silcot.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/id/brand/charmnap.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/id/brand/99mask.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/id/brand/3dmask.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/id/brand/3dkidsmask.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/id/brand/kireycare.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/id/contact-us/qa1.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/id/contact-us/qa2.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/id/contact-us/qa3.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/id/contact-us/qa4.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/id/contact-us/qa5.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/id/company/topmessage.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/id/company/corporate-philosophy.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/id/company/corporate-governance.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/id/company/overview.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/id/company/business-field.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/id/company/office.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/id/company/history.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/id/company/affiliate.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/id/company/charmring.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/id/company/safety.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/id/company/lyp.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/id/ir/3minutes.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/id/ir/news.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/id/ir/library.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/id/ir/calendar.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/id/ir/stock.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/id/ir/convocation.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/id/ir/policy.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/id/ir/annualreport.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/id/ir/library/earnings.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/id/ir/report/message.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/en/company/topmessage.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/en/company/corporate-philosophy.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/en/company/corporate-governance.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/en/company/overview.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/en/company/office.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/en/company/affiliate.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/en/company/charmring.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/en/company/business-field.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/en/company/history.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/en/company/lyp.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/en/ir/3minutes.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/en/ir/library.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/en/ir/calendar.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/en/ir/stock.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/en/ir/convocation.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/en/ir/policy.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/en/ir/annualreport.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/en/ir/library/earnings.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/en/ir/report/message.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/id/home.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/id/brand.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/id/cm.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/id/contact-us.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/id/company.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/id/ir.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/id/csr-eco.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/id/recruit.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/id/terms-of-use.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/id/privacy-policy.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/id/site-map.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/id/csr-eco/report.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/en/home.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/en/brand.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/en/cm.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/en/contact-us.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/en/company.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/en/ir.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/en/csr-eco.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/en/privacy-policy.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/en/site-map.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/en/terms-of-use.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/en/global.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/en/csr-eco/report.html"
+      },
+      {
+        "url": "https://www.unicharm.co.id/"
+      }
+    ]
+  }
+}

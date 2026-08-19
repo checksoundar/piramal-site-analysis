@@ -1,0 +1,13 @@
+{
+  "urls-sample": {
+    "captured": "2026-08-19T11:38:08.230Z",
+    "totalUrls": 1,
+    "createdBy": "create-sample.js",
+    "samplingMethod": "all-urls",
+    "urls": [
+      {
+        "url": "https://www.babyjoy.com.eg/"
+      }
+    ]
+  }
+}

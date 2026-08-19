@@ -1,0 +1,142 @@
+{
+  "analysis-urls-all": {
+    "captured": "2026-08-19T11:37:56.564Z",
+    "totalUrls": 42,
+    "totalDocuments": 0,
+    "method": "sitemap",
+    "sitemapURL": "/en/sitemap.xml",
+    "robotsTxtFound": false,
+    "robotsTxtRulesApplied": false,
+    "limitations": "",
+    "confidence": "95%",
+    "urls": [
+      {
+        "url": "https://ph.mamypoko.com/en/home.html"
+      },
+      {
+        "url": "https://ph.mamypoko.com/en/about.html"
+      },
+      {
+        "url": "https://ph.mamypoko.com/en/about/who-is-poko.html"
+      },
+      {
+        "url": "https://ph.mamypoko.com/en/about/poko-chan-song.html"
+      },
+      {
+        "url": "https://ph.mamypoko.com/en/products.html"
+      },
+      {
+        "url": "https://ph.mamypoko.com/en/products/search.html"
+      },
+      {
+        "url": "https://ph.mamypoko.com/en/products/mp-extradryskin-nb-s.html"
+      },
+      {
+        "url": "https://ph.mamypoko.com/en/products/mp-extradryskin-m-xxl.html"
+      },
+      {
+        "url": "https://ph.mamypoko.com/en/products/mpp-extradryskin-m-xxxl.html"
+      },
+      {
+        "url": "https://ph.mamypoko.com/en/products/mpp-easytowear-s-xxl.html"
+      },
+      {
+        "url": "https://ph.mamypoko.com/en/mamatips.html"
+      },
+      {
+        "url": "https://ph.mamypoko.com/en/mamatips/pregnancy01.html"
+      },
+      {
+        "url": "https://ph.mamypoko.com/en/mamatips/pregnancy02.html"
+      },
+      {
+        "url": "https://ph.mamypoko.com/en/mamatips/pregnancy03.html"
+      },
+      {
+        "url": "https://ph.mamypoko.com/en/mamatips/pregnancy04.html"
+      },
+      {
+        "url": "https://ph.mamypoko.com/en/mamatips/pregnancy05.html"
+      },
+      {
+        "url": "https://ph.mamypoko.com/en/mamatips/development01.html"
+      },
+      {
+        "url": "https://ph.mamypoko.com/en/mamatips/development02.html"
+      },
+      {
+        "url": "https://ph.mamypoko.com/en/mamatips/development03.html"
+      },
+      {
+        "url": "https://ph.mamypoko.com/en/mamatips/development04.html"
+      },
+      {
+        "url": "https://ph.mamypoko.com/en/mamatips/development05.html"
+      },
+      {
+        "url": "https://ph.mamypoko.com/en/mamatips/development06.html"
+      },
+      {
+        "url": "https://ph.mamypoko.com/en/mamatips/postpartum01.html"
+      },
+      {
+        "url": "https://ph.mamypoko.com/en/mamatips/postpartum02.html"
+      },
+      {
+        "url": "https://ph.mamypoko.com/en/mamatips/postpartum03.html"
+      },
+      {
+        "url": "https://ph.mamypoko.com/en/mamatips/postpartum04.html"
+      },
+      {
+        "url": "https://ph.mamypoko.com/en/mamatips/postpartum05.html"
+      },
+      {
+        "url": "https://ph.mamypoko.com/en/review.html"
+      },
+      {
+        "url": "https://ph.mamypoko.com/en/shop.html"
+      },
+      {
+        "url": "https://ph.mamypoko.com/en/video.html"
+      },
+      {
+        "url": "https://ph.mamypoko.com/en/news.html"
+      },
+      {
+        "url": "https://ph.mamypoko.com/en/news/renewal.html"
+      },
+      {
+        "url": "https://ph.mamypoko.com/en/news/17102016.html"
+      },
+      {
+        "url": "https://ph.mamypoko.com/en/news/05102016.html"
+      },
+      {
+        "url": "https://ph.mamypoko.com/en/news/25082016-1.html"
+      },
+      {
+        "url": "https://ph.mamypoko.com/en/news/25082016-2.html"
+      },
+      {
+        "url": "https://ph.mamypoko.com/en/news/15102015.html"
+      },
+      {
+        "url": "https://ph.mamypoko.com/en/contact.html"
+      },
+      {
+        "url": "https://ph.mamypoko.com/en/mamypoko-ecommerce.html"
+      },
+      {
+        "url": "https://ph.mamypoko.com/en/site-map.html"
+      },
+      {
+        "url": "https://ph.mamypoko.com/en/gameterms.html"
+      },
+      {
+        "url": "https://ph.mamypoko.com/en/global.html"
+      }
+    ],
+    "documents": []
+  }
+}
