@@ -1,0 +1,463 @@
+[
+  {
+    "key": "home",
+    "url": "https://www.westernsydney.edu.au/",
+    "ok": true,
+    "error": null,
+    "status": 200,
+    "data": {
+      "title": "Home | Western Sydney University",
+      "h1": "POSTGRAD EXPO",
+      "cmpClasses": [
+        "cmp-button",
+        "cmp-button--black",
+        "cmp-button--outline",
+        "cmp-button--red",
+        "cmp-button--solid",
+        "cmp-button--text",
+        "cmp-button--white",
+        "cmp-container",
+        "cmp-experiencefragment",
+        "cmp-experiencefragment--corporate-footer",
+        "cmp-experiencefragment--corporate-nav",
+        "cmp-footer",
+        "cmp-image",
+        "cmp-news-events",
+        "cmp-news-events-btn",
+        "cmp-news-events-calendar",
+        "cmp-news-events-card-image",
+        "cmp-news-events-content",
+        "cmp-news-events-content-text",
+        "cmp-news-events-content-text-paragraph",
+        "cmp-news-events-content-year",
+        "cmp-news-events-data",
+        "cmp-news-events-data-card",
+        "cmp-news-events-gallery",
+        "cmp-news-events-image",
+        "cmp-news-events-page",
+        "cmp-promo-block--band",
+        "cmp-text",
+        "cmp-title"
+      ],
+      "dataLayer": [
+        "wsu-core-v2/components/image"
+      ],
+      "sectionClasses": [],
+      "iframes": [
+        "www.youtube.com",
+        "wsu.demdex.net",
+        "13854456.fls.doubleclick.net",
+        "apps.mypurecloud.com.au"
+      ],
+      "scripts": [
+        "analytics.tiktok.com",
+        "tr.snapchat.com",
+        "snap.licdn.com",
+        "scripts.clarity.ms",
+        "sc-static.net",
+        "www.youtube.com",
+        "pixel.byspotify.com",
+        "www.clarity.ms",
+        "connect.facebook.net",
+        "www.google-analytics.com",
+        "www.googletagmanager.com",
+        "rum.hlx.page",
+        "assets.adobedtm.com",
+        "cdn-au.onetrust.com",
+        "googleads.g.doubleclick.net",
+        "apps.mypurecloud.com.au",
+        "ajax.googleapis.com",
+        "cdnjs.cloudflare.com",
+        "www.westernsydney.edu.au",
+        "www.everestjs.net",
+        "zn24pxbnwztkssowg-wsustudents.siteintercept.qualtrics.com"
+      ],
+      "forms": 2,
+      "headerNav": false,
+      "breadcrumb": false
+    }
+  },
+  {
+    "key": "news-list",
+    "url": "https://www.westernsydney.edu.au/news-centre/stories/2025",
+    "ok": true,
+    "error": null,
+    "status": 200,
+    "data": {
+      "title": "All news stories",
+      "h1": "All news stories",
+      "cmpClasses": [
+        "cmp-button",
+        "cmp-button--black",
+        "cmp-button--solid",
+        "cmp-news-events-content-year"
+      ],
+      "dataLayer": [],
+      "sectionClasses": [
+        "news-list",
+        "news-list-container",
+        "news-list-item",
+        "news-list-pagination",
+        "news-list-wrapper"
+      ],
+      "iframes": [],
+      "scripts": [
+        "www.westernsydney.edu.au"
+      ],
+      "forms": 0,
+      "headerNav": true,
+      "breadcrumb": true
+    }
+  },
+  {
+    "key": "news-story",
+    "url": "https://www.westernsydney.edu.au/news-centre/stories/2025/chancellors-address-women-of-western-sydney-awards-2025",
+    "ok": true,
+    "error": null,
+    "status": 200,
+    "data": {
+      "title": "Chancellor's Address: Women of Western Sydney Awards 2025 | Western Sydney University",
+      "h1": "Chancellor's Address: Women of Western Sydney Awards 2025",
+      "cmpClasses": [
+        "cmp-button",
+        "cmp-button--black",
+        "cmp-button--solid"
+      ],
+      "dataLayer": [],
+      "sectionClasses": [],
+      "iframes": [],
+      "scripts": [
+        "www.westernsydney.edu.au"
+      ],
+      "forms": 0,
+      "headerNav": true,
+      "breadcrumb": true
+    }
+  },
+  {
+    "key": "expert-op",
+    "url": "https://www.westernsydney.edu.au/news-centre/expert-opinion/2013-whitlam-oration-delivered-by-noel-pearson",
+    "ok": true,
+    "error": null,
+    "status": 200,
+    "data": {
+      "title": "2013 Whitlam Oration delivered by Noel Pearson | Western Sydney University",
+      "h1": "2013 Whitlam Oration delivered by Noel Pearson",
+      "cmpClasses": [
+        "cmp-button",
+        "cmp-button--black",
+        "cmp-button--solid"
+      ],
+      "dataLayer": [],
+      "sectionClasses": [],
+      "iframes": [],
+      "scripts": [
+        "www.westernsydney.edu.au",
+        "rum.hlx.page"
+      ],
+      "forms": 0,
+      "headerNav": true,
+      "breadcrumb": true
+    }
+  },
+  {
+    "key": "institute",
+    "url": "https://www.westernsydney.edu.au/ics",
+    "ok": true,
+    "error": null,
+    "status": 200,
+    "data": {
+      "title": "Institute for Culture and Society",
+      "h1": null,
+      "cmpClasses": [
+        "cmp-button",
+        "cmp-button--black",
+        "cmp-button--solid"
+      ],
+      "dataLayer": [],
+      "sectionClasses": [
+        "card",
+        "card-title",
+        "cards",
+        "cards-card-body",
+        "cards-card-image",
+        "cards-card-image-link",
+        "cards-container",
+        "cards-light-grey",
+        "cards-wrapper",
+        "carousel",
+        "carousel-container",
+        "carousel-navigation-buttons",
+        "carousel-slide",
+        "carousel-slide-content",
+        "carousel-slide-image",
+        "carousel-slide-indicator",
+        "carousel-slide-indicators",
+        "carousel-slides",
+        "carousel-slides-container",
+        "carousel-wrapper",
+        "no-header",
+        "table",
+        "table-container",
+        "table-element",
+        "table-wrapper",
+        "two-column-table"
+      ],
+      "iframes": [],
+      "scripts": [
+        "www.westernsydney.edu.au"
+      ],
+      "forms": 0,
+      "headerNav": true,
+      "breadcrumb": false
+    }
+  },
+  {
+    "key": "inst-about",
+    "url": "https://www.westernsydney.edu.au/ics/about-us",
+    "ok": true,
+    "error": null,
+    "status": 200,
+    "data": {
+      "title": "About Us",
+      "h1": "About Us",
+      "cmpClasses": [
+        "cmp-button",
+        "cmp-button--black",
+        "cmp-button--solid"
+      ],
+      "dataLayer": [],
+      "sectionClasses": [],
+      "iframes": [],
+      "scripts": [
+        "www.westernsydney.edu.au"
+      ],
+      "forms": 0,
+      "headerNav": false,
+      "breadcrumb": false
+    }
+  },
+  {
+    "key": "school",
+    "url": "https://www.westernsydney.edu.au/schools/grs",
+    "ok": true,
+    "error": null,
+    "status": 200,
+    "data": {
+      "title": "Graduate Research Services",
+      "h1": "GRADUATE RESEARCH SERVICES",
+      "cmpClasses": [
+        "cmp-button",
+        "cmp-button--black",
+        "cmp-button--solid"
+      ],
+      "dataLayer": [],
+      "sectionClasses": [
+        "button-list",
+        "button-list-item",
+        "card",
+        "card-plain-link",
+        "card-title",
+        "cards",
+        "cards-card-body",
+        "cards-card-image",
+        "cards-card-image-link",
+        "cards-container",
+        "cards-crimson",
+        "cards-off-white",
+        "cards-plain-link",
+        "cards-wrapper",
+        "grid",
+        "hero",
+        "hero-container",
+        "hero-wrapper"
+      ],
+      "iframes": [],
+      "scripts": [
+        "www.westernsydney.edu.au"
+      ],
+      "forms": 0,
+      "headerNav": false,
+      "breadcrumb": false
+    }
+  },
+  {
+    "key": "events-list",
+    "url": "https://www.westernsydney.edu.au/babylab/events/previous-events",
+    "ok": true,
+    "error": null,
+    "status": 200,
+    "data": {
+      "title": "Previous Events",
+      "h1": "Previous Events",
+      "cmpClasses": [
+        "cmp-button",
+        "cmp-button--black",
+        "cmp-button--solid"
+      ],
+      "dataLayer": [],
+      "sectionClasses": [
+        "card",
+        "card-title",
+        "cards",
+        "cards-card-body",
+        "cards-card-image",
+        "cards-card-image-link",
+        "cards-container",
+        "cards-crimson",
+        "cards-wrapper"
+      ],
+      "iframes": [],
+      "scripts": [
+        "www.westernsydney.edu.au"
+      ],
+      "forms": 0,
+      "headerNav": true,
+      "breadcrumb": true
+    }
+  },
+  {
+    "key": "people",
+    "url": "https://www.westernsydney.edu.au/challenging-racism-project/our-people",
+    "ok": true,
+    "error": null,
+    "status": 200,
+    "data": {
+      "title": "Our People",
+      "h1": "Our People",
+      "cmpClasses": [
+        "cmp-button",
+        "cmp-button--black",
+        "cmp-button--solid"
+      ],
+      "dataLayer": [],
+      "sectionClasses": [
+        "no-header",
+        "table",
+        "table-container",
+        "table-element",
+        "table-wrapper",
+        "two-column-table"
+      ],
+      "iframes": [],
+      "scripts": [
+        "www.westernsydney.edu.au"
+      ],
+      "forms": 0,
+      "headerNav": true,
+      "breadcrumb": true
+    }
+  },
+  {
+    "key": "research",
+    "url": "https://www.westernsydney.edu.au/babylab/research",
+    "ok": true,
+    "error": null,
+    "status": 200,
+    "data": {
+      "title": "Research",
+      "h1": "Research",
+      "cmpClasses": [
+        "cmp-button",
+        "cmp-button--black",
+        "cmp-button--solid"
+      ],
+      "dataLayer": [],
+      "sectionClasses": [
+        "card",
+        "card-title",
+        "cards",
+        "cards-card-body",
+        "cards-card-image",
+        "cards-card-image-link",
+        "cards-container",
+        "cards-crimson",
+        "cards-wrapper"
+      ],
+      "iframes": [],
+      "scripts": [
+        "www.westernsydney.edu.au"
+      ],
+      "forms": 0,
+      "headerNav": true,
+      "breadcrumb": true
+    }
+  },
+  {
+    "key": "content-deep",
+    "url": "https://www.westernsydney.edu.au/inherent-requirements/bachelor-of-applied-leadership-and-critical-thinking",
+    "ok": true,
+    "error": null,
+    "status": 200,
+    "data": {
+      "title": "Inherent requirements for Bachelor of Applied Leadership and Critical Thinking",
+      "h1": "Inherent requirements for Bachelor of Applied Leadership and Critical Thinking",
+      "cmpClasses": [
+        "cmp-button",
+        "cmp-button--black",
+        "cmp-button--solid"
+      ],
+      "dataLayer": [],
+      "sectionClasses": [
+        "accordion__body",
+        "accordion__head",
+        "accordion__inner",
+        "accordion__item",
+        "accordions",
+        "accordions-container",
+        "accordions-wrapper",
+        "js-accordion",
+        "js-accordion__body",
+        "js-accordion__item",
+        "js-accordion__trigger",
+        "table-container",
+        "table-element",
+        "wsu-accordion"
+      ],
+      "iframes": [],
+      "scripts": [
+        "www.westernsydney.edu.au"
+      ],
+      "forms": 0,
+      "headerNav": true,
+      "breadcrumb": true
+    }
+  },
+  {
+    "key": "news-centre",
+    "url": "https://www.westernsydney.edu.au/news-centre",
+    "ok": true,
+    "error": null,
+    "status": 200,
+    "data": {
+      "title": "News Centre",
+      "h1": "News Centre",
+      "cmpClasses": [
+        "cmp-button",
+        "cmp-button--black",
+        "cmp-button--solid",
+        "cmp-news-events-content-year"
+      ],
+      "dataLayer": [],
+      "sectionClasses": [
+        "news-list",
+        "news-list-container",
+        "news-list-item",
+        "news-list-wrapper",
+        "no-header",
+        "table",
+        "table-container",
+        "table-element",
+        "table-wrapper",
+        "two-column-table"
+      ],
+      "iframes": [],
+      "scripts": [
+        "www.westernsydney.edu.au"
+      ],
+      "forms": 0,
+      "headerNav": true,
+      "breadcrumb": false
+    }
+  }
+]
