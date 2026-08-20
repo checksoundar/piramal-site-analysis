@@ -1,0 +1,22 @@
+2026-08-20 03:15:35 | INFO | Creating sample URLs...
+2026-08-20 03:15:35 | INFO | Total URLs in grouped data: 9925
+2026-08-20 03:15:35 | INFO | Diversity baseline (4881) exceeds cap (1000) with 781 fully covered small groups and 60 larger groups at minimum coverage
+2026-08-20 03:15:35 | INFO | Created urls-sample.json with 9925 URLs (awaiting user decision)
+2026-08-20 03:15:35 | ERROR | LARGE SITE DETECTED - USER INPUT REQUIRED
+2026-08-20 03:15:35 | ERROR | Total URLs on site: 9925
+2026-08-20 03:15:35 | ERROR | Groups found: 841
+2026-08-20 03:15:35 | ERROR | Default 1000-URL sample = all groups up to 20 URLs (781 groups / 4581 URLs) plus at least 5 URLs from each of 60 larger groups (300 URLs)
+2026-08-20 03:15:35 | ERROR | Required baseline: 4881 URLs (exceeds cap of 1000)
+2026-08-20 03:15:35 | ERROR | Estimated analysis time for all: 5h 41m (at ~30 pages/minute)
+2026-08-20 03:15:35 | ERROR | Largest group 1: /news-centre/stories (1867 URLs)
+2026-08-20 03:15:35 | ERROR | Largest group 2: /ics/news/archive (396 URLs)
+2026-08-20 03:15:35 | ERROR | Largest group 3: /nicmhri/news (385 URLs)
+2026-08-20 03:15:35 | ERROR | Largest group 4: /ics/events/ics-seminar-series/past-ics-seminars (207 URLs)
+2026-08-20 03:15:35 | ERROR | Largest group 5: /scholarships/all-scholarships (139 URLs)
+2026-08-20 03:15:35 | ERROR | Largest group 6: /thri/team/members (131 URLs)
+2026-08-20 03:15:35 | ERROR | Largest group 7: /hie/people/postgraduate-students/graduates (130 URLs)
+2026-08-20 03:15:35 | ERROR | Largest group 8: /marcs/news-and-media/marcs-news (127 URLs)
+2026-08-20 03:15:35 | ERROR | Largest group 9: /news-centre/expert-opinion (98 URLs)
+2026-08-20 03:15:35 | ERROR | Largest group 10: /ics/news/blog (96 URLs)
+2026-08-20 03:15:35 | ERROR | Analyze all URLs is available, but not recommended because the site exceeds 5000 URLs.
+2026-08-20 03:15:35 | ERROR | Required user actions: Increase the sampling cap (maximum 5000 URLs), Analyze a specific group, or Analyze all URLs.

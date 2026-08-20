@@ -1,0 +1,60 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2822
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 \{\\rtf1\\ansi\\ansicpg1252\\cocoartf2580\
+\\cocoatextscaling0\\cocoaplatform0\{\\fonttbl\\f0\\fswiss\\fcharset0 Helvetica;\}\
+\{\\colortbl;\\red255\\green255\\blue255;\}\
+\{\\*\\expandedcolortbl;;\}\
+\\paperw11900\\paperh16840\\margl1440\\margr1440\\vieww11520\\viewh8400\\viewkind0\
+\\pard\\tx566\\tx1133\\tx1700\\tx2267\\tx2834\\tx3401\\tx3968\\tx4535\\tx5102\\tx5669\\tx6236\\tx6803\\pardirnatural\\partightenfactor0\
+\
+\\f0\\fs24 \\cf0 User-agent: SemrushBot-SA\\\
+User-agent: gsa-crawler\\\
+User-agent: Googlebot\\\
+User-agent: *\\\
+Disallow: /cws/search/\\\
+Disallow: /sandbox/\\\
+Disallow: /system/\\\
+Disallow: /download.php\\\
+Disallow: /who_does_what/\\\
+Disallow: /about_uws/uws/who_does_what_directory/\\\
+Disallow: /cws/search/\\\
+Disallow: /__data/assets/pdf_file/0020/7418/Visio-Governance_Diagram_-_2_July_2008.pdf\\\
+Disallow: /staff_profiles/list_organisational_groups\\\
+Disallow: /staff_profiles/org_unit?*\\\
+Disallow: /_media/main_site/wide_page_headers/\\\
+Disallow: /ayr/academic_year_review/ayr_staff_survey_prize_draw\\\
+Disallow: /ayr/academic_year_review/ayr_student_survey_prize_draw\\\
+Disallow: /staff_profiles/uws_profiles/ms_nicole_goodwin\\\
+Disallow: /_media/whitlam/\\\
+Disallow: /strategy_and_quality/sg/contact_us\\\
+Disallow: /give/home/archived_assets\\\
+Disallow: /uws_residential_colleges/uwsrc_old_site/\\\
+Disallow: /uws_residential_colleges/uwsrc1/\\\
+Disallow: /__data/assets/pdf_file/0020/471530/IT_EEPF_Form_ext_17062013.pdf\\\
+Disallow: /*?sq_content_src=\\\
+Disallow: /*_recache\\\
+Disallow: /*_edit\\\
+Disallow: /*_admin\\\
+Disallow: /*_login\\\
+Disallow: /_performance\\\
+Disallow: /*_web_services\\\
+Disallow: /__data/assets/pdf_file/0007/6982/Change_Matters_Keynote.pdf\\\
+Disallow: /__data/assets/pdf_file/0006/6891/AUQAcomsrecsfor39_institutions.pdf\\\
+Disallow: /training\\\
+Disallow: /accessibilitytraining\\\
+Disallow: /link_item*\\\
+Disallow: /at-psc-goodies\\\
+Disallow: /schools/grs/supervisors\\\
+\\pard\\tx566\\tx1133\\tx1700\\tx2267\\tx2834\\tx3401\\tx3968\\tx4535\\tx5102\\tx5669\\tx6236\\tx6803\\pardirnatural\\partightenfactor0\
+\\cf0 Disallow: /offers\\\
+Disallow: /offers/why-western-csl\\\
+Disallow: /offers/why-western-csl\\\
+Disallow: https://apply.westernsydney.edu.au/
+Disallow: /content/dam/digital/images/student-comms-assets/NSSS-Western-Sydney-University-Results.pdf\
+\\pard\\tx566\\tx1133\\tx1700\\tx2267\\tx2834\\tx3401\\tx3968\\tx4535\\tx5102\\tx5669\\tx6236\\tx6803\\pardirnatural\\partightenfactor0\
+\\cf0 Sitemap: https://www.westernsydney.edu.au/sitemap-index.xml\}}
